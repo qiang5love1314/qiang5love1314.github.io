@@ -231,8 +231,15 @@ I am currently a Lecturer with the School of Software Engineering, <a href="http
  
 		<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 		<span id="busuanzi_container_site_pv" >You are the <span id="busuanzi_value_site_pv"></span> visitor. </span>
-
-		       
+    
+    <script type="text/javascript">
+      fetch('https://ip-geolocation.whoisxmlapi.com/api/v1?apiKey=at_XkwSzesA9nnzjLlH3peDzlHXXYIP6&ipAddress=8.8.8.8')
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('ip-address').innerHTML = data.location.country;
+      });
+    </script>
+		Your IP address is: <span id="ip-address"></span>       
 	   Copyright &copy; 2021, hosted on <a href="https://github.com/qiang5love1314">GitHub</a>, powered by Dr. Zhu <a href="https://github.com/qiang5love1314/qiang5love1314.github.io">[source]</a>
                </p>
           </div>
