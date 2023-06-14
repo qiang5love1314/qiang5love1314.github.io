@@ -239,10 +239,12 @@ I am currently a Lecturer with the School of Software Engineering, <a href="http
       fetch('https://ip-geolocation.whoisxmlapi.com/api/v1?apiKey=at_mloU7kp8JcYl2hjZa5vUviDXKTXFU')
       .then(response => response.json())
       .then(data => {
-        document.getElementById('ip-address').innerHTML = data.location.country;
+        document.getElementById('ip-address').innerHTML = data.location.country;      
+	document.getElementById('ip-lat').innerHTML = data.location.lat;
+	document.getElementById('ip-lng').innerHTML = data.location.lng;
       });
     </script>
-		and IP is: <span id="ip-address"></span>.       
+		and IP is: <span id="ip-address"></span>, [Latitude: <span id="ip-lat"></span>, Longitude: <span id="ip-lng"></span>].       
 	   Copyright &copy; 2021, hosted on <a href="https://github.com/qiang5love1314">GitHub</a>, powered by Dr. Zhu <a href="https://github.com/qiang5love1314/qiang5love1314.github.io">[source]</a>
                </p>
           </div>
