@@ -7,6 +7,19 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Floating RevolverMaps</title>
+    <style>
+        #floating-map {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: 220px;
+            height: 220px;
+            z-index: 1000;
+        }
+    </style>
   </head>
 
   <body>
@@ -29,7 +42,9 @@ layout: compress
 
     {% include scripts.html %}
 
+<div id="floating-map">
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=51fjdvc4agp&amp;s=220&amp;m=0&amp;v=false&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
+</div>
     
 <footer>
       <div class="row">
