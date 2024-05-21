@@ -1,0 +1,56 @@
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
+
+    {% include scripts.html %}
+  <footer>
+      <div class="row">
+        <div class="col-lg-12">
+             <p align="center">
+ Your are the <script type="text/javascript" src="//counter.websiteout.com/js/17/0/780/0"></script> visitor,
+  
+  <script type="text/javascript">
+    fetch('https://ip-geolocation.whoisxmlapi.com/api/v1?apiKey=at_mloU7kp8JcYl2hjZa5vUviDXKTXFU')
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('ip-address').innerHTML = data.location.country;      
+document.getElementById('ip-lat').innerHTML = data.location.lat;
+document.getElementById('ip-lng').innerHTML = data.location.lng;
+    });
+  </script>   
+and IP is: <span id="ip-address"></span>, Lat: <span id="ip-lat"></span>, Lng: <span id="ip-lng"></span>.
+   Copyright &copy; 2021, hosted on <a href="https://github.com/qiang5love1314">GitHub</a>, powered by Dr. Zhu <a href="https://github.com/qiang5love1314/qiang5love1314.github.io">[source]</a>
+             </p>
+        </div>
+        <!-- /.col-lg-12 -->
+      </div>
+      <!-- /.row -->
+<div style="display:none;"><script src="http://s22.cnzz.com/stat.php?id=5868355&web_id=5868355" language="JavaScript"></script></div> 
+  </footer>
+  </body>
+</html>
