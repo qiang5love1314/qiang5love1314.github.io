@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xiaoqiang Zhu"
 description              : "In the middle of difficulty lies opportunity. - Albert Einstein"
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "qiang5love1314/qiang5love1314.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaoqiang Zhu"
   avatar           : "images/myPhoto.jpeg"
-  bio              : "Beijing Jiaotong University"
+  bio              : "Lecturer, PhD, Beijing Jiaotong University"
   location         : "Beijing, China"
   employer         : # "Lecture"
   pubmed           : 
