@@ -30,7 +30,7 @@ I am committed to fostering collaboration and knowledge sharing within the acade
 - *2024.02*: 🎉🎉 I have been awarded a key project grant from the Shandong Academy of Sciences Open Project.
 - *2024.01*: 🎉🎉 I have received recognition in the Excellent Completion of the Ministry of Education's Teaching Reform Project, Rank 2.
 - *2023.12*: 🎉🎉 I have been awarded a grant under the National Postdoctoral Program for Innovative Talents.
-- *2023.9*: I am going to open sources of the activity recognition datasets, it includes running, jumping, walking, site down, pick up, etc. More than 10 different kinds of activities.
+- *2023.9*: I am going to open sources of the activity recognition datasets, it includes running, jumping, walking, sit down, pick up, etc. More than 10 different kinds of activities.
 - *2023.6*: I finished the first research at Beijing Jiaotong University, which fouses on the privacy protection.
 - *2023.3*: 🎉🎉 I have been selected for the Beijing Jiaotong University Youth Talent Cultivation Program, Class II.
 - *2023.2*: 🎉🎉 I started working at the School of Software Engineering, Beijing Jiaotong University, as the lecturer. I am looking forward to the future with great anticipation.
