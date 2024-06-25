@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🧑‍🏫  About me
-I received the Ph.D. degree in software engineering from Tianjin University, China, in 2022, and the M.S. degree in computer science from Dalian University of Technology, China, in 2018. I was the jointly doctoral student of ETH Zurich, Switzerland with CSC funding in 2021. 
+I received the Ph.D. degree in software engineering from Tianjin University, China, in 2022, and the M.S. degree in computer science from Dalian University of Technology, China, in 2018. I was a jointly doctoral student at ETH Zurich, Switzerland with CSC funding in 2021. 
 
 I am currently a Lecturer with the School of Software Engineering, <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University, China</a>. My primary research interests lie in the areas of Machine Learning, Privacy Protection, and the Internet of Things (IoT). Additionally, I engage in research related to Computer Vision, focusing on encryption algorithms based on chaos theory. My work is driven by a passion for leveraging artificial intelligence to address and solve real-world problems. 
 
@@ -26,19 +26,19 @@ I am committed to fostering collaboration and knowledge sharing within the acade
 # 🔥 News 
 - *2024.05*: I have supervised five groups of students on undergraduate innovation and entrepreneurship projects, covering areas such as signal prediction and sensing, behavior recognition, and cryptographic system design. 
 - *2024.04*: Submit a revised paper to IEEE TBD.
-- *2024.03*: 🎉🎉 Good news! Received the minior version from IEEE COMST.
+- *2024.03*: 🎉🎉 Good news! Received the minor version from IEEE COMST.
 - *2024.02*: 🎉🎉 I have been awarded a key project grant from the Shandong Academy of Sciences Open Project.
-- *2024.01*: 🎉🎉 I have received recognition in the Excellent Completion of the Ministry of Education's Teaching Reform Project, Rank 2.
+- *2024.01*: 🎉🎉 I have received recognition for the Excellent Completion of the Ministry of Education's Teaching Reform Project, Rank 2.
 - *2023.12*: 🎉🎉 I have been awarded a grant under the National Postdoctoral Program for Innovative Talents.
 - *2023.9*: I am going to open sources of the activity recognition datasets, it includes running, jumping, walking, sit down, pick up, etc. More than 10 different kinds of activities.
-- *2023.6*: I finished the first research at Beijing Jiaotong University, which fouses on the privacy protection.
+- *2023.6*: I finished the first research at Beijing Jiaotong University, which focuses on privacy protection.
 - *2023.3*: 🎉🎉 I have been selected for the Beijing Jiaotong University Youth Talent Cultivation Program, Class II.
-- *2023.2*: 🎉🎉 I started working at the School of Software Engineering, Beijing Jiaotong University, as the lecturer. I am looking forward to the future with great anticipation.
-- *2022.12*: 🎉🎉 I finished my phd thesis defense.
-- *2022.4*: I leaved the ETH Zurich. I would like to express my most sincere gratitude to the great support, understandings and involvements in the lab.
-- *2022.3*: I decide to make all the datasets and codes open sources of my phd research, hope they could be helpful for every one. You can find them at <a href="https://github.com/qiang5love1314"><font color="blue"> my Github</font></a>.
-- *2022.3*: 🎉🎉 Good news! My paper is accepted by IEEE TNSE.
-- *2021.11*: 🎉🎉 Good news! My paper is accepted by IEEE TMC.
+- *2023.2*: 🎉🎉 I started working as a lecturer at the School of Software Engineering, Beijing Jiaotong University. I am looking forward to the future with great anticipation.
+- *2022.12*: 🎉🎉 I finished my PhD thesis defense.
+- *2022.4*: I left the ETH Zurich. I want to express my most sincere gratitude for the great support, understanding, and involvement in the lab.
+- *2022.3*: I decided to make all the datasets and codes open sources of my PhD research, hope they could be helpful to everyone. You can find them at <a href="https://github.com/qiang5love1314"><font color="blue"> my Github</font></a>.
+- *2022.3*: 🎉🎉 Good news! My paper has been accepted by IEEE TNSE.
+- *2021.11*: 🎉🎉 Good news! My paper has been accepted by IEEE TMC.
 - *2021.4*: I got my work contract and was going to study at ETH Zurich for one year.
 
 # 📖 Educations
@@ -48,7 +48,7 @@ Ph. D., Software Engineering, <a href="http://www.tju.edu.cn/">Tianjin Universit
 - Thesis Title: "Lightweight Intelligent Indoor Localization Algorithm Based on CSI Fingerprint Signal"
 
 Jointly Doctoral Student, Computer Science, <a href="https://ethz.ch/en.html">ETH Zurich, Switzerland</a>, 04.2021 - 04.2022
-- The state-sponsored student with financial support by China Scholarship Council
+- The state-sponsored student with financial support from China Scholarship Council
 - Member of D-ITET Center for Integrated Systems Laboratory, supervised by Dr. Michele Magno and IEEE/ACM Fellow. Prof. Luca Benini
 - Project: "mmWave Sensors For Indoor Localization and Tracking"
 
@@ -78,7 +78,8 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 ## Under Review Papers
 1. <p> [1区, IF: 35.6] <b>X. Zhu</b>, J. Liu, L. Lu, et al. "Enabling Intelligent Connectivity: A Survey of Secure ISAC in 6G Networks", <b><i>IEEE COMST</i></b>, 2024, Minor Revision.</p>
 2. <p> [2区] <b>X. Zhu</b>, W. Qu, T. Qiu, et al. "Dynamic Radio Map Construction with Minimal Manual Intervention: A State Space Model-Based Approach with Imitation Learning". <b><i>IEEE TBD</i></b>, 2024, Major Revision.</p>
-3. <p> [2区] <b>X. Zhu</b>, J. Liu, D. Zhang, et al. "Enhancing Patient Privacy in IoT-Enabled Intelligent Medical Systems: A Deep and Broad Learning-Based Efficient Encryption Network", <b><i>IEEE MultiMedia</i></b>, 2023.</p>
+3. <p> [2区] <b>X. Zhu</b>, J. Liu, D. Zhang, et al. "Enhancing Patient Privacy in IoT-Enabled Intelligent Medical Systems: A Deep and Broad Learning-Based Efficient Encryption Network", <b><i>IEEE MultiMedia</i></b>, 2024.</p>
+4. <p> [1区] <b>X. Zhu</b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i>IEEE TCCN</i></b>, 2024.</p>
  
 ## Grant Patents
 1. <p><b>X. Zhu</b>, J. Liu, L. Lu. "A Path Planning Method for Constructing CSI Fingerprint Map Based on Reinforcement Learning", No. 202310874838.2, 2023.</p>
@@ -102,7 +103,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 
 # 💻 Academic Services
 ## Reviewer
-- IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Wireless Communications, IEEE Internet of Things Journal, IEEE Transactions on Communications, IEEE Transactions on Network Science and Engineering, IEEE MultiMedia, Information ciences, Nonlinear Dynamic, IET Signal Processing, Optics and Lasers in Engineering
+- IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Wireless Communications, IEEE Internet of Things Journal, IEEE Transactions on Communications, IEEE Transactions on Network Science and Engineering, IEEE MultiMedia, Information Sciences, Nonlinear Dynamic, IET Signal Processing, Optics and Lasers in Engineering
 - IEEE SmartIoT’ 2019‑2022, IEEE CSCWD’ 2020‑2021, IEEE IWQoS’ 2020
 
 ## PC Member and Session Chair
