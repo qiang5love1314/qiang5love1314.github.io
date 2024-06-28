@@ -24,6 +24,7 @@ I am currently a Lecturer with the School of Software Engineering, <a href="http
 I am committed to fostering collaboration and knowledge sharing within the academic community and beyond. By integrating interdisciplinary approaches, I strive to contribute to the evolution of intelligent systems and their applications in solving complex challenges.
 
 # 🔥 News 
+- *2024.06*: 🎉🎉 Good news! I have been awarded a grant under the National Postdoctoral Program.
 - *2024.05*: I have supervised five groups of students on undergraduate innovation and entrepreneurship projects, covering areas such as signal prediction and sensing, behavior recognition, and cryptographic system design. 
 - *2024.04*: Submit a revised paper to IEEE TBD.
 - *2024.03*: 🎉🎉 Good news! Received the minor version from IEEE COMST.
@@ -58,6 +59,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - Thesis Title: "Image Encryption Algorithm Based on Multiple Mixed Hash Functions"
 
 # 🎓 Fundings
+- 中国博士后基金面上项目，面向信道状态信息的轻量级智能通感一体化关键技术研究，8万，2024-2026，主持
 - 国家资助博士后研究人员计划，面向安全应用的智能通感一体化关键技术研究，No. GZC20230224，24万，2024-2025，主持
 - 山东省科学院开放课题重点项目，面向智能通感算融合网络的关键技术研究，No. 2023ZD039，10万，2024-2026，主持
 - 北京交通大学自然科学类人才基金项目，面向无线信号的智能感知鲁棒性与安全性研究，No. 2023XKRC016，20万，2023-2026，主持
