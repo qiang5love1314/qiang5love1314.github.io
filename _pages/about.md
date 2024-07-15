@@ -82,7 +82,8 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 2. <p> [2区] <b>X. Zhu</b>, W. Qu, T. Qiu, et al. "Dynamic Radio Map Construction with Minimal Manual Intervention: A State Space Model-Based Approach with Imitation Learning". <b><i>IEEE TBD</i></b>, 2024, Major Revision.</p>
 3. <p> [2区] <b>X. Zhu</b>, J. Liu, D. Zhang, et al. "Enhancing Patient Privacy in IoT-Enabled Intelligent Medical Systems: A Deep and Broad Learning-Based Efficient Encryption Network", <b><i>IEEE MultiMedia</i></b>, 2024.</p>
 4. <p> [1区] <b>X. Zhu</b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i>IEEE TCCN</i></b>, 2024.</p>
- 
+5. <p> [CCF C] S. Hu, C. Zhang, J. Liu, <b>X. Zhu*</b>, L. Li. "Proto-CSNet: A Prototype Network Model Integrating CNN and Self-Attention for Enhanced Human Activity Recognition", <b><i>The 20th International Conference on Mobility, Sensing and Networking</i></b>, 2024.</p>
+
 ## Grant Patents
 1. <p><b>X. Zhu</b>, J. Liu, L. Lu. "A Path Planning Method for Constructing CSI Fingerprint Map Based on Reinforcement Learning", No. 202310874838.2, 2023.</p>
 2. <p><b>X. Zhu</b>, J. Liu, D. Zhang. "An Intelligent Adaptive CSI Fingerprint Map Update Method Based on Imitation Learning", No. 202310775481.2, 2023.</p>
