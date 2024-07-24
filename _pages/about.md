@@ -23,7 +23,8 @@ I am currently a Lecturer with the School of Software Engineering, <a href="http
 
 I am committed to fostering collaboration and knowledge sharing within the academic community and beyond. By integrating interdisciplinary approaches, I strive to contribute to the evolution of intelligent systems and their applications in solving complex challenges.
 
-# 🔥 News 
+# 🔥 News
+- *2024.07*: 🎉🎉 Good news! My paper has been accepted by IEEE COMST, the highest impact factor (35.6) in all the IEEE journals.
 - *2024.06*: 🎉🎉 Good news! I have been awarded a grant under the National Postdoctoral Program.
 - *2024.05*: I have supervised five groups of students on undergraduate innovation and entrepreneurship projects, covering areas such as signal prediction and sensing, behavior recognition, and cryptographic system design. 
 - *2024.04*: Submit a revised paper to IEEE TBD.
@@ -31,16 +32,16 @@ I am committed to fostering collaboration and knowledge sharing within the acade
 - *2024.02*: 🎉🎉 I have been awarded a key project grant from the Shandong Academy of Sciences Open Project.
 - *2024.01*: 🎉🎉 I have received recognition for the Excellent Completion of the Ministry of Education's Teaching Reform Project, Rank 2.
 - *2023.12*: 🎉🎉 I have been awarded a grant under the National Postdoctoral Program for Innovative Talents.
-- *2023.9*: I am going to open sources of the activity recognition datasets, it includes running, jumping, walking, sit down, pick up, etc. More than 10 different kinds of activities.
-- *2023.6*: I finished the first research at Beijing Jiaotong University, which focuses on privacy protection.
-- *2023.3*: 🎉🎉 I have been selected for the Beijing Jiaotong University Youth Talent Cultivation Program, Class II.
-- *2023.2*: 🎉🎉 I started working as a lecturer at the School of Software Engineering, Beijing Jiaotong University. I am looking forward to the future with great anticipation.
+- *2023.09*: I am going to open sources of the activity recognition datasets, it includes running, jumping, walking, sit down, pick up, etc. More than 10 different kinds of activities.
+- *2023.06*: I finished the first research at Beijing Jiaotong University, which focuses on privacy protection.
+- *2023.03*: 🎉🎉 I have been selected for the Beijing Jiaotong University Youth Talent Cultivation Program, Class II.
+- *2023.02*: 🎉🎉 I started working as a lecturer at the School of Software Engineering, Beijing Jiaotong University. I am looking forward to the future with great anticipation.
 - *2022.12*: 🎉🎉 I finished my PhD thesis defense.
-- *2022.4*: I left the ETH Zurich. I want to express my most sincere gratitude for the great support, understanding, and involvement in the lab.
-- *2022.3*: I decided to make all the datasets and codes open sources of my PhD research, hope they could be helpful to everyone. You can find them at <a href="https://github.com/qiang5love1314"><font color="blue"> my Github</font></a>.
-- *2022.3*: 🎉🎉 Good news! My paper has been accepted by IEEE TNSE.
+- *2022.04*: I left the ETH Zurich. I want to express my most sincere gratitude for the great support, understanding, and involvement in the lab.
+- *2022.03*: I decided to make all the datasets and codes open sources of my PhD research, hope they could be helpful to everyone. You can find them at <a href="https://github.com/qiang5love1314"><font color="blue"> my Github</font></a>.
+- *2022.03*: 🎉🎉 Good news! My paper has been accepted by IEEE TNSE.
 - *2021.11*: 🎉🎉 Good news! My paper has been accepted by IEEE TMC.
-- *2021.4*: I got my work contract and was going to study at ETH Zurich for one year.
+- *2021.04*: I got my work contract and was going to study at ETH Zurich for one year.
 
 # 📖 Educations
 Ph. D., Software Engineering, <a href="http://www.tju.edu.cn/">Tianjin University, China</a>, 09.2018 - 12.2022
@@ -67,22 +68,23 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 # 📝 Publications 
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Published Papers
-1. <p> [CCF A] <b>X. Zhu</b>, T. Qiu, W. Qu, et al. "Path Planning for Adaptive CSI Map Construction with A3C in Dynamic Environments", <b><i>IEEE TMC</i></b>, 2023. 22(5): 2925-2937.</p>
-2. <p> [CCF A] <b>X. Zhu</b>, T. Qiu, W. Qu, et al. "BLS-Location: A Wireless Fingerprint Localization Algorithm Based on Broad Learning", <b><i>IEEE TMC</i></b>, 2023. 22(1): 115-128.</p>
-3. <p> [2区] <b>X. Zhu</b>, W. Qu, X. Zhou, et al. "Intelligent Fingerprint-based Localization Scheme using CSI Images for Internet of Things". <b><i>IEEE TNSE</i></b>, 2022, 9(4): 2378-2391.</p>
-4. <p> [1区, IF: 35.6] <b>X. Zhu</b>, W. Qu, T. Qiu, et al. "Indoor intelligent fingerprint‑based localization: Principles, approaches and challenges", <b><i>IEEE COMST</i></b>, 2020, 22(4): 2634‑2657.</p>
-5. <p> [2区] X. Wang, Y. Wang, <b>X. Zhu</b>, et al. "A novel chaotic algorithm for image encryption utilizing one-time pad based on pixel level and DNA level", <b><i>Opt Lasers Eng</i></b>, 2020, 125: 105851.</p>
-6. <p> [2区] X. Wang, Y. Wang, <b>X. Zhu</b>, et al. "Image encryption scheme based on Chaos and DNA plane operations", <b><i>Multimed Tools Appl</i></b>, 2019, 78(18): 26111‑26128.</p>
-7. <p> [2区] X. Wang, <b>X. Zhu</b>, X. Wu, et al. "Image encryption algorithm based on multiple mixed hash functions and cyclic shift", <b><i>Opt Lasers Eng</i></b>, 2018, 107: 370‑379.</p>
-8. <p> [2区] X. Wang, <b>X. Zhu</b>, Y. Zhang, et al. "An image encryption algorithm based on Josephus traversing and mixed chaotic map", <b><i>IEEE Access</i></b>, 2018, 6: 23733‑23746.</p>
-9. <p> [CCF A] 王春鹏, 王兴元, 张川, <b>朱晓强</b>, 夏之秋. "基于三元数极谐-Fourier矩和混沌映射的立体图像零水印算法",<b><i>中国科学：信息科学</i></b>, 2018, 1: 79‑99.</p>
+1. <p> [1区, IF: 35.6] <b>X. Zhu</b>, J. Liu, L. Lu, et al. "Enabling Intelligent Connectivity: A Survey of Secure ISAC in 6G Networks", <b><i>IEEE COMST</i></b>, 2024, 1-34, DOI: 10.1109/COMST.2024.3432871.</p>
+2. <p> [CCF A] <b>X. Zhu</b>, T. Qiu, W. Qu, et al. "Path Planning for Adaptive CSI Map Construction with A3C in Dynamic Environments", <b><i>IEEE TMC</i></b>, 2023. 22(5): 2925-2937.</p>
+3. <p> [CCF A] <b>X. Zhu</b>, T. Qiu, W. Qu, et al. "BLS-Location: A Wireless Fingerprint Localization Algorithm Based on Broad Learning", <b><i>IEEE TMC</i></b>, 2023. 22(1): 115-128.</p>
+4. <p> [2区] <b>X. Zhu</b>, W. Qu, X. Zhou, et al. "Intelligent Fingerprint-based Localization Scheme using CSI Images for Internet of Things". <b><i>IEEE TNSE</i></b>, 2022, 9(4): 2378-2391.</p>
+5. <p> [1区, IF: 35.6] <b>X. Zhu</b>, W. Qu, T. Qiu, et al. "Indoor intelligent fingerprint‑based localization: Principles, approaches and challenges", <b><i>IEEE COMST</i></b>, 2020, 22(4): 2634‑2657.</p>
+6. <p> [2区] X. Wang, Y. Wang, <b>X. Zhu</b>, et al. "A novel chaotic algorithm for image encryption utilizing one-time pad based on pixel level and DNA level", <b><i>Opt Lasers Eng</i></b>, 2020, 125: 105851.</p>
+7. <p> [2区] X. Wang, Y. Wang, <b>X. Zhu</b>, et al. "Image encryption scheme based on Chaos and DNA plane operations", <b><i>Multimed Tools Appl</i></b>, 2019, 78(18): 26111‑26128.</p>
+8. <p> [2区] X. Wang, <b>X. Zhu</b>, X. Wu, et al. "Image encryption algorithm based on multiple mixed hash functions and cyclic shift", <b><i>Opt Lasers Eng</i></b>, 2018, 107: 370‑379.</p>
+9. <p> [2区] X. Wang, <b>X. Zhu</b>, Y. Zhang, et al. "An image encryption algorithm based on Josephus traversing and mixed chaotic map", <b><i>IEEE Access</i></b>, 2018, 6: 23733‑23746.</p>
+10. <p> [CCF A] 王春鹏, 王兴元, 张川, <b>朱晓强</b>, 夏之秋. "基于三元数极谐-Fourier矩和混沌映射的立体图像零水印算法",<b><i>中国科学：信息科学</i></b>, 2018, 1: 79‑99.</p>
 
 ## Under Review Papers
-1. <p> [1区, IF: 35.6] <b>X. Zhu</b>, J. Liu, L. Lu, et al. "Enabling Intelligent Connectivity: A Survey of Secure ISAC in 6G Networks", <b><i>IEEE COMST</i></b>, 2024, Minor Revision.</p>
-2. <p> [2区] <b>X. Zhu</b>, W. Qu, T. Qiu, et al. "Dynamic Radio Map Construction with Minimal Manual Intervention: A State Space Model-Based Approach with Imitation Learning". <b><i>IEEE TBD</i></b>, 2024, Major Revision.</p>
-3. <p> [2区] <b>X. Zhu</b>, J. Liu, D. Zhang, et al. "Enhancing Patient Privacy in IoT-Enabled Intelligent Medical Systems: A Deep and Broad Learning-Based Efficient Encryption Network", <b><i>IEEE MultiMedia</i></b>, 2024.</p>
-4. <p> [1区] <b>X. Zhu</b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i>IEEE TCCN</i></b>, 2024.</p>
-5. <p> [CCF C] S. Hu, C. Zhang, J. Liu, <b>X. Zhu*</b>, L. Li. "Proto-CSNet: A Prototype Network Model Integrating CNN and Self-Attention for Enhanced Human Activity Recognition", <b><i>The 20th International Conference on Mobility, Sensing and Networking</i></b>, 2024.</p>
+1. <p> [2区] <b>X. Zhu</b>, W. Qu, T. Qiu, et al. "Dynamic Radio Map Construction with Minimal Manual Intervention: A State Space Model-Based Approach with Imitation Learning". <b><i>IEEE TBD</i></b>, 2024, Major Revision.</p>
+2. <p> [2区] <b>X. Zhu</b>, J. Liu, D. Zhang, et al. "Enhancing Patient Privacy in IoT-Enabled Intelligent Medical Systems: A Deep and Broad Learning-Based Efficient Encryption Network", <b><i>IEEE MultiMedia</i></b>, 2024.</p>
+3. <p> [1区] <b>X. Zhu</b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i>IEEE TCCN</i></b>, 2024.</p>
+4. <p> [CCF C] S. Hu, C. Zhang, J. Liu, <b>X. Zhu*</b>, L. Li. "Proto-CSNet: A Prototype Network Model Integrating CNN and Self-Attention for Enhanced Human Activity Recognition", <b><i>The 20th International Conference on Mobility, Sensing and Networking</i></b>, 2024.</p>
+5. <p> [CCF C] M. Zhang, L. Lu, <b>X. Zhu*</b>, L. Li, R. Gao. "DBLG: An Innovative Deep-Broad Learning and GAN Framework for CSI Fingerprint Database Refinement", <b><i>The 20th International Conference on Mobility, Sensing and Networking</i></b>, 2024.</p>
 
 ## Grant Patents
 1. <p><b>X. Zhu</b>, J. Liu, L. Lu. "A Path Planning Method for Constructing CSI Fingerprint Map Based on Reinforcement Learning", No. 202310874838.2, 2023.</p>
