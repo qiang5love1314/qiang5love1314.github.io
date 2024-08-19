@@ -3,6 +3,28 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+layout: default
+title: news
+news:
+- "2024.07: 🎉🎉 Good news! My paper has been accepted by IEEE COMST, the highest impact factor (35.6) in all the IEEE journals."
+- "2024.06: 🎉🎉 Good news! I have been awarded a grant under the National Postdoctoral Program."
+- "2024.05: I have supervised five groups of students on undergraduate innovation and entrepreneurship projects, covering areas such as signal prediction and sensing, behavior recognition, and cryptographic system design."
+- "2024.04: Submit a revised paper to IEEE TBD."
+- "2024.03: 🎉🎉 Good news! Received the minor version from IEEE COMST."
+- "2024.02: 🎉🎉 I have been awarded a key project grant from the Shandong Academy of Sciences Open Project."
+- "2024.01: 🎉🎉 I have received recognition for the Excellent Completion of the Ministry of Education's Teaching Reform Project, Rank 2."
+- "2023.12: 🎉🎉 I have been awarded a grant under the National Postdoctoral Program for Innovative Talents."
+- "2023.09: I am going to open sources of the activity recognition datasets, it includes running, jumping, walking, sit down, pick up, etc. More than 10 different kinds of activities."
+- "2023.06: I finished the first research at Beijing Jiaotong University, which focuses on privacy protection."
+- "2023.03: 🎉🎉 I have been selected for the Beijing Jiaotong University Youth Talent Cultivation Program, Class II."
+- "2023.02: 🎉🎉 I started working as a lecturer at the School of Software Engineering, Beijing Jiaotong University. I am looking forward to the future with great anticipation."
+- "2022.12: 🎉🎉 I finished my PhD thesis defense."
+- "2022.04: I left the ETH Zurich. I want to express my most sincere gratitude for the great support, understanding, and involvement in the lab."
+- "2022.03: I decided to make all the datasets and codes open sources of my PhD research, I hope they could be helpful to everyone. You can find them at <a href=\"https://github.com/qiang5love1314\"><font color=\"blue\"> my Github</font></a>."
+- "2022.03: 🎉🎉 Good news! My paper has been accepted by IEEE TNSE."
+- "2021.11: 🎉🎉 Good news! My paper has been accepted by IEEE TMC."
+- "2021.04: I got my work contract and was going to study at ETH Zurich for one year."
+
 redirect_from: 
   - /about/
   - /about.html
@@ -24,24 +46,31 @@ I am currently a Lecturer with the School of Software Engineering, <a href="http
 I am committed to fostering collaboration and knowledge sharing within the academic community and beyond. By integrating interdisciplinary approaches, I strive to contribute to the evolution of intelligent systems and their applications in solving complex challenges.
 
 # 🔥 News
-- *2024.07*: 🎉🎉 Good news! My paper has been accepted by IEEE COMST, the highest impact factor (35.6) in all the IEEE journals.
-- *2024.06*: 🎉🎉 Good news! I have been awarded a grant under the National Postdoctoral Program.
-- *2024.05*: I have supervised five groups of students on undergraduate innovation and entrepreneurship projects, covering areas such as signal prediction and sensing, behavior recognition, and cryptographic system design. 
-- *2024.04*: Submit a revised paper to IEEE TBD.
-- *2024.03*: 🎉🎉 Good news! Received the minor version from IEEE COMST.
-- *2024.02*: 🎉🎉 I have been awarded a key project grant from the Shandong Academy of Sciences Open Project.
-- *2024.01*: 🎉🎉 I have received recognition for the Excellent Completion of the Ministry of Education's Teaching Reform Project, Rank 2.
-- *2023.12*: 🎉🎉 I have been awarded a grant under the National Postdoctoral Program for Innovative Talents.
-- *2023.09*: I am going to open sources of the activity recognition datasets, it includes running, jumping, walking, sit down, pick up, etc. More than 10 different kinds of activities.
-- *2023.06*: I finished the first research at Beijing Jiaotong University, which focuses on privacy protection.
-- *2023.03*: 🎉🎉 I have been selected for the Beijing Jiaotong University Youth Talent Cultivation Program, Class II.
-- *2023.02*: 🎉🎉 I started working as a lecturer at the School of Software Engineering, Beijing Jiaotong University. I am looking forward to the future with great anticipation.
-- *2022.12*: 🎉🎉 I finished my PhD thesis defense.
-- *2022.04*: I left the ETH Zurich. I want to express my most sincere gratitude for the great support, understanding, and involvement in the lab.
-- *2022.03*: I decided to make all the datasets and codes open sources of my PhD research, hope they could be helpful to everyone. You can find them at <a href="https://github.com/qiang5love1314"><font color="blue"> my Github</font></a>.
-- *2022.03*: 🎉🎉 Good news! My paper has been accepted by IEEE TNSE.
-- *2021.11*: 🎉🎉 Good news! My paper has been accepted by IEEE TMC.
-- *2021.04*: I got my work contract and was going to study at ETH Zurich for one year.
+<ul>
+  {% for item in page.news limit:10 %}
+  <li>{{ item }}</li>
+  {% endfor %}
+</ul>
+
+<button onclick="toggleNews()" style="background-color: #6C757D; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Show more news</button>
+
+
+<ul id="more-news" style="display:none;">
+  {% for item in page.news offset:10 %}
+  <li>{{ item }}</li>
+  {% endfor %}
+</ul>
+
+<script>
+function toggleNews() {
+  var moreNews = document.getElementById("more-news");
+  if (moreNews.style.display === "none") {
+    moreNews.style.display = "block";
+  } else {
+    moreNews.style.display = "none";
+  }
+}
+</script>
 
 # 📖 Educations
 Ph. D., Software Engineering, <a href="http://www.tju.edu.cn/">Tianjin University, China</a>, 09.2018 - 12.2022
