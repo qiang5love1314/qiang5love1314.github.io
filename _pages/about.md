@@ -6,6 +6,7 @@ author_profile: true
 layout: default
 title: news
 news:
+- "2024.08: 🎉🎉 Good news! I have been awarded a grant under the National Natural Science Foundation of China, Youth Program."
 - "2024.07: 🎉🎉 Good news! My paper has been accepted by IEEE COMST, the highest impact factor (35.6) in all the IEEE journals."
 - "2024.06: 🎉🎉 Good news! I have been awarded a grant under the National Postdoctoral Program."
 - "2024.05: I have supervised five groups of students on undergraduate innovation and entrepreneurship projects, covering areas such as signal prediction and sensing, behavior recognition, and cryptographic system design."
@@ -89,6 +90,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - Thesis Title: "Image Encryption Algorithm Based on Multiple Mixed Hash Functions"
 
 # 🎓 Fundings
+- 国家自然科学基金-青年科学基金项目，基于生成式网络的智能信道状态信息通感模型研究，NO. 62401037，30万，2025-2027，主持
 - 中国博士后基金面上项目，面向信道状态信息的轻量级智能通感一体化关键技术研究，No. 2024M750166，8万，2024-2026，主持
 - 国家资助博士后研究人员计划，面向安全应用的智能通感一体化关键技术研究，No. GZC20230224，24万，2024-2025，主持
 - 山东省科学院开放课题重点项目，面向智能通感算融合网络的关键技术研究，No. 2023ZD039，10万，2024-2026，主持
