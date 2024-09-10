@@ -118,12 +118,14 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 5. <p> [CCF C] M. Zhang, L. Lu, <b>X. Zhu*</b>, L. Li, R. Gao. "DBLG: An Innovative Deep-Broad Learning and GAN Framework for CSI Fingerprint Database Refinement", <b><i>The 20th International Conference on Mobility, Sensing and Networking</i></b>, 2024.</p>
 
 ## Grant Patents
-1. <p><b>X. Zhu</b>, J. Liu, L. Lu. "A Path Planning Method for Constructing CSI Fingerprint Map Based on Reinforcement Learning", No. 202310874838.2, 2023.</p>
-2. <p><b>X. Zhu</b>, J. Liu, D. Zhang. "An Intelligent Adaptive CSI Fingerprint Map Update Method Based on Imitation Learning", No. 202310775481.2, 2023.</p>
-3. <p> T. Qiu, <b>X. Zhu</b>, W. Qu. "An Incremental Intelligent Indoor Location Method Based on CSI Image", No. CN113691940A, 2022.09.27.</p>
-4. <p> T. Qiu, <b>X. Zhu</b>, W. Qu. "An Efficient Indoor Fingerprint Location Method Based on Broad Learning", No. CN111929641A, 2022.08.09</p>
-5. <p> T. Qiu, H. Huang, X. Zhou, C. Zhang, <b>X. Zhu</b>. "Heart Rate Monitoring and Respiratory Event Detection Method Based on Channel State Information", No. 202210661544.</p>
-6. <p> T. Qiu, C. Wu, L. Zhao, K. Li, <b>X. Zhu</b>. "A Fast And High-precision Indoor Fingerprint Location Method based on Ensemble Broad Learning", No. 202110866814.</p>
+1. <p><b>朱晓强</b>, 胡思宇, 刘吉强, 等. "一种基于融合注意力机制原型神经网络的人体行为识别方法", 2024.</p>
+2. <p><b>朱晓强</b>, 张明博, 鲁凌云, 等. "一种基于深度与宽度学习的CSI指纹数据库优化方法", 2024.</p>
+3. <p><b>朱晓强</b>, 刘吉强, 鲁凌云, 等. "一种基于强化学习的CSI指纹地图构建的路径规划方法", No. 202310874838.2, 2023.</p>
+4. <p><b>朱晓强</b>, 刘吉强, 张大林, 等. "一种基于模仿学习的智能自适应CSI指纹地图更新方法", No. 202310775481.2, 2023.</p>
+5. <p> 邱铁, <b>朱晓强</b>, 曲雯毓. "一种基于CSI图像的增量式智能室内定位方法", No. CN113691940A, 2022.09.27.</p>
+6. <p> 邱铁, <b>朱晓强</b>, 曲雯毓. "一种基于宽度学习的快速室内指纹定位方法", No. CN111929641A, 2022.08.09</p>
+7. <p> 邱铁, 黄慧娟, 周晓波, 张朝昆, <b>朱晓强</b>. "基于信道状态信息的心率监测方法及呼吸事件检测方法", No. 202210661544.</p>
+8. <p> 邱铁, 吴琛, 赵来平, 李克秋, <b>朱晓强</b>. "一种基于集成宽度学习的快速高精度室内指纹定位方法", No. 202110866814.</p>
 
 # 🎖 Honors and Awards
 - *2023* National Funding Postdoctoral Researcher Program, China Postdoctoral Science Foundation
@@ -134,13 +136,16 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - *2019* 1st Award Postgraduate Scholarship, Tianjin University
 - *2018* Outstanding Postgraduate Student, Dalian University of Technology
 - *2017* 1st Award Postgraduate Scholarship, Dalian University of Technology
-- *2016*  Outstanding Postgraduate Student, Education fund item of Liaoning province
+- *2016* Outstanding Postgraduate Student, Education fund item of Liaoning province
 - *2015* National Inspirational Scholarship, Ministry of Education of the People’s Republic of China
 
 # 💻 Academic Services
+## Guest Editor
+- Journal on Wireless Communications and Networking, Special Issue: Integrating Large Models and Edge Sensing in Next Generation Networks.
+
 ## Reviewer
 - IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Wireless Communications, IEEE Internet of Things Journal, IEEE Transactions on Communications, IEEE Transactions on Network Science and Engineering, IEEE MultiMedia, Information Sciences, Nonlinear Dynamic, IET Signal Processing, Optics and Lasers in Engineering
-- IEEE SmartIoT’ 2019‑2022, IEEE CSCWD’ 2020‑2021, IEEE IWQoS’ 2020
+- IEEE SmartIoT’ 2019‑2022, IEEE CSCWD’ 2020‑2021, IEEE IWQoS’ 2020, IEEE iThings' 2023.
 
 ## PC Member and Session Chair
 - IEEE CSCWD 2020, IEEE SmartIoT 2019
