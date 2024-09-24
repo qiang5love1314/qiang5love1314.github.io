@@ -157,6 +157,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - Data Structure, M310002B
 - Professional Course Comprehensive Practical Training I, P210001B
 - Cloud Computing and Big Data Platform Analysis, M510014B
+- Software Testing, M310007B
 
 # 🧑‍💻 Students
 - 张明博 (2023级硕)
