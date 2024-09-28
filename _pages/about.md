@@ -112,8 +112,8 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 
 ## Under Review Papers
 1. <p> [2区] <b>X. Zhu</b>, W. Qu, T. Qiu, et al. "Dynamic Radio Map Construction with Minimal Manual Intervention: A State Space Model-Based Approach with Imitation Learning", <b><i>IEEE TBD</i></b>, 2024, Major Revision.</p>
-2. <p> [2区] <b>X. Zhu</b>, J. Liu, D. Zhang, et al. "Enhancing Patient Privacy in IoT-Enabled Intelligent Medical Systems: A Deep and Broad Learning-Based Efficient Encryption Network", <b><i>IEEE MultiMedia</i></b>, 2024.</p>
-3. <p> [1区] <b>X. Zhu</b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i>IEEE TCCN</i></b>, 2024.</p>
+2. <p> [2区] <b>X. Zhu</b>, J. Liu, D. Zhang, et al. "Enhancing Patient Privacy in IoT-Enabled Intelligent Medical Systems: A Deep and Broad Learning-Based Efficient Encryption Network", <b><i>IEEE SmartIoT</i></b>, 2024.</p>
+3. <p> [1区] <b>X. Zhu</b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i>IEEE TCCN</i></b>, 2024, Major Revision.</p>
 4. <p> [CCF C] S. Hu, C. Zhang, J. Liu, <b>X. Zhu*</b>, L. Li. "Proto-CSNet: A Prototype Network Model Integrating CNN and Self-Attention for Enhanced Human Activity Recognition", <b><i>IEEE MSN</i></b>, 2024.</p>
 5. <p> [CCF C] M. Zhang, L. Lu, <b>X. Zhu*</b>, L. Li, R. Gao. "DBLG: An Innovative Deep-Broad Learning and GAN Framework for CSI Fingerprint Database Refinement", <b><i>IEEE MSN</i></b>, 2024.</p>
 6. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE WCNC</i></b>, 2024.</p>
