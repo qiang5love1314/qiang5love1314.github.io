@@ -6,6 +6,7 @@ author_profile: true
 layout: default
 title: news
 news:
+- "2024.10: 🎉🎉 Good news! One of our team's papers has been accepted by IEEE SmartIoT, and two papers have been accepted by IEEE MSN (CCF C)."
 - "2024.08: 🎉🎉 Good news! I have been awarded a grant under the National Natural Science Foundation of China, Youth Program."
 - "2024.07: 🎉🎉 Good news! My paper has been accepted by IEEE COMST, the highest impact factor (35.6) in all the IEEE journals."
 - "2024.06: 🎉🎉 Good news! I have been awarded a grant under the National Postdoctoral Program."
