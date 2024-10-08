@@ -43,7 +43,7 @@ redirect_from:
 # 🧑‍🏫  About me
 I received the Ph.D. degree in software engineering from Tianjin University, China, in 2022, and the M.S. degree in computer science from Dalian University of Technology, China, in 2018. I was a jointly doctoral student at ETH Zurich, Switzerland with CSC funding in 2021. 
 
-I am currently a Lecturer with the School of Software Engineering, <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University, China</a>. My primary research interests lie in the areas of Machine Learning, Privacy Protection, and the Internet of Things (IoT). Additionally, I engage in research related to Computer Vision, focusing on encryption algorithms based on chaos theory. My work is driven by a passion for leveraging artificial intelligence to address and solve real-world problems. 
+I am currently a Lecturer with the School of Cyberspace Science and Technology, <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University, China</a>. My primary research interests lie in the areas of Machine Learning, Privacy Protection, and the Internet of Things (IoT). Additionally, I engage in research related to Computer Vision, focusing on encryption algorithms based on chaos theory. My work is driven by a passion for leveraging artificial intelligence to address and solve real-world problems. 
 
 I am committed to fostering collaboration and knowledge sharing within the academic community and beyond. By integrating interdisciplinary approaches, I strive to contribute to the evolution of intelligent systems and their applications in solving complex challenges.
 
