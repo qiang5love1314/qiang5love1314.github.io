@@ -6,6 +6,7 @@ author_profile: true
 layout: default
 title: news
 news:
+- "2024.10: I have been exceptionally selected as a master's supervisor."
 - "2024.10: 🎉🎉 Good news! One of our team's papers has been accepted by IEEE SmartIoT, and two papers have been accepted by IEEE MSN (CCF C)."
 - "2024.08: 🎉🎉 Good news! I have been awarded a grant under the National Natural Science Foundation of China, Youth Program."
 - "2024.07: 🎉🎉 Good news! My paper has been accepted by IEEE COMST, the highest impact factor (35.6) in all the IEEE journals."
@@ -113,7 +114,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 
 ## Under Review Papers
 1. <p> [2区] <b>X. Zhu</b>, W. Qu, T. Qiu, et al. "Dynamic Radio Map Construction with Minimal Manual Intervention: A State Space Model-Based Approach with Imitation Learning", <b><i>IEEE TBD</i></b>, 2024, Major Revision.</p>
-2. <p> [2区] <b>X. Zhu</b>, J. Liu, D. Zhang, et al. "Enhancing Patient Privacy in IoT-Enabled Intelligent Medical Systems: A Deep and Broad Learning-Based Efficient Encryption Network", <b><i>IEEE SmartIoT</i></b>, 2024.</p>
+2. <p> <b>X. Zhu</b>, J. Liu, D. Zhang, et al. "Enhancing Patient Privacy in IoT-Enabled Intelligent Medical Systems: A Deep and Broad Learning-Based Efficient Encryption Network", <b><i>IEEE SmartIoT</i></b>, 2024.</p>
 3. <p> [1区] <b>X. Zhu</b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i>IEEE TCCN</i></b>, 2024, Major Revision.</p>
 4. <p> [CCF C] S. Hu, C. Zhang, J. Liu, <b>X. Zhu*</b>, L. Li. "Proto-CSNet: A Prototype Network Model Integrating CNN and Self-Attention for Enhanced Human Activity Recognition", <b><i>IEEE MSN</i></b>, 2024.</p>
 5. <p> [CCF C] M. Zhang, L. Lu, <b>X. Zhu*</b>, L. Li, R. Gao. "DBLG: An Innovative Deep-Broad Learning and GAN Framework for CSI Fingerprint Database Refinement", <b><i>IEEE MSN</i></b>, 2024.</p>
