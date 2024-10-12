@@ -101,26 +101,26 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 # 📝 Publications 
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Published Papers
-1. <p> [1区, IF: 35.6] <b>X. Zhu</b>, J. Liu, L. Lu, et al. "Enabling Intelligent Connectivity: A Survey of Secure ISAC in 6G Networks", <b><i>IEEE COMST</i></b>, 2024, 1-34, DOI: 10.1109/COMST.2024.3432871.</p>
-2. <p> [CCF A] <b>X. Zhu</b>, T. Qiu, W. Qu, et al. "Path Planning for Adaptive CSI Map Construction with A3C in Dynamic Environments", <b><i>IEEE TMC</i></b>, 2023. 22(5): 2925-2937.</p>
-3. <p> [CCF A] <b>X. Zhu</b>, T. Qiu, W. Qu, et al. "BLS-Location: A Wireless Fingerprint Localization Algorithm Based on Broad Learning", <b><i>IEEE TMC</i></b>, 2023. 22(1): 115-128.</p>
-4. <p> [2区] <b>X. Zhu</b>, W. Qu, X. Zhou, et al. "Intelligent Fingerprint-based Localization Scheme using CSI Images for Internet of Things". <b><i>IEEE TNSE</i></b>, 2022, 9(4): 2378-2391.</p>
-5. <p> [1区, IF: 35.6] <b>X. Zhu</b>, W. Qu, T. Qiu, et al. "Indoor intelligent fingerprint‑based localization: Principles, approaches and challenges", <b><i>IEEE COMST</i></b>, 2020, 22(4): 2634‑2657.</p>
-6. <p> [2区] X. Wang, Y. Wang, <b>X. Zhu</b>, et al. "A novel chaotic algorithm for image encryption utilizing one-time pad based on pixel level and DNA level", <b><i>Opt Lasers Eng</i></b>, 2020, 125: 105851.</p>
-7. <p> [2区] X. Wang, Y. Wang, <b>X. Zhu</b>, et al. "Image encryption scheme based on Chaos and DNA plane operations", <b><i>Multimed Tools Appl</i></b>, 2019, 78(18): 26111‑26128.</p>
-8. <p> [2区] X. Wang, <b>X. Zhu</b>, X. Wu, et al. "Image encryption algorithm based on multiple mixed hash functions and cyclic shift", <b><i>Opt Lasers Eng</i></b>, 2018, 107: 370‑379.</p>
-9. <p> [2区] X. Wang, <b>X. Zhu</b>, Y. Zhang, et al. "An image encryption algorithm based on Josephus traversing and mixed chaotic map", <b><i>IEEE Access</i></b>, 2018, 6: 23733‑23746.</p>
-10. <p> [CCF A] 王春鹏, 王兴元, 张川, <b>朱晓强</b>, 夏之秋. "基于三元数极谐-Fourier矩和混沌映射的立体图像零水印算法",<b><i>中国科学：信息科学</i></b>, 2018, 1: 79‑99.</p>
+1. <p> [CCF C] S. Hu, C. Zhang, J. Liu, <b>X. Zhu*</b>, L. Li. "Proto-CSNet: A Prototype Network Model Integrating CNN and Self-Attention for Enhanced Human Activity Recognition", <b><i>IEEE MSN</i></b>, 2024. Accept</p>
+2. <p> [CCF C] M. Zhang, L. Lu, <b>X. Zhu*</b>, L. Li, R. Gao. "DBLG: An Innovative Deep-Broad Learning and GAN Framework for CSI Fingerprint Database Refinement", <b><i>IEEE MSN</i></b>, 2024. Accept</p>
+3. <p> <b>X. Zhu</b>, J. Liu, D. Zhang, et al. "Enhancing Patient Privacy in IoT-Enabled Intelligent Medical Systems: A Deep and Broad Learning-Based Efficient Encryption Network", <b><i>IEEE SmartIoT</i></b>, 2024. Accept</p>
+4. <p> [1区, IF: 35.6] <b>X. Zhu</b>, J. Liu, L. Lu, et al. "Enabling Intelligent Connectivity: A Survey of Secure ISAC in 6G Networks", <b><i>IEEE COMST</i></b>, 2024, 1-34, DOI: 10.1109/COMST.2024.3432871.</p>
+5. <p> [CCF A] <b>X. Zhu</b>, T. Qiu, W. Qu, et al. "Path Planning for Adaptive CSI Map Construction with A3C in Dynamic Environments", <b><i>IEEE TMC</i></b>, 2023. 22(5): 2925-2937.</p>
+6. <p> [CCF A] <b>X. Zhu</b>, T. Qiu, W. Qu, et al. "BLS-Location: A Wireless Fingerprint Localization Algorithm Based on Broad Learning", <b><i>IEEE TMC</i></b>, 2023. 22(1): 115-128.</p>
+7. <p> [2区] <b>X. Zhu</b>, W. Qu, X. Zhou, et al. "Intelligent Fingerprint-based Localization Scheme using CSI Images for Internet of Things". <b><i>IEEE TNSE</i></b>, 2022, 9(4): 2378-2391.</p>
+8. <p> [1区, IF: 35.6] <b>X. Zhu</b>, W. Qu, T. Qiu, et al. "Indoor intelligent fingerprint‑based localization: Principles, approaches and challenges", <b><i>IEEE COMST</i></b>, 2020, 22(4): 2634‑2657.</p>
+9. <p> [2区] X. Wang, Y. Wang, <b>X. Zhu</b>, et al. "A novel chaotic algorithm for image encryption utilizing one-time pad based on pixel level and DNA level", <b><i>Opt Lasers Eng</i></b>, 2020, 125: 105851.</p>
+10. <p> [2区] X. Wang, Y. Wang, <b>X. Zhu</b>, et al. "Image encryption scheme based on Chaos and DNA plane operations", <b><i>Multimed Tools Appl</i></b>, 2019, 78(18): 26111‑26128.</p>
+11. <p> [2区] X. Wang, <b>X. Zhu</b>, X. Wu, et al. "Image encryption algorithm based on multiple mixed hash functions and cyclic shift", <b><i>Opt Lasers Eng</i></b>, 2018, 107: 370‑379.</p>
+12. <p> [2区] X. Wang, <b>X. Zhu</b>, Y. Zhang, et al. "An image encryption algorithm based on Josephus traversing and mixed chaotic map", <b><i>IEEE Access</i></b>, 2018, 6: 23733‑23746.</p>
+13. <p> [CCF A] 王春鹏, 王兴元, 张川, <b>朱晓强</b>, 夏之秋. "基于三元数极谐-Fourier矩和混沌映射的立体图像零水印算法",<b><i>中国科学：信息科学</i></b>, 2018, 1: 79‑99.</p>
 
 ## Under Review Papers
 1. <p> [2区] <b>X. Zhu</b>, W. Qu, T. Qiu, et al. "Dynamic Radio Map Construction with Minimal Manual Intervention: A State Space Model-Based Approach with Imitation Learning", <b><i>IEEE TBD</i></b>, 2024, Major Revision.</p>
-2. <p> <b>X. Zhu</b>, J. Liu, D. Zhang, et al. "Enhancing Patient Privacy in IoT-Enabled Intelligent Medical Systems: A Deep and Broad Learning-Based Efficient Encryption Network", <b><i>IEEE SmartIoT</i></b>, 2024.</p>
-3. <p> [1区] <b>X. Zhu</b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i>IEEE TCCN</i></b>, 2024, Major Revision.</p>
-4. <p> [CCF C] S. Hu, C. Zhang, J. Liu, <b>X. Zhu*</b>, L. Li. "Proto-CSNet: A Prototype Network Model Integrating CNN and Self-Attention for Enhanced Human Activity Recognition", <b><i>IEEE MSN</i></b>, 2024.</p>
-5. <p> [CCF C] M. Zhang, L. Lu, <b>X. Zhu*</b>, L. Li, R. Gao. "DBLG: An Innovative Deep-Broad Learning and GAN Framework for CSI Fingerprint Database Refinement", <b><i>IEEE MSN</i></b>, 2024.</p>
-6. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE WCNC</i></b>, 2024.</p>
-7. <p> [CCF A] R. Gao, Z. Xie, H. Zhao, <b>X. Zhu*</b>, et al. "Energy-Efficient Transmission Scheduling with Guaranteed Data Imputation in MHealth Systems", <b><i>IEEE ToN</i></b>, 2024.</p>
-8. <p> [CCF A] 张皓文, <b>朱晓强*</b>, 张焘, 等. "CreChain实现IIoT高效安全交易：一种基于信用机制的分布式账本模型", <b><i>中国科学：信息科学</i></b>, 2024.</p>
+2. <p> [1区] <b>X. Zhu</b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i>IEEE TCCN</i></b>, 2024, Major Revision.</p>
+3. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE WCNC</i></b>, 2024.</p>
+4. <p> [CCF A] R. Gao, Z. Xie, H. Zhao, <b>X. Zhu*</b>, et al. "Energy-Efficient Transmission Scheduling with Guaranteed Data Imputation in MHealth Systems", <b><i>IEEE ToN</i></b>, 2024.</p>
+5. <p> [CCF A] 张皓文, <b>朱晓强*</b>, 张焘, 等. "CreChain实现IIoT高效安全交易：一种基于信用机制的分布式账本模型", <b><i>中国科学：信息科学</i></b>, 2024.</p>
 
 ## Grant Patents
 1. <p><b>朱晓强</b>, 胡思宇, 刘吉强, 等. "一种基于融合注意力机制原型神经网络的人体行为识别方法", 2024.</p>
