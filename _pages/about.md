@@ -44,7 +44,7 @@ redirect_from:
 # 🧑‍🏫  About me
 I received the Ph.D. degree in software engineering from Tianjin University, China, in 2022, and the M.S. degree in computer science from Dalian University of Technology, China, in 2018. I was a jointly doctoral student at ETH Zurich, Switzerland with CSC funding in 2021. 
 
-I am currently a Lecturer with the School of Cyberspace Science and Technology, <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University, China</a>. My primary research interests lie in the areas of Machine Learning, Privacy Protection, and the Internet of Things (IoT). Additionally, I engage in research related to Computer Vision, focusing on encryption algorithms based on chaos theory. My work is driven by a passion for leveraging artificial intelligence to address and solve real-world problems. 
+I am currently a Lecturer with the School of Cyberspace Science and Technology, <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University, China</a>. My primary research interests lie in Machine Learning, Privacy Protection, and the Internet of Things (IoT). Additionally, I engage in research related to Computer Vision, focusing on encryption algorithms based on chaos theory. My passion for leveraging artificial intelligence to address and solve real-world problems drives my work. 
 
 I am committed to fostering collaboration and knowledge sharing within the academic community and beyond. By integrating interdisciplinary approaches, I strive to contribute to the evolution of intelligent systems and their applications in solving complex challenges.
 
@@ -146,7 +146,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 
 # 💻 Academic Services
 ## Guest Editor
-- Journal on Wireless Communications and Networking, Special Issue: Integrating Large Models and Edge Sensing in Next Generation Networks.
+- Journal on Wireless Communications and Networking, <a href="https://www.springeropen.com/collections/imen?utm_medium=email&utm_source=generic&utm_content=null&utm_term=null&utm_campaign=APSR13638_CON1_GL_PHSS_03HEQ_fhdiacjebi">Special Issue: Integrating Large Models and Edge Sensing in Next Generation Networks.</a>
 
 ## Reviewer
 - IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking, IEEE Transactions on Wireless Communications, IEEE Internet of Things Journal, IEEE Transactions on Communications, IEEE Transactions on Network Science and Engineering, IEEE MultiMedia, Information Sciences, Nonlinear Dynamic, IET Signal Processing, Optics and Lasers in Engineering, The Journal of Supercomputing, Peer-to-Peer Networking and Applications, China Communications.
