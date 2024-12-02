@@ -117,10 +117,10 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 14. <p> [CCF A] 王春鹏, 王兴元, 张川, <b>朱晓强</b>, 夏之秋. "基于三元数极谐-Fourier矩和混沌映射的立体图像零水印算法",<b><i>中国科学：信息科学</i></b>, 2018, 1: 79‑99.</p>
 
 ## Under Review Papers
-1. <p> [1区] <b>X. Zhu</b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i>IEEE TCCN</i></b>, 2024, Major Revision.</p>
+1. <p> [1区] <b>X. Zhu</b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i>IEEE TCCN</i></b>, 2024, Minor Revision.</p>
 2. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE WCNC</i></b>, 2024.</p>
 3. <p> [CCF A] R. Gao, Z. Xie, H. Zhao, <b>X. Zhu*</b>, et al. "Energy-Efficient Transmission Scheduling with Guaranteed Data Imputation in MHealth Systems", <b><i>IEEE ToN</i></b>, 2024.</p>
-4. <p> [CCF A] 张皓文, <b>朱晓强*</b>, 张焘, 等. "CreChain实现IIoT高效安全交易：一种基于信用机制的分布式账本模型", <b><i>中国科学：信息科学</i></b>, 2024.</p>
+4. <p> [CCF A] 张皓文, <b>朱晓强*</b>, 张焘, 等. "CreChain实现IIoT高效安全交易：一种基于信用机制的分布式账本模型", <b><i>中国科学：信息科学</i></b>, 2024. 大修</p>
 
 ## Grant Patents
 1. <p><b>朱晓强</b>, 胡思宇, 刘吉强, 等. "一种基于融合注意力机制原型神经网络的人体行为识别方法", 2024.</p>
