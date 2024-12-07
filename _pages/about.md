@@ -102,7 +102,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 # 📝 Publications 
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Published Papers
-1. <p> [2区] R. Lin, B. Liu, Y. Cui, D. Liu, R. Gao, <b>X. Zhu</b>, J. Liu, L. Li. "LuminaLink: Enabling Low Cost Secure Visible Light Communication with Birefringence", <b><i>IEEE INFOCOM</i></b>, 2025, Accept</p>
+1. <p> [CCF A] R. Lin, B. Liu, Y. Cui, D. Liu, R. Gao, <b>X. Zhu</b>, J. Liu, L. Li. "LuminaLink: Enabling Low Cost Secure Visible Light Communication with Birefringence", <b><i>IEEE INFOCOM</i></b>, 2025, Accept</p>
 2. <p> [2区] <b>X. Zhu</b>, W. Qu, T. Qiu, et al. "Dynamic Radio Map Construction with Minimal Manual Intervention: A State Space Model-Based Approach with Imitation Learning", <b><i>IEEE TBD</i></b>, 2024, 1-13, DOI: 10.1109/TBDATA.2024.3489425</p>
 3. <p> [CCF C] S. Hu, C. Zhang, J. Liu, <b>X. Zhu*</b>, L. Li. "Proto-CSNet: A Prototype Network Model Integrating CNN and Self-Attention for Enhanced Human Activity Recognition", <b><i>IEEE MSN</i></b>, 2024. Accept</p>
 4. <p> [CCF C] M. Zhang, L. Lu, <b>X. Zhu*</b>, L. Li, R. Gao. "DBLG: An Innovative Deep-Broad Learning and GAN Framework for CSI Fingerprint Database Refinement", <b><i>IEEE MSN</i></b>, 2024. Accept</p>
@@ -164,17 +164,22 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - Software Testing, M310007B
 
 # 🧑‍💻 Students
-- 张明博 (2023级硕)
-- 胡思宇 (2023级硕)
-- 任城仪 (2023级硕)
-- 张皓文 (2023级硕)
-- 贾佩伦 (2023级本)
-- 徐涛   (2023级本)
-- 章步峰 (2023级本)
-- 汪雨辰 (2023级本)
-- 林彦孜 (2023级本)
-- 操安逸 (2023级本)
-- 余旺   (2022级本)
-- 何炫绮 (2022级本)
+## 2023级硕
+- 张明博
+- 胡思宇
+- 任城仪
+- 张皓文
+  
+## 2023级本
+- 贾佩伦
+- 徐涛
+- 章步峰
+- 汪雨辰
+- 林彦孜
+- 操安逸
+  
+## 2022级本
+- 余旺
+- 何炫绮
 
 <!-- # 💻 My blog -->
