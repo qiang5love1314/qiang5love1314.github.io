@@ -172,7 +172,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
   
 ## 2023级本
 - 贾佩伦
-- 徐涛
+- 徐滔
 - 章步峰
 - 汪雨辰
 - 林彦孜
