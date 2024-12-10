@@ -165,8 +165,8 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 
 # 🧑‍💻 Students
 ## 2023级硕
-- 张明博 （IEEE MSN * 1）
-- 胡思宇 （IEEE MSN * 1）
+- 张明博 （IEEE MSN * 1，专利* 1）
+- 胡思宇 （IEEE MSN * 1，专利* 1）
 - 任城仪
 - 张皓文 （中国科学：信息科学 * 1，大修）
   
