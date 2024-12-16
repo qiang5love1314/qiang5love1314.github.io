@@ -103,7 +103,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 # 📝 Publications 
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Published Papers
-1. <p> [1区] <b>X. Zhu</b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i>IEEE TCCN</i></b>, 2024, Accept.</p>
+1. <p> [1区] <b>X. Zhu</b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i><span style="color: red;">IEEE TCCN</span></i></b>, 2024, Accept.</p>
 2. <p> [1区] W. Feng, R. Zhang, Y. Zhu, C. Wang, C. Sun, <b>X. Zhu</b>, X. Li, T. Taleb. "Exploring Collaborative Diffusion Model Inferring for AIGC-enabled Edge Services", <b><i>IEEE TCCN</i></b>, 2024, 1-14, DOI: 10.1109/TCCN.2024.3519320.</p>
 3. <p> [CCF A] R. Lin, B. Liu, Y. Cui, D. Liu, R. Gao, <b>X. Zhu</b>, J. Liu, L. Li. "LuminaLink: Enabling Low Cost Secure Visible Light Communication with Birefringence", <b><i>IEEE INFOCOM</i></b>, 2025, Accept</p>
 4. <p> [2区] <b>X. Zhu</b>, W. Qu, T. Qiu, et al. "Dynamic Radio Map Construction with Minimal Manual Intervention: A State Space Model-Based Approach with Imitation Learning", <b><i>IEEE TBD</i></b>, 2024, 1-13, DOI: 10.1109/TBDATA.2024.3489425</p>
@@ -122,10 +122,9 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 17. <p> [CCF A] 王春鹏, 王兴元, 张川, <b>朱晓强</b>, 夏之秋. "基于三元数极谐-Fourier矩和混沌映射的立体图像零水印算法",<b><i>中国科学：信息科学</i></b>, 2018, 1: 79‑99.</p>
 
 ## Under Review Papers
-1. 
-2. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE WCNC</i></b>, 2024.</p>
-3. <p> [CCF A] R. Gao, Z. Xie, H. Zhao, <b>X. Zhu*</b>, et al. "Energy-Efficient Transmission Scheduling with Guaranteed Data Imputation in MHealth Systems", <b><i>IEEE ToN</i></b>, 2024.</p>
-4. <p> [CCF A] 张皓文, <b>朱晓强*</b>, 张焘, 等. "CreChain实现IIoT高效安全交易：一种基于信用机制的分布式账本模型", <b><i>中国科学：信息科学</i></b>, 2024. 大修</p>
+ 1. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE WCNC</i></b>, 2024.</p>
+2. <p> [CCF A] R. Gao, Z. Xie, H. Zhao, <b>X. Zhu*</b>, et al. "Energy-Efficient Transmission Scheduling with Guaranteed Data Imputation in MHealth Systems", <b><i>IEEE ToN</i></b>, 2024.</p>
+3. <p> [CCF A] 张皓文, <b>朱晓强*</b>, 张焘, 等. "CreChain实现IIoT高效安全交易：一种基于信用机制的分布式账本模型", <b><i>中国科学：信息科学</i></b>, 2024. 大修</p>
 
 ## Grant Patents
 1. <p><b>朱晓强</b>, 胡思宇, 刘吉强, 等. "一种基于融合注意力机制原型神经网络的人体行为识别方法", 2024.</p>
