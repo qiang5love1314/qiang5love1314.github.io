@@ -103,10 +103,10 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 # 📝 Publications 
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Published Papers
-1. <p> [1区] <b><span style="color: #4682b4;">X. Zhu</span></b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i><span style="color: #4682b4;">IEEE TCCN</span></i></b>, 2024, 1-14, DOI: 10.1109/TCCN.2024.3522088</p>
+1. <p> [1区] <b><span style="color: #4682b4;">X. Zhu</span></b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i><span style="color: #4682b4;">IEEE TCCN</span></i></b>, 2024, 1-14, DOI: 10.1109/TCCN.2024.3522088.</p>
 2. <p> [1区] W. Feng, R. Zhang, Y. Zhu, C. Wang, C. Sun, <b><span style="color: #4682b4;">X. Zhu</span></b>, X. Li, T. Taleb. "Exploring Collaborative Diffusion Model Inferring for AIGC-enabled Edge Services", <b><i><span style="color: #4682b4;">IEEE TCCN</span></i></b>, 2024, 1-14, DOI: 10.1109/TCCN.2024.3519320.</p>
-3. <p> [CCF A] R. Lin, B. Liu, Y. Cui, D. Liu, R. Gao, <b><span style="color: #4682b4;">X. Zhu</span></b>, J. Liu, L. Li. "LuminaLink: Enabling Low Cost Secure Visible Light Communication with Birefringence", <b><i><span style="color: #4682b4;">IEEE INFOCOM</span></i></b>, 2025, Accept</p>
-4. <p> [2区] <b><span style="color: #4682b4;">X. Zhu</span></b>, W. Qu, T. Qiu, et al. "Dynamic Radio Map Construction with Minimal Manual Intervention: A State Space Model-Based Approach with Imitation Learning", <b><i><span style="color: #4682b4;">IEEE TBD</span></i></b>, 2024, 1-13, DOI: 10.1109/TBDATA.2024.3489425</p>
+3. <p> [CCF A] R. Lin, B. Liu, Y. Cui, D. Liu, R. Gao, <b><span style="color: #4682b4;">X. Zhu</span></b>, J. Liu, L. Li. "LuminaLink: Enabling Low Cost Secure Visible Light Communication with Birefringence", <b><i><span style="color: #4682b4;">IEEE INFOCOM</span></i></b>, 2025. Accept</p>
+4. <p> [2区] <b><span style="color: #4682b4;">X. Zhu</span></b>, W. Qu, T. Qiu, et al. "Dynamic Radio Map Construction with Minimal Manual Intervention: A State Space Model-Based Approach with Imitation Learning", <b><i><span style="color: #4682b4;">IEEE TBD</span></i></b>, 2024, 1-13, DOI: 10.1109/TBDATA.2024.3489425.</p>
 5. <p> [CCF C] S. Hu, C. Zhang, J. Liu, <b><span style="color: #4682b4;">X. Zhu*</span></b>, L. Li. "Proto-CSNet: A Prototype Network Model Integrating CNN and Self-Attention for Enhanced Human Activity Recognition", <b><i><span style="color: #4682b4;">IEEE MSN</span></i></b>, 2024. Accept</p>
 6. <p> [CCF C] M. Zhang, L. Lu, <b><span style="color: #4682b4;">X. Zhu*</span></b>, L. Li, R. Gao. "DBLG: An Innovative Deep-Broad Learning and GAN Framework for CSI Fingerprint Database Refinement", <b><i><span style="color: #4682b4;">IEEE MSN</span></i></b>, 2024. Accept</p>
 7. <p> [EI] <b><span style="color: #4682b4;">X. Zhu</span></b>, J. Liu, D. Zhang, et al. "Enhancing Patient Privacy in IoT-Enabled Intelligent Medical Systems: A Deep and Broad Learning-Based Efficient Encryption Network", <b><i><span style="color: #4682b4;">IEEE SmartIoT</span></i></b>, 2024, 51-58.</p>
@@ -121,9 +121,8 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 16. <p> [2区] X. Wang, <b><span style="color: #4682b4;">X. Zhu</span></b>, Y. Zhang, et al. "An image encryption algorithm based on Josephus traversing and mixed chaotic map", <b><i><span style="color: #4682b4;">IEEE Access</span></i></b>, 2018, 6: 23733‑23746.</p>
 17. <p> [CCF A] 王春鹏, 王兴元, 张川, <b><span style="color: #4682b4;">朱晓强</span></b>, 夏之秋. "基于三元数极谐-Fourier矩和混沌映射的立体图像零水印算法",<b><i><span style="color: #4682b4;">中国科学：信息科学</span></i></b>, 2018, 1: 79‑99.</p>
 
-
 ## Under Review Papers
- 1. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE WCNC</i></b>, 2024.</p>
+1. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE WCNC</i></b>, 2024.</p>
 2. <p> [CCF A] R. Gao, Z. Xie, H. Zhao, <b>X. Zhu*</b>, et al. "Energy-Efficient Transmission Scheduling with Guaranteed Data Imputation in MHealth Systems", <b><i>IEEE ToN</i></b>, 2024.</p>
 3. <p> [CCF A] 张皓文, <b>朱晓强*</b>, 张焘, 等. "CreChain实现IIoT高效安全交易：一种基于信用机制的分布式账本模型", <b><i>中国科学：信息科学</i></b>, 2024. 大修</p>
 
@@ -168,8 +167,8 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 
 # 🧑‍💻 Students
 ## 2023级硕
-- 张明博 （IEEE MSN * 1，专利* 1）
-- 胡思宇 （IEEE MSN * 1，专利* 1）
+- 张明博 （IEEE MSN * 1，专利 * 1）
+- 胡思宇 （IEEE MSN * 1，专利 * 1）
 - 任城仪
 - 张皓文 （中国科学：信息科学 * 1，大修）
   
