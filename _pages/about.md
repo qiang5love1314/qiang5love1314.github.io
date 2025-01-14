@@ -104,7 +104,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 # 📝 Publications 
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Published Papers
-1. <p> [CCF A] 张皓文, <b><span style="color: #4682b4;">朱晓强*</b>, 张焘, 等. "CreChain实现IIoT高效安全交易：一种基于信用机制的分布式账本模型", <b><i><span style="color: #4682b4;">中国科学：信息科学</i></b>, 2024. 已录用</p>
+1. <p> [CCF A] 张皓文, <b><span style="color: #4682b4;">朱晓强*</span></b>, 张焘, 等. "CreChain实现IIoT高效安全交易：一种基于信用机制的分布式账本模型", <b><i><span style="color: #4682b4;">中国科学：信息科学</span></i></b>, 2024. 已录用</p>
 2. <p> [1区] <b><span style="color: #4682b4;">X. Zhu</span></b>, J. Liu, T. Zhang, et al. "CPPU: Policy Space Diversity for Informative Path Planning and GAI-enabled Updating CSI in ISAC", <b><i><span style="color: #4682b4;">IEEE TCCN</span></i></b>, 2024, 1-14, DOI: 10.1109/TCCN.2024.3522088.</p>
 3. <p> [1区] W. Feng, R. Zhang, Y. Zhu, C. Wang, C. Sun, <b><span style="color: #4682b4;">X. Zhu</span></b>, X. Li, T. Taleb. "Exploring Collaborative Diffusion Model Inferring for AIGC-enabled Edge Services", <b><i><span style="color: #4682b4;">IEEE TCCN</span></i></b>, 2024, 1-14, DOI: 10.1109/TCCN.2024.3519320.</p>
 4. <p> [CCF A] R. Lin, B. Liu, Y. Cui, D. Liu, R. Gao, <b><span style="color: #4682b4;">X. Zhu</span></b>, J. Liu, L. Li. "LuminaLink: Enabling Low Cost Secure Visible Light Communication with Birefringence", <b><i><span style="color: #4682b4;">IEEE INFOCOM</span></i></b>, 2025. Accept</p>
