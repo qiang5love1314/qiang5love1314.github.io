@@ -171,7 +171,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - 张明博 （IEEE MSN * 1，专利 * 1）
 - 胡思宇 （IEEE MSN * 1，专利 * 1）
 - 任城仪
-- 张皓文 （中国科学：信息科学 * 1，大修）
+- 张皓文 （中国科学：信息科学 * 1）
   
 ## 2023级本
 - 贾佩伦
