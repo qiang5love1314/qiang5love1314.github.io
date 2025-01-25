@@ -126,7 +126,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 ## Under Review Papers
 1. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE ICC</i></b>, 2025.</p>
 2. <p> [CCF C] M. Zhang, L. Lu, A. Ullah, <b>X. Zhu*</b>, et al. "BLINK: An Effective Indoor Localization Method Based on CSI by Broad Learning and Kolmogorov-Arnold Network", <b><i>IEEE ICC</i></b>, 2025.</p>
-3. <p> [2区] R. Gao, Z. Xie, H. Zhao, <b>X. Zhu*</b>, et al. "Energy-Efficient Transmission Scheduling with Guaranteed Data Imputation in MHealth Systems", <b><i>IEEE Sensor Journal</i></b>, 2025.</p>
+3. <p> [2区] R. Gao, Z. Xie, H. Zhao, <b>X. Zhu*</b>, et al. "Energy-Efficient Transmission Scheduling with Guaranteed Data Imputation in MHealth Systems", <b><i>IEEE TIM</i></b>, 2025.</p>
 
 
 ## Grant Patents
