@@ -127,7 +127,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 1. <p> [CCF B] S. Hu, W. Yu, J. Liu, Z. Ji, <b>X. Zhu*</b>, et al. "DTSAT-DRQN: An Enhanced OFDM-DCSK Chaos Communication Model Integrating Dual TCN, Self-Attention, Transformer, and DRQN", <b><i>ICWS</i></b>, 2025.</p>
 2. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE ICC</i></b>, 2025.</p>
 3. <p> [CCF C] M. Zhang, L. Lu, A. Ullah, <b>X. Zhu*</b>, et al. "BLINK: An Effective Indoor Localization Method Based on CSI by Broad Learning and Kolmogorov-Arnold Network", <b><i>IEEE ICC</i></b>, 2025.</p>
-4. <p> [2区] W. Chen, Z. Xie, F. Liu, R. Gao, <b>X. Zhu*</b>, G. Han. "Energy-Efficient Transmission Scheduling with Uncertainty-Aware Data Imputation for MHealth", <b><i>IEEE TMC</i></b>, 2025.</p>
+4. <p> [CCF A] W. Chen, Z. Xie, F. Liu, R. Gao, <b>X. Zhu*</b>, G. Han. "Energy-Efficient Transmission Scheduling with Uncertainty-Aware Data Imputation for MHealth", <b><i>IEEE TMC</i></b>, 2025.</p>
 
 
 ## Grant Patents
