@@ -179,10 +179,10 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 
 # 🧑‍💻 Students
 ## 2023级硕
-- 张明博 (IEEE MSN * 1, IEEE ICC workshop * 1, 专利 * 1)
-- 胡思宇 (IEEE MSN * 1, 专利 * 1)
+- 张明博 (录用：IEEE MSN, IEEE ICC workshop, 专利 * 1)
+- 胡思宇 (录用：IEEE MSN, 专利 * 1。在审：ICWS)
 - 任城仪
-- 张皓文 (中国科学：信息科学 * 1)
+- 张皓文 (录用：中国科学：信息科学 * 1。在审：信息网络安全)
   
 ## 2023级本
 - 贾佩伦
@@ -196,7 +196,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - 庄浩然
   
 ## 2022级本
-- 余旺
-- 何炫绮
+- 余旺（在审：ICWS）
+- 何炫绮（在审：GLOBECOM）
 
 <!-- # 💻 My blog -->
