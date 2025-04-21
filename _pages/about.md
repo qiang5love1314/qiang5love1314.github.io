@@ -106,7 +106,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 # 📝 Publications 
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Published Papers
-1. <p> [<span style="color: #FF0000;">[CCF C]</span> <b><span style="color: #4682b4;">朱晓强</span></b>, 张皓文, 林彦孜, 刘吉强. "基于可信数字身份的轻量级分布式认证方案", <b><i><span style="color: #4682b4;">信息网络安全</span></i></b>, 2025, 1-14.</p>
+1. <p> <span style="color: #FF0000;">[CCF C]</span> <b><span style="color: #4682b4;">朱晓强</span></b>, 张皓文, 林彦孜, 刘吉强. "基于可信数字身份的轻量级分布式认证方案", <b><i><span style="color: #4682b4;">信息网络安全</span></i></b>, 2025, 1-14.</p>
 2. <p> <span style="color: #FF0000;">[CCF C]</span> M. Zhang, L. Lu, A. Ullah, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "BLINK: An Effective Indoor Localization Method Based on CSI by Broad Learning and Kolmogorov-Arnold Network", <b><i><span style="color: #4682b4;">IEEE ICC workshop</span></i></b>, 2025. Accept</p>
 3. <p> <span style="color: #FF0000;">[CCF B]</span> 赵宏, 冯凤娟, <b><span style="color: #4682b4;">朱晓强</span></b>. "融合知识传授、价值引领的数据结构课程思政建设", <b><i><span style="color: #4682b4;">计算机教育</span></i></b>, 2025, 362(02): 66-69+74.</p>
 4. <p> <span style="color: #FF0000;">[CCF A]</span> 张皓文, <b><span style="color: #4682b4;">朱晓强*</span></b>, 张焘, 等. "CreChain实现IIoT高效安全交易：一种基于信用机制的分布式账本模型", <b><i><span style="color: #4682b4;">中国科学：信息科学</span></i></b>, 2024, 1-17, DOI: 10.1360/SSI-2024-0281.</p>
