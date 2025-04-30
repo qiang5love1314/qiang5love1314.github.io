@@ -136,6 +136,9 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 5. <p> [CCF B] P. Yuan, Y. Pei, C. Wang, X. Zhao, Z. Liu, <b>X. Zhu</b>, T. Taleb. "GCA-YOLO: An Edge-optimized Traffic Sign Detection Model", <b><i>ICWS</i></b>, 2025.</p>
 6. <p> [CCF B] S. Hu, W. Yu, J. Liu, Z. Ji, <b>X. Zhu*</b>, et al. "DTSAT-DRQN: An Enhanced OFDM-DCSK Chaos Communication Model Integrating Dual TCN, Self-Attention, Transformer, and DRQN", <b><i>ICWS</i></b>, 2025.</p>
 7. <p> [CCF A] W. Chen, Z. Xie, F. Liu, R. Gao, <b>X. Zhu*</b>, G. Han. "Energy-Efficient Transmission Scheduling with Uncertainty-Aware Data Imputation for MHealth", <b><i>IEEE TMC</i></b>, 2025.</p>
+8. <p> [CCF C] W. Zhang, Z. Ji, J. Dai, <b>X. Zhu</b>, et. al. "A FAN-Enhanced iTransformer Model for Cold Chain Logistics Demand
+Forecasting", <b><i>IEEE UIC</i></b>, 2025.</p>
+9. <p> [CCF B] X. Xin, C. Liu, C. Wang, L. An, <b>X. Zhu</b>. "QGA-CDM: A Dynamic Cognitive Diagnosis Model with Genetic Algorithm-Enhanced Q-Matrix", <b><i>ECAI</i></b>, 2025.</p>
 
 <!--
 7. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE ICC</i></b>, 2025.</p>
