@@ -129,30 +129,33 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 21. <p> <span style="color: #FF0000;">[CCF A]</span> 王春鹏, 王兴元, 张川, <b><span style="color: #4682b4;">朱晓强</span></b>, 夏之秋. "基于三元数极谐-Fourier矩和混沌映射的立体图像零水印算法",<b><i><span style="color: #4682b4;">中国科学：信息科学</span></i></b>, 2018, 1: 79‑99.</p>
 
 ## Under Review Papers
-1. <p> [CCF A] J. Dai, Z. Ji, Z. Xiong, <b>X. Zhu</b>, et al. "Modal Interaction and Gradient Calibration for Few-shot Class-Incremental Learning", <b><i>ACM MM</i></b>, 2025.</p>
-2. <p> [CCF C] X. He, M. Zhang, <b>X. Zhu*</b>, et al. "A High-Precision CSI-Based Localization Framework with Kolmogorov-Arnold Network and Broad Learning", <b><i>IEEE GLOBECOM</i></b>, 2025.</p>
-3. <p> [2区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>IEEE TNSE</i></b>, 2025.</p>
-4. <p> [CCF B] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>ICWS</i></b>, 2025.</p>
-5. <p> [CCF B] P. Yuan, Y. Pei, C. Wang, X. Zhao, Z. Liu, <b>X. Zhu</b>, T. Taleb. "GCA-YOLO: An Edge-optimized Traffic Sign Detection Model", <b><i>ICWS</i></b>, 2025.</p>
-6. <p> [CCF B] S. Hu, W. Yu, J. Liu, Z. Ji, <b>X. Zhu*</b>, et al. "DTSAT-DRQN: An Enhanced OFDM-DCSK Chaos Communication Model Integrating Dual TCN, Self-Attention, Transformer, and DRQN", <b><i>ICWS</i></b>, 2025.</p>
-7. <p> [CCF A] W. Chen, Z. Xie, F. Liu, R. Gao, <b>X. Zhu*</b>, G. Han. "Energy-Efficient Transmission Scheduling with Uncertainty-Aware Data Imputation for MHealth", <b><i>IEEE TMC</i></b>, 2025.</p>
-8. <p> [CCF C] W. Zhang, Z. Ji, J. Dai, <b>X. Zhu</b>, et. al. "A FAN-Enhanced iTransformer Model for Cold Chain Logistics Demand
+1. <p> [CCF B] X. Xin, C. Liu, C. Wang, L. An, <b>X. Zhu</b>. "QGA-CDM: A Dynamic Cognitive Diagnosis Model with Genetic Algorithm-Enhanced Q-Matrix", <b><i>ECAI</i></b>, 2025.</p>
+2. <p> [CCF A] J. Dai, Z. Ji, Z. Xiong, <b>X. Zhu</b>, et al. "Modal Interaction and Gradient Calibration for Few-shot Class-Incremental Learning", <b><i>ACM MM</i></b>, 2025.</p>
+3. <p> [CCF C] X. He, M. Zhang, <b>X. Zhu*</b>, et al. "A High-Precision CSI-Based Localization Framework with Kolmogorov-Arnold Network and Broad Learning", <b><i>IEEE GLOBECOM</i></b>, 2025.</p>
+4. <p> [2区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>IEEE TNSE</i></b>, 2025.</p>
+5. <p> [CCF B] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>ICWS</i></b>, 2025.</p>
+6. <p> [CCF B] P. Yuan, Y. Pei, C. Wang, X. Zhao, Z. Liu, <b>X. Zhu</b>, T. Taleb. "GCA-YOLO: An Edge-optimized Traffic Sign Detection Model", <b><i>ICWS</i></b>, 2025.</p>
+7. <p> [CCF B] S. Hu, W. Yu, J. Liu, Z. Ji, <b>X. Zhu*</b>, et al. "DTSAT-DRQN: An Enhanced OFDM-DCSK Chaos Communication Model Integrating Dual TCN, Self-Attention, Transformer, and DRQN", <b><i>ICWS</i></b>, 2025.</p>
+8. <p> [CCF A] W. Chen, Z. Xie, F. Liu, R. Gao, <b>X. Zhu*</b>, G. Han. "Energy-Efficient Transmission Scheduling with Uncertainty-Aware Data Imputation for MHealth", <b><i>IEEE TMC</i></b>, 2025.</p>
+9. <p> [CCF C] W. Zhang, Z. Ji, J. Dai, <b>X. Zhu</b>, et. al. "A FAN-Enhanced iTransformer Model for Cold Chain Logistics Demand
 Forecasting", <b><i>IEEE UIC</i></b>, 2025.</p>
-9. <p> [CCF B] X. Xin, C. Liu, C. Wang, L. An, <b>X. Zhu</b>. "QGA-CDM: A Dynamic Cognitive Diagnosis Model with Genetic Algorithm-Enhanced Q-Matrix", <b><i>ECAI</i></b>, 2025.</p>
 
 <!--
 7. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE ICC</i></b>, 2025.</p>
 -->
 
 ## Grant Patents
-1. <p><b>朱晓强</b>, 胡思宇, 刘吉强, 等. "一种基于融合注意力机制原型神经网络的人体行为识别方法", No. 202411463529.7, 2024.</p>
-2. <p><b>朱晓强</b>, 张明博, 鲁凌云, 等. "基于深度与宽度学习的CSI指纹数据库优化方法", No. 2024113941670, 2024.</p>
-3. <p><b>朱晓强</b>, 刘吉强, 鲁凌云, 等. "一种基于强化学习的CSI指纹地图构建的路径规划方法", No. 202310874838.2, 2023.</p>
-4. <p><b>朱晓强</b>, 刘吉强, 张大林, 等. "一种基于模仿学习的智能自适应CSI指纹地图更新方法", No. 202310775481.2, 2023.</p>
-5. <p> 邱铁, <b>朱晓强</b>, 曲雯毓. "一种基于CSI图像的增量式智能室内定位方法", No. CN113691940A, 2022.09.27.</p>
-6. <p> 邱铁, <b>朱晓强</b>, 曲雯毓. "一种基于宽度学习的快速室内指纹定位方法", No. CN111929641A, 2022.08.09</p>
-7. <p> 邱铁, 黄慧娟, 周晓波, 张朝昆, <b>朱晓强</b>. "基于信道状态信息的心率监测方法及呼吸事件检测方法", No. 202210661544.</p>
-8. <p> 邱铁, 吴琛, 赵来平, 李克秋, <b>朱晓强</b>. "一种基于集成宽度学习的快速高精度室内指纹定位方法", No. 202110866814.</p>
+1. <p><b>朱晓强</b>, 余旺, 胡思宇, 等. "基于小样本学习的人体姿态识别算法研究", 2025.</p>
+2. <p><b>朱晓强</b>, 何炫锜, 张明博, 等. "一种基于Kolmogorov-Arnold网络和宽度学习系统的高精度CSI定位框架技术", 2025.</p>
+3. <p><b>朱晓强</b>, 胡思宇, 余旺, 等. "一种基于深度强化学习的增强型OFDM-DCSK混沌加密方法", 2025.</p>
+4. <p><b>朱晓强</b>, 胡思宇, 刘吉强, 等. "一种基于融合注意力机制原型神经网络的人体行为识别方法", No. 202411463529.7, 2024.</p>
+5. <p><b>朱晓强</b>, 张明博, 鲁凌云, 等. "基于深度与宽度学习的CSI指纹数据库优化方法", No. 2024113941670, 2024.</p>
+6. <p><b>朱晓强</b>, 刘吉强, 鲁凌云, 等. "一种基于强化学习的CSI指纹地图构建的路径规划方法", No. 202310874838.2, 2023.</p>
+7. <p><b>朱晓强</b>, 刘吉强, 张大林, 等. "一种基于模仿学习的智能自适应CSI指纹地图更新方法", No. 202310775481.2, 2023.</p>
+8. <p> 邱铁, <b>朱晓强</b>, 曲雯毓. "一种基于CSI图像的增量式智能室内定位方法", No. CN113691940A, 2022.09.27.</p>
+9. <p> 邱铁, <b>朱晓强</b>, 曲雯毓. "一种基于宽度学习的快速室内指纹定位方法", No. CN111929641A, 2022.08.09</p>
+10. <p> 邱铁, 黄慧娟, 周晓波, 张朝昆, <b>朱晓强</b>. "基于信道状态信息的心率监测方法及呼吸事件检测方法", No. 202210661544.</p>
+11. <p> 邱铁, 吴琛, 赵来平, 李克秋, <b>朱晓强</b>. "一种基于集成宽度学习的快速高精度室内指纹定位方法", No. 202110866814.</p>
 
 # 🎖 Honors and Awards
 - *2023* National Funding Postdoctoral Researcher Program, China Postdoctoral Science Foundation
