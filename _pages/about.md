@@ -6,6 +6,7 @@ author_profile: true
 layout: default
 title: news
 news:
+- "2025.5: 🎉🎉 Good news! Two undergraduate innovation projects under my supervision have been recognized as National-level and Beijing municipal-level projects, respectively."
 - "2025.4: 🎉🎉 Good news! A paper has been accepted by NETINFO SECURITY (CCF C)."
 - "2025.3: 🎉🎉 Good news! Two papers have been accepted by Computer Education (CCF B) and ICC workshop (CCF C)."
 - "2025.1: 🎉🎉 Good news! One of our team's papers has been accepted by SCIENCE CHINA Information Sciences (CCF A)."
