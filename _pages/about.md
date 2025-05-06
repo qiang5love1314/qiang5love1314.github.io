@@ -140,6 +140,9 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 9. <p> [CCF A] W. Chen, Z. Xie, F. Liu, R. Gao, <b>X. Zhu*</b>, G. Han. "Energy-Efficient Transmission Scheduling with Uncertainty-Aware Data Imputation for MHealth", <b><i>IEEE TMC</i></b>, 2025.</p>
 10. <p> [CCF C] W. Zhang, Z. Ji, J. Dai, <b>X. Zhu</b>, et. al. "A FAN-Enhanced iTransformer Model for Cold Chain Logistics Demand Forecasting", <b><i>IEEE UIC</i></b>, 2025.</p>
 
+# 📚 Book
+1. <p> [Whole Book] <b>X. Zhu</b>, Y. Liu, C. Wang. "Intelligent Localization for Integrated Sensing and Communication", <b><i>Springer Nature</i></b>, 2025. (Under Review)</p>
+
 <!--
 7. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE ICC</i></b>, 2025.</p>
 -->
