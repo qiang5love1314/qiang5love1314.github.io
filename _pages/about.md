@@ -130,8 +130,8 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 21. <p> <span style="color: #FF0000;">[CCF A]</span> 王春鹏, 王兴元, 张川, <b><span style="color: #4682b4;">朱晓强</span></b>, 夏之秋. "基于三元数极谐-Fourier矩和混沌映射的立体图像零水印算法",<b><i><span style="color: #4682b4;">中国科学：信息科学</span></i></b>, 2018, 1: 79‑99.</p>
 
 ## Under Review Papers
-1. <p> M. Zhang, X. He, <b>X. Zhu</b>. "Lightweight Intelligent Localization for Internet Robotic of Things: Method, Theory, Application", <b><i>IEEE IoT Magazine</i></b>, 2025.</p>
-2. <p> [CCF C] 刘吉强, 任城仪, <b>朱晓强</b>, 王健. "基于三维混沌系统与Hopfield神经网络的彩色图像加密算法", <b><i>信息网络安全</i></b>, 2025.</p>
+1. <p> M. Zhang, X. He, <b>X. Zhu*</b>. "Lightweight Intelligent Localization for Internet Robotic of Things: Method, Theory, Application", <b><i>IEEE IoT Magazine</i></b>, 2025.</p>
+2. <p> [CCF C] 刘吉强, 任城仪, <b>朱晓强*</b>, 王健. "基于三维混沌系统与Hopfield神经网络的彩色图像加密算法", <b><i>信息网络安全</i></b>, 2025.</p>
 3. <p> [CCF C] H. Liu, X. Jiang, Z. Ji, <b>X. Zhu</b>. "YOLOv7-AFDH: an Anchor-Free and Decoupled-Head Based Object Detection Model", <b><i>IEEE UIC</i></b>, 2025.</p>
 4. <p> [CCF B] X. Xin, C. Liu, C. Wang, L. An, <b>X. Zhu</b>. "QGA-CDM: A Dynamic Cognitive Diagnosis Model with Genetic Algorithm-Enhanced Q-Matrix", <b><i>ECAI</i></b>, 2025.</p>
 5. <p> [CCF A] J. Dai, Z. Ji, Z. Xiong, <b>X. Zhu</b>, et al. "Modal Interaction and Gradient Calibration for Few-shot Class-Incremental Learning", <b><i>ACM MM</i></b>, 2025.</p>
