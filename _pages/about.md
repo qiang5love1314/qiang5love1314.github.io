@@ -132,7 +132,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 ## Under Review Papers
 1. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, J. Liu. "FedFlow: Federated Parameter Matching via Optimal Probability Flows", <b><i>NeurIPS</i></b>, 2025.</p>
 2. <p> M. Zhang, X. He, <b>X. Zhu*</b>. "Lightweight Intelligent Localization for Internet Robotic of Things: Method, Theory, Application", <b><i>IEEE IoT Magazine</i></b>, 2025.</p>
-3. <p> [CCF C] 刘吉强, 任城仪, <b>朱晓强*</b>, 王健. "基于三维混沌系统与Hopfield神经网络的彩色图像加密算法", <b><i>信息网络安全</i></b>, 2025.</p>
+3. <p> [CCF C] 刘吉强, 任城仪, <b>朱晓强*</b>, 王健. "基于三维混沌系统与Hopfield神经网络的彩色图像加密算法", <b><i>软件导刊</i></b>, 2025.</p>
 4. <p> [CCF C] H. Liu, X. Jiang, Z. Ji, <b>X. Zhu</b>. "YOLOv7-AFDH: an Anchor-Free and Decoupled-Head Based Object Detection Model", <b><i>IEEE UIC</i></b>, 2025.</p>
 5. <p> [CCF B] X. Xin, C. Liu, C. Wang, L. An, <b>X. Zhu</b>. "QGA-CDM: A Dynamic Cognitive Diagnosis Model with Genetic Algorithm-Enhanced Q-Matrix", <b><i>ECAI</i></b>, 2025.</p>
 6. <p> [CCF A] J. Dai, Z. Ji, Z. Xiong, <b>X. Zhu</b>, et al. "Modal Interaction and Gradient Calibration for Few-shot Class-Incremental Learning", <b><i>ACM MM</i></b>, 2025.</p>
@@ -197,7 +197,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 ## 2023级硕
 - 张明博 (录用：IEEE MSN, IEEE ICC workshop, 专利 * 2。在审：IEEE IoTM)
 - 胡思宇 (录用：IEEE MSN, 专利 * 2。在审：ICWS)
-- 任城仪 (在审：《信息网络安全》)
+- 任城仪 (在审：《软件导刊》)
 - 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》)
   
 ## 2023级本
