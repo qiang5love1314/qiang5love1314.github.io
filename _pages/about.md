@@ -6,7 +6,7 @@ author_profile: true
 layout: default
 title: news
 news:
-- "2025.4: 🎉🎉 Good news! A paper has been accepted by ICWS (CCF B)."
+- "2025.5: 🎉🎉 Good news! A paper has been accepted by ICWS (CCF B)."
 - "2025.5: 🎉🎉 Good news! Two undergraduate innovation projects under my supervision have been recognized as National-level and Beijing municipal-level projects, respectively."
 - "2025.4: 🎉🎉 Good news! A paper has been accepted by NETINFO SECURITY (CCF C)."
 - "2025.3: 🎉🎉 Good news! Two papers have been accepted by Computer Education (CCF B) and ICC workshop (CCF C)."
@@ -108,7 +108,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 # 📝 Publications 
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Published Papers
-1. <p> <span style="color: #FF0000;">[CCF B]</span> P. Yuan, Y. Pei, C. Wang, X. Zhao, Z. Liu, <b><span style="color: #4682b4;">X. Zhu</span></b>, T. Taleb. "GCA-YOLO: An Edge-optimized Traffic Sign Detection Model", <b><i><span style="color: #4682b4;">ICWS</i></b>, 2025.</p>
+1. <p> <span style="color: #FF0000;">[CCF B]</span> P. Yuan, Y. Pei, C. Wang, X. Zhao, Z. Liu, <b><span style="color: #4682b4;">X. Zhu</span></b>, T. Taleb. "GCA-YOLO: An Edge-optimized Traffic Sign Detection Model", <b><i><span style="color: #4682b4;">ICWS</span></i></b>, 2025, 1-10.</p>
 2. <p> <span style="color: #FF0000;">[CCF C]</span> <b><span style="color: #4682b4;">朱晓强*</span></b>, 张皓文, 林彦孜, 刘吉强. "基于可信数字身份的轻量级分布式认证方案", <b><i><span style="color: #4682b4;">信息网络安全</span></i></b>, 2025, 1-14.</p>
 3. <p> <span style="color: #FF0000;">[CCF C]</span> M. Zhang, L. Lu, A. Ullah, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "BLINK: An Effective Indoor Localization Method Based on CSI by Broad Learning and Kolmogorov-Arnold Network", <b><i><span style="color: #4682b4;">IEEE ICC workshop</span></i></b>, 2025. Accept</p>
 4. <p> <span style="color: #FF0000;">[CCF B]</span> 赵宏, 冯凤娟, <b><span style="color: #4682b4;">朱晓强</span></b>. "融合知识传授、价值引领的数据结构课程思政建设", <b><i><span style="color: #4682b4;">计算机教育</span></i></b>, 2025, 362(02): 66-69+74.</p>
