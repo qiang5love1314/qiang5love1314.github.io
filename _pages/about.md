@@ -141,7 +141,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 7. <p> [CCF A] J. Dai, Z. Ji, Z. Xiong, <b>X. Zhu</b>, et al. "Modal Interaction and Gradient Calibration for Few-shot Class-Incremental Learning", <b><i>ACM MM</i></b>, 2025.</p>
 8. <p> [CCF C] X. He, M. Zhang, <b>X. Zhu*</b>, et al. "A High-Precision CSI-Based Localization Framework with Kolmogorov-Arnold Network and Broad Learning", <b><i>IEEE GLOBECOM</i></b>, 2025.</p>
 9. <p> [2区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>IEEE TNSE</i></b>, 2025.</p>
-10. <p> [2区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TNSE</i></b>, 2025.</p>
+10. <p> [2区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TCCN</i></b>, 2025.</p>
 11. <p> [CCF C] S. Hu, W. Yu, J. Liu, Z. Ji, <b>X. Zhu*</b>, et al. "DTSAT-DRQN: A Novel DRQN-Enhanced Chaos Communication Strategy with Dual-TCN", <b><i>ICONIP</i></b>, 2025.</p>
 12. <p> [CCF A] W. Chen, Z. Xie, F. Liu, R. Gao, <b>X. Zhu*</b>, G. Han. "Energy-Efficient Transmission Scheduling with Uncertainty-Aware Data Imputation for MHealth", <b><i>IEEE TMC</i></b>, 2025.</p>
 
@@ -196,7 +196,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 
 # 🧑‍💻 Students
 ## 2023级硕
-- 张明博 (录用：IEEE MSN, IEEE ICC workshop, 专利 * 2。在审：IEEE IoTM)
+- 张明博 (录用：IEEE MSN, IEEE ICC workshop, 专利 * 1。在审：IEEE IoTM)
 - 胡思宇 (录用：IEEE MSN, 专利 * 2。在审：ICONIP)
 - 任城仪 (在审：《软件导刊》)
 - 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》)
@@ -213,7 +213,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - 庄浩然
   
 ## 2022级本
-- 余旺（专利 * 1, 在审：IEEE TNSE）
+- 余旺（专利 * 1, 在审：IEEE TCCN）
 - 何炫绮（专利 * 1, 在审：GLOBECOM）
 
 <!-- # 💻 My blog -->
