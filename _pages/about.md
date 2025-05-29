@@ -144,7 +144,8 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 10. <p> [2区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>IEEE TNSE</i></b>, 2025.</p>
 11. <p> [1区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TCCN</i></b>, 2025.</p>
 12. <p> [CCF C] S. Hu, W. Yu, J. Liu, Z. Ji, <b>X. Zhu*</b>, et al. "DTSAT-DRQN: A Novel DRQN-Enhanced Chaos Communication Strategy with Dual-TCN", <b><i>ICONIP</i></b>, 2025.</p>
-13. <p> [CCF A] W. Chen, Z. Xie, F. Liu, R. Gao, <b>X. Zhu*</b>, G. Han. "Energy-Efficient Transmission Scheduling with Uncertainty-Aware Data Imputation for MHealth", <b><i>IEEE TMC</i></b>, 2025.</p>
+13. <p> [CCF C] A. Hussain, <b>X. Zhu*</b>. "AnomSpectraNet: Spectrum-Based Anomaly Detection Using CSI and Attention Mechanisms for Elderly Health Monitoring", <b><i>ICONIP</i></b>, 2025.</p>
+14. <p> [CCF A] W. Chen, Z. Xie, F. Liu, R. Gao, <b>X. Zhu*</b>, G. Han. "Energy-Efficient Transmission Scheduling with Uncertainty-Aware Data Imputation for MHealth", <b><i>IEEE TMC</i></b>, 2025.</p>
 
 ## 📚 Book
 1. <p> [Whole Book] <b>X. Zhu</b>, Y. Liu, C. Wang. "Intelligent Localization for Integrated Sensing and Communication", <b><i>Springer Nature</i></b>, 2025. (Under Review)</p>
