@@ -7,7 +7,7 @@ layout: default
 title: news
 news:
 - "2025.6: 🎉🎉 Good news! Two papers have been accepted by Software Guide (CCF C)."
-- "2025.6: Invited to give a talk at the Chinese Institute of Electronics Excellent PhD Forum on "Intelligent Indoor Localization Theory and Methods for Integrated Sensing and Communication.""
+- "2025.6: Invited to give a talk at the Chinese Institute of Electronics Excellent PhD Forum on Intelligent Indoor Localization Theory and Methods for Integrated Sensing and Communication."
 - "2025.6: 🎉🎉 Good news! Two papers have been accepted by IEEE UIC (CCF C)."
 - "2025.5: 🎉🎉 Good news! A paper has been accepted by ICWS (CCF B)."
 - "2025.5: 🎉🎉 Good news! Two undergraduate innovation projects under my supervision have been recognized as National-level and Beijing municipal-level projects, respectively."
