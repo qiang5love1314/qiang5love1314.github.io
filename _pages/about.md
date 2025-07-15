@@ -142,7 +142,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 27. <p> <span style="color: #FF0000;">[CCF A]</span> 王春鹏, 王兴元, 张川, <b><span style="color: #4682b4;">朱晓强</span></b>, 夏之秋. "基于三元数极谐-Fourier矩和混沌映射的立体图像零水印算法",<b><i><span style="color: #4682b4;">中国科学：信息科学</span></i></b>, 2018, 1: 79‑99.</p>
 
 ## Under Review Papers
-1. <p> [EI] Z. Qiao, S. Yao, Y. Xie, <b>X. Zhu*</b>, et al. "PoGL: A GAN-Based Proof of Federated Learning Framework to Defend Against Adversarial Attacks", <b><i>IEEE SmartIoT</i></b>, 2025.</p>
+1. <p> [EI] Z. Qiao, S. Yao, Y. Xie, <b>X. Zhu*</b>, et al. "Secure Medical Image Encryption via Dual-Channel Strategy and Digital Signature Verification", <b><i>IEEE SmartIoT</i></b>, 2025.</p>
 2. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PoGL: A GAN-Based Proof of Federated Learning Framework to Defend Against Adversarial Attacks", <b><i>IEEE TIFS</i></b>, 2025.</p>
 3. <p> [1区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TCCN</i></b>, 2025.</p>
 4. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, J. Liu. "FedFlow: Federated Parameter Matching via Optimal Probability Flows", <b><i>NeurIPS</i></b>, 2025.</p>
