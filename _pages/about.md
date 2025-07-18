@@ -216,7 +216,6 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - 章步峰
 - 汪雨辰
 - 林彦孜
-- 操安逸
 - 方首岳
 - 谢建轩
 - 庄浩然
