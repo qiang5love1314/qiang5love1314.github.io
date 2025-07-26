@@ -142,20 +142,21 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 27. <p> <span style="color: #FF0000;">[CCF A]</span> 王春鹏, 王兴元, 张川, <b><span style="color: #4682b4;">朱晓强</span></b>, 夏之秋. "基于三元数极谐-Fourier矩和混沌映射的立体图像零水印算法",<b><i><span style="color: #4682b4;">中国科学：信息科学</span></i></b>, 2018, 1: 79‑99.</p>
 
 ## 📚 Book
-1. <p> [Whole Book] <b><span style="color: #4682b4;">X. Zhu</span></b>, Y. Liu, C. Wang. "Intelligent Localization for Integrated Sensing and Communication", <b><i><span style="color: #4682b4;">Springer Nature</span></i></b>, ISBN: 978-981-96-9384-9, 2025. </p>
+1. <p> <span style="color: #FF0000;">[Whole Book]</span> <b><span style="color: #4682b4;">X. Zhu</span></b>, Y. Liu, C. Wang. "Intelligent Localization for Integrated Sensing and Communication", <b><i><span style="color: #4682b4;">Springer Nature</span></i></b>, ISBN: 978-981-96-9384-9, 2025. </p>
 
 ## Under Review Papers
-1. <p> [CCF A] R. Tian, C. Li, Y. Xin, H. Wu, D. Liu, F. Dang, R. Gao, <b>X. Zhu</b>, L. Li. "CE-AdaSAC: Real-Time Cloud-Edge Inference with Adaptive Self-Pruning and Fast Deployment", <b><i>IEEE INFOCOM</i></b>, 2026.</p>
-2. <p> [EI] Z. Qiao, S. Yao, Y. Xie, <b>X. Zhu*</b>, et al. "Secure Medical Image Encryption via Dual-Channel Strategy and Digital Signature Verification", <b><i>IEEE SmartIoT</i></b>, 2025.</p>
-3. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PoGL: A GAN-Based Proof of Federated Learning Framework to Defend Against Adversarial Attacks", <b><i>IEEE TIFS</i></b>, 2025.</p>
-4. <p> [1区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TCCN</i></b>, 2025.</p>
-5. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, J. Liu. "FedFlow: Federated Parameter Matching via Optimal Probability Flows", <b><i>NeurIPS</i></b>, 2025.</p>
-6. <p> M. Zhang, X. He, <b>X. Zhu*</b>. "Lightweight Intelligent Localization for Internet Robotic of Things: Method, Theory, Application", <b><i>IEEE IoT Magazine</i></b>, 2025.</p>
-7. <p> [CCF C] A. Hussain, <b>X. Zhu*</b>. "AnomSpectraNet: Spectrum-Based Anomaly Detection Using CSI and Attention Mechanisms for Elderly Health Monitoring", <b><i>ICONIP</i></b>, 2025.</p>
-8. <p> [CCF C] S. Hu, W. Yu, J. Liu, Z. Ji, <b>X. Zhu*</b>, et al. "DTSAT-DRQN: A Novel DRQN-Enhanced Chaos Communication Strategy with Dual-TCN", <b><i>ICONIP</i></b>, 2025.</p>
-9. <p> [2区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>IEEE TNSE</i></b>, 2025.</p>
-10. <p> [CCF A] J. Dai, Z. Ji, Z. Xiong, <b>X. Zhu</b>, et al. "Modal Interaction and Gradient Calibration for Few-shot Class-Incremental Learning", <b><i>ACM MM</i></b>, 2025.</p>
-11. <p> [CCF C] X. He, M. Zhang, <b>X. Zhu*</b>, et al. "A High-Precision CSI-Based Localization Framework with Kolmogorov-Arnold Network and Broad Learning", <b><i>IEEE GLOBECOM</i></b>, 2025.</p>
+1. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, Z. Xiong, <b>X. Zhu</b>, J. Liu. "From Ill-Posed to Well-Posed: Federated Uncertainty Aware Learning via Constrained Inference", <b><i>AAAI</i></b>, 2026.</p>
+2. <p> [CCF A] R. Tian, C. Li, Y. Xin, H. Wu, D. Liu, F. Dang, R. Gao, <b>X. Zhu</b>, L. Li. "CE-AdaSAC: Real-Time Cloud-Edge Inference with Adaptive Self-Pruning and Fast Deployment", <b><i>IEEE INFOCOM</i></b>, 2026.</p>
+3. <p> [EI] Z. Qiao, S. Yao, Y. Xie, <b>X. Zhu*</b>, et al. "Secure Medical Image Encryption via Dual-Channel Strategy and Digital Signature Verification", <b><i>IEEE SmartIoT</i></b>, 2025.</p>
+4. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PoGL: A GAN-Based Proof of Federated Learning Framework to Defend Against Adversarial Attacks", <b><i>IEEE TIFS</i></b>, 2025.</p>
+5. <p> [1区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TCCN</i></b>, 2025.</p>
+6. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, J. Liu. "FedFlow: Federated Parameter Matching via Optimal Probability Flows", <b><i>NeurIPS</i></b>, 2025.</p>
+7. <p> M. Zhang, X. He, <b>X. Zhu*</b>. "Lightweight Intelligent Localization for Internet Robotic of Things: Method, Theory, Application", <b><i>IEEE IoT Magazine</i></b>, 2025.</p>
+8. <p> [CCF C] A. Hussain, <b>X. Zhu*</b>. "AnomSpectraNet: Spectrum-Based Anomaly Detection Using CSI and Attention Mechanisms for Elderly Health Monitoring", <b><i>ICONIP</i></b>, 2025.</p>
+9. <p> [CCF C] S. Hu, W. Yu, J. Liu, Z. Ji, <b>X. Zhu*</b>, et al. "DTSAT-DRQN: A Novel DRQN-Enhanced Chaos Communication Strategy with Dual-TCN", <b><i>ICONIP</i></b>, 2025.</p>
+10. <p> [2区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>IEEE TNSE</i></b>, 2025.</p>
+11. <p> [CCF A] J. Dai, Z. Ji, Z. Xiong, <b>X. Zhu</b>, et al. "Modal Interaction and Gradient Calibration for Few-shot Class-Incremental Learning", <b><i>ACM MM</i></b>, 2025.</p>
+12. <p> [CCF C] X. He, M. Zhang, <b>X. Zhu*</b>, et al. "A High-Precision CSI-Based Localization Framework with Kolmogorov-Arnold Network and Broad Learning", <b><i>IEEE GLOBECOM</i></b>, 2025.</p>
 
 <!--
 7. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE ICC</i></b>, 2025.</p>
