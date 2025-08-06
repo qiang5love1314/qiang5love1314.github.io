@@ -202,7 +202,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - IEEE SmartIoT' 2019‑2022, IEEE CSCWD' 2020‑2021, IEEE IWQoS' 2020, IEEE iThings' 2023, DASFAA' 2025, GLOBECOM' 2025.
 
 ## PC Member and Session Chair
-- IEEE CSCWD 2020, IEEE SmartIoT 2019
+- AAAI 2026, IEEE CSCWD 2020, IEEE SmartIoT 2019. 
 
 # 🏫 Supervising and Mentoring Activities
 - Data Structure, M310002B
