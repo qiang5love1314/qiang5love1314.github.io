@@ -6,6 +6,7 @@ author_profile: true
 layout: default
 title: news
 news:
+- "2025.8: 🎉🎉 Good news! I have obtained the direct recommendation qualification for the \"China Institute of Electronics Doctoral Dissertation Incentive Plan.\""
 - "2025.7: 🎉🎉 Good news! A paper has been accepted by ICONIP (CCF C)."
 - "2025.7: 🎉🎉 Good news! A paper has been accepted by ECAI (CCF B)."
 - "2025.6: 🎉🎉 Good news! Two papers have been accepted by Software Guide (CCF C)."
