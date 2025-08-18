@@ -213,7 +213,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 
 # 🧑‍💻 Students
 ## 2023级硕
-- 张明博 (录用：IEEE MSN, IEEE ICC workshop, 专利 * 1。在审：IEEE IoTM)
+- 张明博 (录用：IEEE IoT Magazine, IEEE MSN, IEEE ICC workshop, 专利 * 1。)
 - 胡思宇 (录用：IEEE MSN, ICONIP, 专利 * 2。)
 - 任城仪 (录用：《软件导刊》)
 - 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》。在审：IEEE TIFS)
