@@ -117,7 +117,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Published Papers
 1. <p> <span style="color: #FF0000;">[JCR Q1]</span> M. Zhang, X. He, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "Lightweight Intelligent Localization for Internet of Robotic Things: Method, Theory, Application", <b><i><span style="color: #4682b4;">IEEE IoT Magazine</span></i></b>, 2025.</p>
-2. <p> <span style="color: #FF0000;">[CCF C]</span> S. Hu, W. Yu, J. Liu, Z. Ji, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "DTSAT-DRQN: A Novel DRQN-Enhanced Chaos Communication Strategy with Dual-TCN", <b><i>ICONIP</i></b>, 2025.</p>
+2. <p> <span style="color: #FF0000;">[CCF C]</span> S. Hu, W. Yu, J. Liu, Z. Ji, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "DTSAT-DRQN: A Novel DRQN-Enhanced Chaos Communication Strategy with Dual-TCN", <b><i><span style="color: #4682b4;">ICONIP</span></i></b>, 2025.</p>
 3. <p> <span style="color: #FF0000;">[CCF B]</span> X. Xin, C. Liu, C. Wang, L. An, <b><span style="color: #4682b4;">X. Zhu</span></b>. "QGA-CDM: A Dynamic Cognitive Diagnosis Model with Genetic Algorithm-Enhanced Q-Matrix", <b><i><span style="color: #4682b4;">ECAI</span></i></b>, 2025.</p>
 4. <p> <span style="color: #FF0000;">[CCF C]</span> 乔子轩, 谢雨桐, 姚苏眩, <b><span style="color: #4682b4;">朱晓强*</span></b>, 姚英英. "基于混沌系统和机器学习的医学图像加密算法", <b><i><span style="color: #4682b4;">软件导刊</span></i></b>, 2025, 1-18.</p>
 5. <p> <span style="color: #FF0000;">[CCF C]</span> 刘吉强, 任城仪, <b><span style="color: #4682b4;">朱晓强*</span></b>, 王健. "基于三维混沌系统与Hopfield神经网络的彩色图像加密算法", <b><i><span style="color: #4682b4;">软件导刊</span></i></b>, 2025, 1-17.</p>
