@@ -156,14 +156,16 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 4. <p> [EI] Z. Qiao, S. Yao, Y. Xie, <b>X. Zhu*</b>, et al. "Secure Medical Image Encryption via Dual-Channel Strategy and Digital Signature Verification", <b><i>IEEE SmartIoT</i></b>, 2025.</p>
 5. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PoGL: A GAN-Based Proof of Federated Learning Framework to Defend Against Adversarial Attacks", <b><i>IEEE TIFS</i></b>, 2025.</p>
 6. <p> [1区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TCCN</i></b>, 2025.</p>
-7. <p> [2区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>IEEE TNSE</i></b>, 2025.</p>
+7. <p> [1区] A. Hussain, <b>X. Zhu</b>, S. Zhang, et al. "AnomSpectraNet: Spectrum-Based Anomaly Detection Using CSI and Attention Mechanisms for Elderly Health Monitoring", <b><i>Information Fusion</i></b>, 2025.</p>
+8. <p> [2区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>IEEE TNSE</i></b>, 2025.</p>
+
 
 
 <!--
 7. <p> [CCF C] A. Hussain, Y. Ding, <b>X. Zhu*</b>, A. Ullah. "DualStream-Attention Network for Optimizing Latency, Throughput, and SNR Prediction in Indoor Wireless Networks", <b><i>IEEE ICC</i></b>, 2025.</p>
 <p> [CCF A] W. Chen, Z. Xie, F. Liu, R. Gao, <b>X. Zhu*</b>, G. Han. "Energy-Efficient Transmission Scheduling with Uncertainty-Aware Data Imputation for MHealth", <b><i>IEEE TMC</i></b>, 2025.</p>
 <p> [CCF A] J. Dai, Z. Ji, Z. Xiong, <b>X. Zhu</b>, et al. "Modal Interaction and Gradient Calibration for Few-shot Class-Incremental Learning", <b><i>ACM MM</i></b>, 2025.</p>
-<p> [CCF C] A. Hussain, <b>X. Zhu*</b>. "AnomSpectraNet: Spectrum-Based Anomaly Detection Using CSI and Attention Mechanisms for Elderly Health Monitoring", <b><i>ICONIP</i></b>, 2025.</p>
+
 <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, J. Liu. "FedFlow: Federated Parameter Matching via Optimal Probability Flows", <b><i>NeurIPS</i></b>, 2025.</p>
 <p> [CCF A] R. Tian, C. Li, Y. Xin, H. Wu, D. Liu, F. Dang, R. Gao, <b>X. Zhu</b>, L. Li. "CE-AdaSAC: Real-Time Cloud-Edge Inference with Adaptive Self-Pruning and Fast Deployment", <b><i>IEEE INFOCOM</i></b>, 2026.</p>
 <p> [CCF A] X. Chen, C. Chen, H. Xing, <b>X. Zhu</b>. "DKD-FedAgg: Personalized and Mobility-Aware Agglomerative Federated Learning in End-Edge-Cloud Systems", <b><i>IEEE INFOCOM</i></b>, 2026.</p>
