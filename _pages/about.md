@@ -156,7 +156,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 4. <p> [EI] Z. Qiao, S. Yao, Y. Xie, <b>X. Zhu*</b>, et al. "Secure Medical Image Encryption via Dual-Channel Strategy and Digital Signature Verification", <b><i>IEEE SmartIoT</i></b>, 2025.</p>
 5. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PoGL: A GAN-Based Proof of Federated Learning Framework to Defend Against Adversarial Attacks", <b><i>IEEE TIFS</i></b>, 2025.</p>
 6. <p> [1区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TCCN</i></b>, 2025.</p>
-7. <p> [1区] A. Hussain, <b>X. Zhu</b>, S. Zhang, et al. "AnomSpectraNet: Spectrum-Based Anomaly Detection Using CSI and Attention Mechanisms for Elderly Health Monitoring", <b><i>Engineering Applications of Artificial Intelligence.</i></b>, 2025.</p>
+7. <p> [1区] A. Hussain, <b>X. Zhu</b>, S. Zhang, et al. "AnomSpectraNet: Spectrum-Based Anomaly Detection Using CSI and Attention Mechanisms for Elderly Health Monitoring", <b><i>EAAI</i></b>, 2025.</p>
 8. <p> [2区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>IEEE TNSE</i></b>, 2025.</p>
 
 
