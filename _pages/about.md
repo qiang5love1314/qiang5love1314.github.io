@@ -153,7 +153,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 1. <p> <span style="color: #FF0000;">[Whole Book]</span> <b><span style="color: #4682b4;">X. Zhu</span></b>, Y. Liu, C. Wang. "Intelligent Localization for Integrated Sensing and Communication: Machine Learning-Driven Approaches", <b><i><span style="color: #4682b4;">Springer Nature</span></i></b>, ISBN: 978-981-96-9384-9, 2025. <a href="https://link.springer.com/book/9789819693849">[Link]</a> </p>
 
 ## Under Review Papers
-1. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, Z. Xiong, <b>X. Zhu</b>, J. Liu. "From Ill-Posed to Well-Posed: Federated Uncertainty Aware Learning via Constrained Inference", <b><i>AAAI</i></b>, 2026.</p>
+1. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, J. Liu. "FedCURE: Rectifying Federated Evidential Learning via Constrained Inference", <b><i>IEEE TDSC</i></b>, 2025.</p>
 2. <p> [CCF C] X. He, M. Zhang, <b>X. Zhu*</b>, et al. "A High-Precision CSI-Based Localization Framework with Kolmogorov-Arnold Network and Broad Learning", <b><i>IEEE ICPADS</i></b>, 2025.</p> 
 3. <p> [CCF B] A. Hussain, <b>X. Zhu*</b>, et al. "AeroFlex-RL: A Reinforcement Learning Framework for Adaptive Resource Allocation in Future Wireless Systems", <b><i>IEEE TCOM</i></b>, 2025.</p>
 4. <p> [1区] A. Hussain, <b>X. Zhu</b>, S. Zhang, et al. "AnomSpectraNet: Spectrum-Based Anomaly Detection Using CSI and Attention Mechanisms for Elderly Health Monitoring", <b><i>EAAI</i></b>, 2025.</p>
