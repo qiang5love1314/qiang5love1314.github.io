@@ -6,7 +6,7 @@ author_profile: true
 layout: default
 title: news
 news:
-- "2025.10: I was selected as an Excellent Lead Lecturer for \“Data Structures\” at Beijing Jiaotong University."
+- "2025.10: I was selected as an Excellent Lead Lecturer for \"Data Structures\" at Beijing Jiaotong University."
 - "2025.9: 🎉🎉 Good news! A paper has been accepted by IEEE SmartIoT."
 - "2025.8: 🎉🎉 Good news! A paper has been accepted by IEEE IoT Mag."
 - "2025.8: 🎉🎉 Good news! I have obtained the direct recommendation qualification for the \"China Institute of Electronics Doctoral Dissertation Incentive Plan.\""
