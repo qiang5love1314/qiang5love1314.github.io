@@ -6,6 +6,7 @@ author_profile: true
 layout: default
 title: news
 news:
+- "2025.10: I was selected as an Excellent Lead Lecturer for \“Data Structures\” at Beijing Jiaotong University."
 - "2025.9: 🎉🎉 Good news! A paper has been accepted by IEEE SmartIoT."
 - "2025.8: 🎉🎉 Good news! A paper has been accepted by IEEE IoT Mag."
 - "2025.8: 🎉🎉 Good news! I have obtained the direct recommendation qualification for the \"China Institute of Electronics Doctoral Dissertation Incentive Plan.\""
@@ -187,6 +188,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 11. <p> 邱铁, 吴琛, 赵来平, 李克秋, <b>朱晓强</b>. "一种基于集成宽度学习的快速高精度室内指纹定位方法", No. 202110866814.</p>
 
 # 🎖 Honors and Awards
+- *2025* Excellent Lead Lecturer for “Data Structures”, Beijing Jiaotong University
 - *2025* First Prize of the Science and Technology Progress Award, China Federation of Logistics and Purchasing
 - *2025* AI 2000 Most Influential Scholar Award Honorable Mention in Data Mining <a href="https://www.aminer.cn/ai2000/search_rank?id=53f3a682dabfae4b34adcc4f&searchValue=Xiaoqiang%20Zhu&yearLeft=2015&yearRight=2024">[Certification]</a>
 - *2025* National-level and Beijing-level Innovation and Entrepreneurship Project Supervisor
@@ -236,7 +238,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - 庄浩然
   
 ## 2022级本
-- 余旺（专利 * 1, 在审：IEEE TCCN）
-- 何炫绮（专利 * 1, 在审：IEEE ICPADS）
+- 余旺（专利 * 1, 在审：IEEE TCCN, 推免至北邮）
+- 何炫绮（专利 * 1, 在审：IEEE ICPADS, 推免至电子科大）
 
 <!-- # 💻 My blog -->
