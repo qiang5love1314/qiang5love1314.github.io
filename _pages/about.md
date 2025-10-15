@@ -6,7 +6,7 @@ author_profile: true
 layout: default
 title: news
 news:
-- "2025.9: 🎉🎉 Good news! A paper has been accepted by IEEE ICPADS (CCF C)."
+- "2025.10: 🎉🎉 Good news! A paper has been accepted by IEEE ICPADS (CCF C)."
 - "2025.10: I was selected as an Excellent Lead Lecturer for \"Data Structures\" at Beijing Jiaotong University."
 - "2025.9: 🎉🎉 Good news! A paper has been accepted by IEEE SmartIoT."
 - "2025.8: 🎉🎉 Good news! A paper has been accepted by IEEE IoT Mag."
@@ -119,7 +119,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 # 📝 Publications 
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Published Papers
-1. <p> <span style="color: #FF0000;">[CCF C]</span> X. He, M. Zhang, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "A High-Precision CSI-Based Localization Framework with Kolmogorov-Arnold Network and Broad Learning", <b><i>IEEE ICPADS</i></b>, 2025.</p>
+1. <p> <span style="color: #FF0000;">[CCF C]</span> X. He, M. Zhang, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "A High-Precision CSI-Based Localization Framework with Kolmogorov-Arnold Network and Broad Learning", <b><i><span style="color: #4682b4;">IEEE ICPADS</span></i></b>, 2025.</p>
 2. <p> <span style="color: #FF0000;">[EI]</span> Z. Qiao, S. Yao, Y. Xie, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "Secure Medical Image Encryption via Dual-Channel Strategy and Digital Signature Verification", <b><i><span style="color: #4682b4;">IEEE SmartIoT</span></i></b>, 2025.</p>
 3. <p> <span style="color: #FF0000;">[JCR Q1]</span> M. Zhang, X. He, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "Lightweight Intelligent Localization for Internet of Robotic Things: Method, Theory, Application", <b><i><span style="color: #4682b4;">IEEE IoT Magazine</span></i></b>, 2025.</p>
 4. <p> <span style="color: #FF0000;">[CCF C]</span> S. Hu, W. Yu, J. Liu, Z. Ji, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "DTSAT-DRQN: A Novel DRQN-Enhanced Chaos Communication Strategy with Dual-TCN", <b><i><span style="color: #4682b4;">ICONIP</span></i></b>, 2025.</p>
