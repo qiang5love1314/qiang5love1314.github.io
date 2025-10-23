@@ -236,17 +236,61 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - 占杰鑫
 
 ## 2023级本
-- 贾佩伦
-- 徐滔
-- 章步峰
-- 汪雨辰
-- 林彦孜
-- 方首岳
-- 谢建轩
-- 庄浩然
-- 曹棪
-- 何兴悦
-- 任屹天
+<ul class="student-inline">
+  <li>贾佩伦</li>
+  <li>徐滔</li>
+  <li>章步峰</li>
+  <li>汪雨辰</li>
+  <li>林彦孜</li>
+  <li>方首岳</li>
+  <li>谢建轩</li>
+  <li>庄浩然</li>
+  <li>曹棪</li>
+  <li>何兴悦</li>
+  <li>任屹天</li>
+</ul>
+
+<style>
+  /* ===== 横向姓名分布（无卡片） ===== */
+  .student-inline {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;    /* 居中对齐 */
+    gap: 10px 20px;             /* 行间距10px，列间距20px */
+    list-style: none;
+    padding-left: 0;
+    margin: 8px 0 24px 0;
+  }
+
+  .student-inline li {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #111827;
+    padding: 4px 10px;
+    border-radius: 999px;
+    background: #f9fafb;        /* 微浅底色，整洁 */
+    transition: all 0.2s ease;
+  }
+
+  .student-inline li:hover {
+    background: #2563eb;
+    color: #fff;
+    transform: translateY(-2px);
+  }
+
+  /* 暗色模式适配 */
+  @media (prefers-color-scheme: dark) {
+    .student-inline li {
+      background: #1e1f22;
+      color: #e5e7eb;
+      border: 1px solid #2f3136;
+    }
+    .student-inline li:hover {
+      background: #2563eb;
+      color: #fff;
+    }
+  }
+</style>
   
 ## 2022级本
 - 余旺（专利 * 1, 在审：IEEE TCCN, 推免至北邮）
