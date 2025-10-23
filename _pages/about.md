@@ -223,12 +223,18 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - Software Testing, M310007B
 
 # 🧑‍💻 Students
+## 2025级博
+- 张明博 (录用：IEEE IoT Mag, IEEE MSN, IEEE ICC workshop, 专利 * 1)
+
 ## 2023级硕
-- 张明博 (录用：IEEE IoT Mag, IEEE MSN, IEEE ICC workshop, 专利 * 1。)
-- 胡思宇 (录用：IEEE MSN, ICONIP, 专利 * 2。)
+- 胡思宇 (录用：IEEE MSN, ICONIP, 专利 * 2)
 - 任城仪 (录用：《软件导刊》)
 - 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》。在审：IEEE TIFS)
   
+## 2024级本
+- 陈予暄
+- 占杰鑫
+
 ## 2023级本
 - 贾佩伦
 - 徐滔
@@ -238,6 +244,9 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - 方首岳
 - 谢建轩
 - 庄浩然
+- 曹棪
+- 何兴悦
+- 任屹天
   
 ## 2022级本
 - 余旺（专利 * 1, 在审：IEEE TCCN, 推免至北邮）
