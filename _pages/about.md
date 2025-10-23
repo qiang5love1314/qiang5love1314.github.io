@@ -232,8 +232,10 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》。在审：IEEE TIFS)
   
 ## 2024级本
-- 陈予暄
-- 占杰鑫
+<ul class="student-inline">
+  <li>陈予暄</li>
+  <li>占杰鑫</li>
+</ul>
 
 ## 2023级本
 <ul class="student-inline">
