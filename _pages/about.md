@@ -222,6 +222,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - Professional Course Comprehensive Practical Training I, P210001B
 - Cloud Computing and Big Data Platform Analysis, M510014B
 - Software Testing, M310007B
+- HarmonyOS Mobile Application Development, M519009B
 
 # 🧑‍💻 Students
 ## 2025级博
