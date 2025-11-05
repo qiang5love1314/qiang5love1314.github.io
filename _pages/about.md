@@ -155,7 +155,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 1. <p> <span style="color: #FF0000;">[Whole Book]</span> <b><span style="color: #4682b4;">X. Zhu</span></b>, Y. Liu, C. Wang. "Intelligent Localization for Integrated Sensing and Communication: Machine Learning-Driven Approaches", <b><i><span style="color: #4682b4;">Springer Nature</span></i></b>, ISBN: 978-981-96-9384-9, 2025. <a href="https://link.springer.com/book/9789819693849">[Link]</a> </p>
 
 ## Under Review Papers
-1. <p> [CCF B] M. Zhang, P. Jia, S. Zhu, <b>X. Zhu</b>, et al. "LIN-Loc: Indoor CSI Radio Map Construction and Localization Via Deep-Broad Learning System and Generative Models", <b><i>IEEE TWC</i></b>, 2025.</p>
+1. <p> [CCF B] M. Zhang, P. Jia, S. Zhu, <b>X. Zhu*</b>, et al. "LIN-Loc: Indoor CSI Radio Map Construction and Localization Via Deep-Broad Learning System and Generative Models", <b><i>IEEE TWC</i></b>, 2025.</p>
 2. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, J. Liu. "FedCURE: Rectifying Federated Evidential Learning via Constrained Inference", <b><i>IEEE TDSC</i></b>, 2025.</p>
 3. <p> [2区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>IEEE TNSE</i></b>, 2025.</p>
 4. <p> [CCF B] A. Hussain, <b>X. Zhu*</b>, et al. "AeroFlex-RL: A Reinforcement Learning Framework for Adaptive Resource Allocation in Future Wireless Systems", <b><i>IEEE TCOM</i></b>, 2025.</p>
