@@ -109,6 +109,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - Thesis Title: "Image Encryption Algorithm Based on Multiple Mixed Hash Functions"
 
 # 🎓 Fundings
+- 未来区块链与隐私计算高精尖创新中心，长安链并行性能优化技术研究——子任务，No. CS25M200040，15万，2025-2026，主持
 - 北京交通大学研究生教改项目，《软件缺陷检测与可信评估实践》课程思政示范课程建设项目，No. YJSSQ20250022，3万，2025-2027，主持
 - 国家自然科学基金——青年科学基金项目，基于生成式网络的智能信道状态信息通感模型研究，No. 62401037，30万，2025-2027，主持
 - 中国博士后科学基金——面上项目，面向信道状态信息的轻量级智能通感一体化关键技术研究，No. 2024M750166，8万，2024-2026，主持
