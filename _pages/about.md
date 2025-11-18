@@ -165,7 +165,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 7. <p> [1区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TCCN</i></b>, 2025.</p>
 8. <p> [CCF C] Y. Dong, Y. Yao, X. Chang, K. Wang, <b>X. Zhu</b>, T. Zhang. "A Post-Quantum Secure and Lightweight Telemedicine Service Scheme Based on Frodo KEM", <b><i>IEEE ICC</i></b>, 2026.</p>
 9. <p> [CCF C] A. Hussain, <b>X. Zhu*</b>. "SpecSense: A Multi-Feature Transformer Approach for Reliable Low-SNR Spectrum Sensing in Mobile Systems", <b><i>IEEE ICC</i></b>, 2026.</p>
-10. <p> [2区] W. Chen, P. Wang, M. Zhang, F. Liu, R. Gao, <b>X. Zhu</b>, et al. "Driving Behavior Detection and Scene Recognition via Mobile Crowdsensing", <b><i>IEEE Sensors Journal</i></b>, 2025.</p>
+10. <p> [2区] W. Chen, P. Wang, M. Zhang, F. Liu, R. Gao, <b>X. Zhu</b>, et al. "Driving Behavior Detection and Scene Recognition via Mobile Crowdsensing", <b><i>IEEE Systems Journal</i></b>, 2025.</p>
 
 
 
