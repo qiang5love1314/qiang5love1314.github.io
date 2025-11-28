@@ -1,4 +1,3 @@
-<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/7c2ecb44-e2a8-49a9-85a9-19f5f571cd71" /><img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/6216a51f-9f44-49e8-81f8-05cc3a8bfb60" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -6,7 +5,7 @@ author_profile: true
 layout: default
 title: news
 news:
-- "2025.11: 🎉🎉 Good news! I have been awarded a Research Performance Assessment Grant (Third Grade) of the China Postdoctoral Science Foundation ."
+- "2025.11: 🎉🎉 Good news! I have been awarded a Research Performance Assessment Grant (Third Grade) of the China Postdoctoral Science Foundation."
 - "2025.10: 🎉🎉 Good news! A paper has been accepted by IEEE ICPADS (CCF C)."
 - "2025.10: I was selected as an Excellent Lead Lecturer for \"Data Structures\" at Beijing Jiaotong University."
 - "2025.9: 🎉🎉 Good news! A paper has been accepted by IEEE SmartIoT."
