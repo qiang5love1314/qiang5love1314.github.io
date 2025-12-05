@@ -160,9 +160,9 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 1. <p> [CCF B] M. Zhang, P. Jia, S. Zhu, <b>X. Zhu*</b>, et al. "LIN-Loc: Indoor CSI Radio Map Construction and Localization Via Deep-Broad Learning System and Generative Models", <b><i>IEEE TWC</i></b>, 2025.</p>
 2. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, J. Liu. "FedCURE: Rectifying Federated Evidential Learning via Constrained Inference", <b><i>IEEE TDSC</i></b>, 2025.</p>
 3. <p> [1区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>ACM Computing Surveys</i></b>, 2025.</p>
-4. <p> [CCF B] A. Hussain, <b>X. Zhu*</b>, et al. "AeroFlex-RL: A Reinforcement Learning Framework for Adaptive Resource Allocation in Future Wireless Systems", <b><i>IEEE TCOM</i></b>, 2025.</p>
+4. <p> [1区] A. Hussain, <b>X. Zhu*</b>, et al. "GRETEL: A Graph Attention Network for Low-SNR Spectrum Anomaly Detection in IoT Communications", <b><i>IEEE IoTJ</i></b>, 2025.</p>
 5. <p> [1区] A. Hussain, <b>X. Zhu*</b>, S. Zhang, et al. "AnomSpectraNet: Spectrum-Based Anomaly Detection Using CSI and Attention Mechanisms for Elderly Health Monitoring", <b><i>EAAI</i></b>, 2025.</p>
-6. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PoGL: A GAN-Based Proof of Federated Learning Framework to Defend Against Adversarial Attacks", <b><i>IEEE TIFS</i></b>, 2025.</p>
+6. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PoGL: A GAN-Based Proof of Federated Learning Framework to Defend Against Adversarial Attacks", <b><i>IEEE ToN</i></b>, 2025.</p>
 7. <p> [1区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TCCN</i></b>, 2025.</p>
 8. <p> [CCF C] Y. Dong, Y. Yao, X. Chang, K. Wang, <b>X. Zhu</b>, T. Zhang. "A Post-Quantum Secure and Lightweight Telemedicine Service Scheme Based on Frodo KEM", <b><i>IEEE ICC</i></b>, 2026.</p>
 9. <p> [CCF C] A. Hussain, <b>X. Zhu*</b>. "SpecSense: A Multi-Feature Transformer Approach for Reliable Low-SNR Spectrum Sensing in Mobile Systems", <b><i>IEEE ICC</i></b>, 2026.</p>
@@ -178,17 +178,18 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 -->
 
 ## Grant Patents
-1. <p><b>朱晓强</b>, 余旺, 胡思宇, 等. "基于小样本学习的人体姿态识别算法研究", 2025.</p>
-2. <p><b>朱晓强</b>, 何炫锜, 张明博, 等. "一种基于Kolmogorov-Arnold网络和宽度学习系统的高精度CSI定位框架技术", 2025.</p>
-3. <p><b>朱晓强</b>, 胡思宇, 余旺, 等. "一种基于深度强化学习的增强型OFDM-DCSK混沌加密方法", 2025.</p>
-4. <p><b>朱晓强</b>, 胡思宇, 刘吉强, 等. "一种基于融合注意力机制原型神经网络的人体行为识别方法", No. 202411463529.7, 2024.</p>
-5. <p><b>朱晓强</b>, 张明博, 鲁凌云, 等. "基于深度与宽度学习的CSI指纹数据库优化方法", No. 2024113941670, 2024.</p>
-6. <p><b>朱晓强</b>, 刘吉强, 鲁凌云, 等. "一种基于强化学习的CSI指纹地图构建的路径规划方法", No. 202310874838.2, 2023.</p>
-7. <p><b>朱晓强</b>, 刘吉强, 张大林, 等. "一种基于模仿学习的智能自适应CSI指纹地图更新方法", No. 202310775481.2, 2023.</p>
-8. <p> 邱铁, <b>朱晓强</b>, 曲雯毓. "一种基于CSI图像的增量式智能室内定位方法", No. CN113691940A, 2022.09.27.</p>
-9. <p> 邱铁, <b>朱晓强</b>, 曲雯毓. "一种基于宽度学习的快速室内指纹定位方法", No. CN111929641A, 2022.08.09</p>
-10. <p> 邱铁, 黄慧娟, 周晓波, 张朝昆, <b>朱晓强</b>. "基于信道状态信息的心率监测方法及呼吸事件检测方法", No. 202210661544.</p>
-11. <p> 邱铁, 吴琛, 赵来平, 李克秋, <b>朱晓强</b>. "一种基于集成宽度学习的快速高精度室内指纹定位方法", No. 202110866814.</p>
+1. <p><b>朱晓强</b>, 张明博, 高睿鹏, 等. "一种基于生成学习的室内CSI无线地图构建与定位方法", 2025.</p>
+2. <p><b>朱晓强</b>, 余旺, 胡思宇, 等. "基于小样本学习的人体姿态识别算法研究", 2025.</p>
+3. <p><b>朱晓强</b>, 何炫锜, 张明博, 等. "一种基于Kolmogorov-Arnold网络和宽度学习系统的高精度CSI定位框架技术", 2025.</p>
+4. <p><b>朱晓强</b>, 胡思宇, 余旺, 等. "一种基于深度强化学习的增强型OFDM-DCSK混沌加密方法", 2025.</p>
+5. <p><b>朱晓强</b>, 胡思宇, 刘吉强, 等. "一种基于融合注意力机制原型神经网络的人体行为识别方法", No. 202411463529.7, 2024.</p>
+6. <p><b>朱晓强</b>, 张明博, 鲁凌云, 等. "基于深度与宽度学习的CSI指纹数据库优化方法", No. 2024113941670, 2024.</p>
+7. <p><b>朱晓强</b>, 刘吉强, 鲁凌云, 等. "一种基于强化学习的CSI指纹地图构建的路径规划方法", No. 202310874838.2, 2023.</p>
+8. <p><b>朱晓强</b>, 刘吉强, 张大林, 等. "一种基于模仿学习的智能自适应CSI指纹地图更新方法", No. 202310775481.2, 2023.</p>
+9. <p> 邱铁, <b>朱晓强</b>, 曲雯毓. "一种基于CSI图像的增量式智能室内定位方法", No. CN113691940A, 2022.09.27.</p>
+10. <p> 邱铁, <b>朱晓强</b>, 曲雯毓. "一种基于宽度学习的快速室内指纹定位方法", No. CN111929641A, 2022.08.09</p>
+11. <p> 邱铁, 黄慧娟, 周晓波, 张朝昆, <b>朱晓强</b>. "基于信道状态信息的心率监测方法及呼吸事件检测方法", No. 202210661544.</p>
+12. <p> 邱铁, 吴琛, 赵来平, 李克秋, <b>朱晓强</b>. "一种基于集成宽度学习的快速高精度室内指纹定位方法", No. 202110866814.</p>
 
 # 🎖 Honors and Awards
 - *2025* Research Performance Assessment Grant (Third Grade), China Postdoctoral Science Foundation
