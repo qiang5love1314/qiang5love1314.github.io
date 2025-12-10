@@ -160,7 +160,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 1. <p> [CCF B] M. Zhang, P. Jia, S. Zhu, <b>X. Zhu*</b>, et al. "LIN-Loc: Indoor CSI Radio Map Construction and Localization Via Deep-Broad Learning System and Generative Models", <b><i>IEEE TWC</i></b>, 2025.</p>
 2. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, J. Liu. "FedCURE: Rectifying Federated Evidential Learning via Constrained Inference", <b><i>IEEE TDSC</i></b>, 2025.</p>
 3. <p> [1区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>ACM Computing Surveys</i></b>, 2025.</p>
-4. <p> [1区] A. Hussain, <b>X. Zhu*</b>, et al. "GRETEL: A Graph Attention Network for Low-SNR Spectrum Anomaly Detection in IoT Communications", <b><i>IEEE IoTJ</i></b>, 2025.</p>
+4. <p> [2区] A. Hussain, <b>X. Zhu*</b>, et al. "GRETEL: A Graph Attention Network for Low-SNR Spectrum Anomaly Detection in IoT Communications", <b><i>IEEE IoTJ</i></b>, 2025.</p>
 5. <p> [1区] A. Hussain, <b>X. Zhu*</b>, S. Zhang, et al. "AnomSpectraNet: Spectrum-Based Anomaly Detection Using CSI and Attention Mechanisms for Elderly Health Monitoring", <b><i>EAAI</i></b>, 2025.</p>
 6. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PoGL: A GAN-Based Proof of Federated Learning Framework to Defend Against Adversarial Attacks", <b><i>IEEE ToN</i></b>, 2025.</p>
 7. <p> [1区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TCCN</i></b>, 2025.</p>
@@ -228,12 +228,12 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 
 # 🧑‍💻 Students
 ## 2025级博
-- 张明博 (录用：IEEE IoT Mag, IEEE MSN, IEEE ICC workshop, 专利 * 1。在审：IEEE TWC)
+- 张明博 (录用：IEEE IoT Mag, IEEE MSN, IEEE ICC workshop, 专利 * 2。在审：IEEE TWC)
 
 ## 2023级硕
 - 胡思宇 (录用：IEEE MSN, ICONIP, 专利 * 2)
 - 任城仪 (录用：《软件导刊》)
-- 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》。在审：IEEE TIFS)
+- 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》。在审：IEEE ToN)
   
 ## 2024级本
 <ul class="student-inline">
