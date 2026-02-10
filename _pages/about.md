@@ -159,17 +159,20 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 1. <p> <span style="color: #FF0000;">[Whole Book]</span> <b><span style="color: #4682b4;">X. Zhu</span></b>, Y. Liu, C. Wang. "Intelligent Localization for Integrated Sensing and Communication: Machine Learning-Driven Approaches", <b><i><span style="color: #4682b4;">Springer Nature</span></i></b>, ISBN: 978-981-96-9384-9, 2025. <a href="https://link.springer.com/book/9789819693849">[Link]</a> </p>
 
 ## Under Review Papers
-1. <p> [CCF B] M. Zhang, P. Jia, S. Zhu, <b>X. Zhu*</b>, et al. "LIN-Loc: Indoor CSI Radio Map Construction and Localization Via Deep-Broad Learning System and Generative Models", <b><i>IEEE TWC</i></b>, 2025.</p>
-2. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, J. Liu. "FedCURE: Rectifying Federated Evidential Learning via Constrained Inference", <b><i>IEEE TDSC</i></b>, 2025.</p>
-3. <p> [1区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>ACM Computing Surveys</i></b>, 2025.</p>
-4. <p> [2区] A. Hussain, <b>X. Zhu*</b>, et al. "GRETEL: A Graph Attention Network for Low-SNR Spectrum Anomaly Detection in IoT Communications", <b><i>IEEE IoTJ</i></b>, 2025.</p>
-5. <p> [2区] W. Chen, P. Wang, M. Zhang, F. Liu, R. Gao, <b>X. Zhu</b>, et al. "Driving Behavior Detection and Scene Recognition via Mobile Crowdsensing", <b><i>IEEE Systems Journal</i></b>, 2025.</p>
-6. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>IEEE TMC</i></b>, 2025.</p>
-7. <p> [1区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TCCN</i></b>, 2025.</p>
+1. <p> [EI] B. Zhang, Y. Cao, T. Xu, A. Hussain, <b>X. Zhu*</b>, et al. "mage Encryption Algorithm Based on A Multilayer Broad Echo State Network and Hyperchaotic Chen System", <b><i>ICAIAgent</i></b>, 2026.</p>
+2. <p> [CCF A] S. Fang, Y. Wang, <b>X. Zhu*</b>, et al. "Adaptive Multi-Prototype Gaussian Prototypical Network for Few-shot UAV Spectrogram Classification", <b><i>IEEE TMC</i></b>, 2026.</p>
+3. <p> [CCF B] A. Hussain, <b>X. Zhu*</b>. "SpecSense: A Multi-Feature Transformer Approach for Reliable Low-SNR Spectrum Sensing in Mobile Systems", <b><i>IEEE/ACM IWQoS</i></b>, 2026.</p>
+4. <p> [CCF B] M. Zhang, P. Jia, S. Zhu, <b>X. Zhu*</b>, et al. "LIN-Loc: Indoor CSI Radio Map Construction and Localization Via Deep-Broad Learning System and Generative Models", <b><i>IEEE TWC</i></b>, 2025.</p>
+5. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, J. Liu. "FedCURE: Rectifying Federated Evidential Learning via Constrained Inference", <b><i>IEEE TDSC</i></b>, 2025.</p>
+6. <p> [1区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>ACM Computing Surveys</i></b>, 2025.</p>
+7. <p> [2区] A. Hussain, <b>X. Zhu*</b>, et al. "GRETEL: A Graph Attention Network for Low-SNR Spectrum Anomaly Detection in IoT Communications", <b><i>IEEE IoTJ</i></b>, 2025.</p>
+8. <p> [2区] W. Chen, P. Wang, M. Zhang, F. Liu, R. Gao, <b>X. Zhu</b>, et al. "Driving Behavior Detection and Scene Recognition via Mobile Crowdsensing", <b><i>IEEE Systems Journal</i></b>, 2025.</p>
+9. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>IEEE TMC</i></b>, 2025.</p>
+10. <p> [1区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TCCN</i></b>, 2025.</p>
 
 <!--
 8. <p> [CCF C] Y. Dong, Y. Yao, X. Chang, K. Wang, <b>X. Zhu</b>, T. Zhang. "A Post-Quantum Secure and Lightweight Telemedicine Service Scheme Based on Frodo KEM", <b><i>IEEE ICC</i></b>, 2026.</p>
-9. <p> [CCF C] A. Hussain, <b>X. Zhu*</b>. "SpecSense: A Multi-Feature Transformer Approach for Reliable Low-SNR Spectrum Sensing in Mobile Systems", <b><i>IEEE ICC</i></b>, 2026.</p>
+9. 
 <p> [CCF A] J. Dai, Z. Ji, Z. Xiong, <b>X. Zhu</b>, et al. "Modal Interaction and Gradient Calibration for Few-shot Class-Incremental Learning", <b><i>ACM MM</i></b>, 2025.</p>
 <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, J. Liu. "FedFlow: Federated Parameter Matching via Optimal Probability Flows", <b><i>NeurIPS</i></b>, 2025.</p>
 <p> [CCF A] R. Tian, C. Li, Y. Xin, H. Wu, D. Liu, F. Dang, R. Gao, <b>X. Zhu</b>, L. Li. "CE-AdaSAC: Real-Time Cloud-Edge Inference with Adaptive Self-Pruning and Fast Deployment", <b><i>IEEE INFOCOM</i></b>, 2026.</p>
@@ -241,10 +244,12 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 </ul>
 
 ## 2023级本
+- 章步峰 (在审：ICAIAgent 2026)
+- 方首岳 (在审：IEEE TMC)
+
 <ul class="student-inline">
   <li>贾佩伦</li>
   <li>徐滔</li>
-  <li>章步峰</li>
   <li>汪雨辰</li>
   <li>林彦孜</li>
   <li>方首岳</li>
