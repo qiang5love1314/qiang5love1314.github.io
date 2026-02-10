@@ -252,7 +252,6 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
   <li>徐滔</li>
   <li>汪雨辰</li>
   <li>林彦孜</li>
-  <li>方首岳</li>
   <li>谢建轩</li>
   <li>庄浩然</li>
   <li>曹棪</li>
