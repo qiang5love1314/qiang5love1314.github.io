@@ -243,6 +243,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
   <li>陈予暄</li>
   <li>占杰鑫</li>
 </ul>
+
 ## 2023级本
 - 章步峰 (在审：ICAIAgent 2026)
 - 方首岳 (在审：IEEE TMC)
