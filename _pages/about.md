@@ -125,7 +125,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 # 📝 Publications 
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Published Papers
-1.  <p> <span style="color: #FF0000;">[EI]</span> B. Zhang, Y. Cao, T. Xu, A. Hussain, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "mage Encryption Algorithm Based on A Multilayer Broad Echo State Network and Hyperchaotic Chen System", <b><i><span style="color: #4682b4;">ICAIAgent</span></i></b>, 2026.</p>
+1.  <p> <span style="color: #FF0000;">[EI]</span> B. Zhang, Y. Cao, T. Xu, A. Hussain, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "Image Encryption Algorithm Based on A Multilayer Broad Echo State Network and Hyperchaotic Chen System", <b><i><span style="color: #4682b4;">ICAIAgent</span></i></b>, 2026.</p>
 2. <p> <span style="color: #FF0000;">[1区]</span> A. Hussain, <b><span style="color: #4682b4;">X. Zhu</span></b>, S. Zhang, et al. "AnomSpectraNet: Spectrum-Based Anomaly Detection Using CSI and Attention Mechanisms for Elderly Health Monitoring", <b><i><span style="color: #4682b4;">EAAI</span></i></b>, 2025.</p>
 3. <p> <span style="color: #FF0000;">[CCF C]</span> X. He, M. Zhang, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "A High-Precision CSI-Based Localization Framework with Kolmogorov-Arnold Network and Broad Learning", <b><i><span style="color: #4682b4;">IEEE ICPADS</span></i></b>, 2025.</p>
 4. <p> <span style="color: #FF0000;">[EI]</span> Z. Qiao, S. Yao, Y. Xie, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "Secure Medical Image Encryption via Dual-Channel Strategy and Digital Signature Verification", <b><i><span style="color: #4682b4;">IEEE SmartIoT</span></i></b>, 2025.</p>
