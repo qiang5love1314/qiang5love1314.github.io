@@ -247,8 +247,8 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 </ul>
 
 ## 2023级本
-- 贾佩伦 (在审：IEEE/ACM IWQoS 2026)
-- 方首岳 (在审：IEEE TMC)
+- 贾佩伦 (在审：IEEE/ACM IWQoS 2026, 专利 * 1)
+- 方首岳 (在审：IEEE TMC, 专利 * 1)
 - 徐滔 (在审：ESWA)
 - 曹棪 (在审：《软件导刊》)
 - 章步峰 (录用：ICAIAgent 2026)
