@@ -165,7 +165,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 ## Under Review Papers
 1. <p> [CCF A] S. Fang, Y. Wang, <b>X. Zhu*</b>, et al. "Adaptive Multi-Prototype Gaussian Prototypical Network for Few-shot UAV Spectrogram Classification", <b><i>IEEE TMC</i></b>, 2026.</p>
 2. <p> [2区] M. Zhang, P. Jia, S. Zhu, <b>X. Zhu*</b>, et al. "LIN-Loc: Indoor CSI Radio Map Construction and Localization Via Deep-Broad Learning System and Generative Models", <b><i>IEEE TNSE</i></b>, 2026.</p>
-3. <p> [1区] T. Xu, Y. Cao, B. Zhang, <b>X. Zhu*</b>. "LCD-Crypt: LoRA--Chaos Collaborative Image Encryption in Diffusion Latent Space with Residual-Assisted Reconstruction", <b><i>ESWA</i></b>, 2026.</p>
+3. <p> [1区] T. Xu, Y. Cao, B. Zhang, <b>X. Zhu*</b>. "LCD-Crypt: LoRA--Chaos Collaborative Image Encryption in Diffusion Latent Space with Residual-Assisted Reconstruction", <b><i>Chaos, Solitons and Fractals</i></b>, 2026.</p>
 4. <p> [CCF B] A. Hussain, <b>X. Zhu*</b>. "SpecSense: A Multi-Feature Transformer Approach for Reliable Low-SNR Spectrum Sensing in Mobile Systems", <b><i>IEEE/ACM IWQoS</i></b>, 2026.</p>
 5. <p> [CCF B] P. Jia, H. Zhang, M. Zhang, <b>X. Zhu*</b>, et al. "Temporal Predictive Joint Hybrid Beamforming Framework for Mitigating Channel Aging in High-Mobility MIMO-OFDM Systems", <b><i>IEEE/ACM IWQoS</i></b>, 2026.</p>
 6. <p> [CCF C] Y. Cao, B. Zhang, T. Xu, <b>X. Zhu*</b>. "基于分数阶超混沌与条件GAN及可逆水印的医学图像加密算法", <b><i>软件导刊</i></b>, 2026.</p>
@@ -249,7 +249,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 ## 2023级本
 - 贾佩伦 (在审：IEEE/ACM IWQoS 2026, 专利 * 1)
 - 方首岳 (在审：IEEE TMC, 专利 * 1)
-- 徐滔 (在审：ESWA)
+- 徐滔 (在审：Chaos, Solitons and Fractals)
 - 曹棪 (在审：《软件导刊》)
 - 章步峰 (录用：ICAIAgent 2026)
 
