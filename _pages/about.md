@@ -171,15 +171,15 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 3. <p> [1区] T. Xu, Y. Cao, B. Zhang, <b>X. Zhu*</b>. "LCD-Crypt: LoRA--Chaos Collaborative Image Encryption in Diffusion Latent Space with Residual-Assisted Reconstruction", <b><i>EAAI</i></b>, 2026.</p>
 4. <p> [CCF B] A. Hussain, <b>X. Zhu*</b>. "SpecSense: A Multi-Feature Transformer Approach for Reliable Low-SNR Spectrum Sensing in Mobile Systems", <b><i>IEEE/ACM IWQoS</i></b>, 2026.</p>
 5. <p> [CCF B] P. Jia, H. Zhang, M. Zhang, <b>X. Zhu*</b>, et al. "Temporal Predictive Joint Hybrid Beamforming Framework for Mitigating Channel Aging in High-Mobility MIMO-OFDM Systems", <b><i>IEEE/ACM IWQoS</i></b>, 2026.</p>
-6. <p> [2区] A. Hussain, <b>X. Zhu*</b>, et al. "GRETEL: A Graph Attention Network for Low-SNR Spectrum Anomaly Detection in IoT Communications", <b><i>IEEE IoTJ</i></b>, 2026.</p>
+6. <p> [1区] A. Hussain, <b>X. Zhu*</b>, et al. "GRETEL: A Graph Attention Network for Low-SNR Spectrum Anomaly Detection in IoT Communications", <b><i>IEEE IoTJ</i></b>, 2026.</p>
 7. <p> [CCF A] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TMC</i></b>, 2026.</p>
-8. <p> [CCF A] X. Chen, Z. Yang, H. Xing, <b>X. Zhu</b>, et al. "FedCSA: Adaptive Category-Wise Semantic Alignment for Personalized Federated Learning under Distribution Shifts", <b><i>IEEE TPDS</i></b>, 2026.</p>
-9. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>IEEE TMC</i></b>, 2026.</p>
-10. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, et al. "Call the Bluff: Provable Restoration of Evidential Identifiability in Non-IID Federated Learning", <b><i>IEEE TDSC</i></b>, 2026.</p>
-11. <p> [CCF A] E. Chang, X. Che, J. Zhang, et al. "MPBA-VRAG: A Multimodal Physiological–Behavioral Affective Dataset and Benchmark for Valence–Arousal Recognition in VR Action Games", <b><i>IEEE TAC</i></b>, 2026.</p>
-12. <p> [1区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>ACM Computing Surveys</i></b>, 2025.</p>
-13. <p> [2区] W. Chen, P. Wang, M. Zhang, F. Liu, R. Gao, <b>X. Zhu</b>, et al. "Driving Behavior Detection and Scene Recognition via Mobile Crowdsensing", <b><i>IEEE Systems Journal</i></b>, 2025.</p>
-
+8. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>IEEE TMC</i></b>, 2026.</p>
+9. <p> [CCF A] X. Chen, Z. Yang, H. Xing, <b>X. Zhu</b>, et al. "FedCSA: Adaptive Category-Wise Semantic Alignment for Personalized Federated Learning under Distribution Shifts", <b><i>IEEE TPDS</i></b>, 2026.</p>
+10. <p> [CCF A] E. Chang, X. Che, J. Zhang, et al. "MPBA-VRAG: A Multimodal Physiological–Behavioral Affective Dataset and Benchmark for Valence–Arousal Recognition in VR Action Games", <b><i>IEEE TAC</i></b>, 2026.</p>
+11. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, et al. "Call the Bluff: Provable Restoration of Evidential Identifiability in Non-IID Federated Learning", <b><i>IEEE TDSC</i></b>, 2026.</p>
+12. <p> [2区] W. Chen, P. Wang, M. Zhang, F. Liu, R. Gao, <b>X. Zhu</b>, et al. "Driving Behavior Detection and Scene Recognition via Mobile Crowdsensing", <b><i>IEEE Systems Journal</i></b>, 2025.</p>
+13. <p> [1区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>ACM Computing Surveys</i></b>, 2025.</p>
+    
 <!--
 8. <p> [CCF C] Y. Dong, Y. Yao, X. Chang, K. Wang, <b>X. Zhu</b>, T. Zhang. "A Post-Quantum Secure and Lightweight Telemedicine Service Scheme Based on Frodo KEM", <b><i>IEEE ICC</i></b>, 2026.</p>
 9. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, J. Liu. "FedCURE: Rectifying Federated Evidential Learning via Constrained Inference", <b><i>IEEE TDSC</i></b>, 2025.</p>
