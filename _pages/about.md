@@ -174,11 +174,12 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 6. <p> [2区] A. Hussain, <b>X. Zhu*</b>, et al. "GRETEL: A Graph Attention Network for Low-SNR Spectrum Anomaly Detection in IoT Communications", <b><i>IEEE IoTJ</i></b>, 2026.</p>
 7. <p> [CCF A] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TMC</i></b>, 2026.</p>
 8. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>IEEE TMC</i></b>, 2026.</p>
-9. <p> [CCF A] X. Chen, Z. Yang, H. Xing, <b>X. Zhu</b>, et al. "FedCSA: Adaptive Category-Wise Semantic Alignment for Personalized Federated Learning under Distribution Shifts", <b><i>IEEE TPDS</i></b>, 2026.</p>
-10. <p> [CCF B] E. Chang, X. Che, J. Zhang, et al. "MPBA-VRAG: A Multimodal Physiological–Behavioral Affective Dataset and Benchmark for Valence–Arousal Recognition in VR Action Games", <b><i>IEEE TAC</i></b>, 2026.</p>
-11. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, et al. "Call the Bluff: Provable Restoration of Evidential Identifiability in Non-IID Federated Learning", <b><i>IEEE TDSC</i></b>, 2026.</p>
-12. <p> [2区] W. Chen, P. Wang, M. Zhang, F. Liu, R. Gao, <b>X. Zhu</b>, et al. "Driving Behavior Detection and Scene Recognition via Mobile Crowdsensing", <b><i>IEEE Systems Journal</i></b>, 2025.</p>
-13. <p> [1区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>ACM Computing Surveys</i></b>, 2025.</p>
+9. <p> [CCF C] <b>X. Zhu*</b>, Y. Lin, H. Zhang, et al. "基于多维特征与动态防御的区块链联邦学习鲁棒聚合方案", <b><i>信息网络安全</i></b>, 2026.</p>
+10. <p> [CCF A] X. Chen, Z. Yang, H. Xing, <b>X. Zhu</b>, et al. "FedCSA: Adaptive Category-Wise Semantic Alignment for Personalized Federated Learning under Distribution Shifts", <b><i>IEEE TPDS</i></b>, 2026.</p>
+11. <p> [CCF B] E. Chang, X. Che, J. Zhang, et al. "MPBA-VRAG: A Multimodal Physiological–Behavioral Affective Dataset and Benchmark for Valence–Arousal Recognition in VR Action Games", <b><i>IEEE TAC</i></b>, 2026.</p>
+12. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, et al. "Call the Bluff: Provable Restoration of Evidential Identifiability in Non-IID Federated Learning", <b><i>IEEE TDSC</i></b>, 2026.</p>
+13. <p> [2区] W. Chen, P. Wang, M. Zhang, F. Liu, R. Gao, <b>X. Zhu</b>, et al. "Driving Behavior Detection and Scene Recognition via Mobile Crowdsensing", <b><i>IEEE Systems Journal</i></b>, 2025.</p>
+14. <p> [1区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>ACM Computing Surveys</i></b>, 2025.</p>
     
 <!--
 8. <p> [CCF C] Y. Dong, Y. Yao, X. Chang, K. Wang, <b>X. Zhu</b>, T. Zhang. "A Post-Quantum Secure and Lightweight Telemedicine Service Scheme Based on Frodo KEM", <b><i>IEEE ICC</i></b>, 2026.</p>
@@ -188,18 +189,20 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 -->
 
 ## Grant Patents
-1. <p><b>朱晓强</b>, 张明博, 高睿鹏, 等. "一种基于生成学习的室内CSI无线地图构建与定位方法", 2025.</p>
-2. <p><b>朱晓强</b>, 余旺, 胡思宇, 等. "基于小样本学习的人体姿态识别算法研究", 2025.</p>
-3. <p><b>朱晓强</b>, 何炫锜, 张明博, 等. "一种基于Kolmogorov-Arnold网络和宽度学习系统的高精度CSI定位框架技术", 2025.</p>
-4. <p><b>朱晓强</b>, 胡思宇, 余旺, 等. "一种基于深度强化学习的增强型OFDM-DCSK混沌加密方法", 2025.</p>
-5. <p><b>朱晓强</b>, 胡思宇, 刘吉强, 等. "一种基于融合注意力机制原型神经网络的人体行为识别方法", No. 202411463529.7, 2024.</p>
-6. <p><b>朱晓强</b>, 张明博, 鲁凌云, 等. "基于深度与宽度学习的CSI指纹数据库优化方法", No. 2024113941670, 2024.</p>
-7. <p><b>朱晓强</b>, 刘吉强, 鲁凌云, 等. "一种基于强化学习的CSI指纹地图构建的路径规划方法", No. 202310874838.2, 2023.</p>
-8. <p><b>朱晓强</b>, 刘吉强, 张大林, 等. "一种基于模仿学习的智能自适应CSI指纹地图更新方法", No. 202310775481.2, 2023.</p>
-9. <p> 邱铁, <b>朱晓强</b>, 曲雯毓. "一种基于CSI图像的增量式智能室内定位方法", No. CN113691940A, 2022.09.27.</p>
-10. <p> 邱铁, <b>朱晓强</b>, 曲雯毓. "一种基于宽度学习的快速室内指纹定位方法", No. CN111929641A, 2022.08.09</p>
-11. <p> 邱铁, 黄慧娟, 周晓波, 张朝昆, <b>朱晓强</b>. "基于信道状态信息的心率监测方法及呼吸事件检测方法", No. 202210661544.</p>
-12. <p> 邱铁, 吴琛, 赵来平, 李克秋, <b>朱晓强</b>. "一种基于集成宽度学习的快速高精度室内指纹定位方法", No. 202110866814.</p>
+1. <p><b>朱晓强</b>, 方首岳, 汪雨辰, 等. "一种基于自适应多原型建模的无人机射频信号分类方法", 2026.</p>
+2. <p><b>朱晓强</b>, 贾佩伦, 方首岳, 等. "面向高移动性MIMO-OFDM系统缓解信道老化的时序预测联合混合波束成形框架", 2026.</p>
+3. <p><b>朱晓强</b>, 张明博, 高睿鹏, 等. "一种基于生成学习的室内CSI无线地图构建与定位方法", 2025.</p>
+4. <p><b>朱晓强</b>, 余旺, 胡思宇, 等. "基于小样本学习的人体姿态识别算法研究", 2025.</p>
+5. <p><b>朱晓强</b>, 何炫锜, 张明博, 等. "一种基于Kolmogorov-Arnold网络和宽度学习系统的高精度CSI定位框架技术", 2025.</p>
+6. <p><b>朱晓强</b>, 胡思宇, 余旺, 等. "一种基于深度强化学习的增强型OFDM-DCSK混沌加密方法", 2025.</p>
+7. <p><b>朱晓强</b>, 胡思宇, 刘吉强, 等. "一种基于融合注意力机制原型神经网络的人体行为识别方法", No. 202411463529.7, 2024.</p>
+8. <p><b>朱晓强</b>, 张明博, 鲁凌云, 等. "基于深度与宽度学习的CSI指纹数据库优化方法", No. 2024113941670, 2024.</p>
+9. <p><b>朱晓强</b>, 刘吉强, 鲁凌云, 等. "一种基于强化学习的CSI指纹地图构建的路径规划方法", No. 202310874838.2, 2023.</p>
+10. <p><b>朱晓强</b>, 刘吉强, 张大林, 等. "一种基于模仿学习的智能自适应CSI指纹地图更新方法", No. 202310775481.2, 2023.</p>
+11. <p> 邱铁, <b>朱晓强</b>, 曲雯毓. "一种基于CSI图像的增量式智能室内定位方法", No. CN113691940A, 2022.09.27.</p>
+12. <p> 邱铁, <b>朱晓强</b>, 曲雯毓. "一种基于宽度学习的快速室内指纹定位方法", No. CN111929641A, 2022.08.09</p>
+13. <p> 邱铁, 黄慧娟, 周晓波, 张朝昆, <b>朱晓强</b>. "基于信道状态信息的心率监测方法及呼吸事件检测方法", No. 202210661544.</p>
+14. <p> 邱铁, 吴琛, 赵来平, 李克秋, <b>朱晓强</b>. "一种基于集成宽度学习的快速高精度室内指纹定位方法", No. 202110866814.</p>
 
 # 🎖 Honors and Awards
 - *2025* Research Performance Assessment Grant (Third Grade), China Postdoctoral Science Foundation
@@ -223,7 +226,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - Journal on Wireless Communications and Networking, <a href="https://www.springeropen.com/collections/imen?utm_medium=email&utm_source=generic&utm_content=null&utm_term=null&utm_campaign=APSR13638_CON1_GL_PHSS_03HEQ_fhdiacjebi">Special Issue: Integrating Large Models and Edge Sensing in Next Generation Networks.</a>
 
 ## Reviewer
-- IEEE Transactions on Mobile Computing, IEEE Journal on Selected Areas in Communications, IEEE/ACM Transactions on Networking, IEEE Transactions on Computers, IEEE Transactions on Wireless Communications, IEEE Transactions on Cognitive Communications and Networking, IEEE Internet of Things Journal, IEEE Transactions on Communications, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Consumer Electronics, IEEE MultiMedia, IEEE Transactions on Vehicular Technology, Information Sciences, Nonlinear Dynamic, IET Signal Processing, Optics and Lasers in Engineering, The Journal of Supercomputing, Peer-to-Peer Networking and Applications, China Communications, Computer Science, SCIENCE CHINA Information Sciences.
+- IEEE Transactions on Mobile Computing, IEEE Journal on Selected Areas in Communications, IEEE/ACM Transactions on Networking, IEEE Transactions on Computers, IEEE Transactions on Wireless Communications, IEEE Transactions on Cognitive Communications and Networking, IEEE Internet of Things Journal, IEEE Transactions on Communications, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Consumer Electronics, IEEE Transactions on Network and Service Management, IEEE MultiMedia, IEEE Transactions on Vehicular Technology, Information Sciences, Nonlinear Dynamic, IET Signal Processing, Optics and Lasers in Engineering, The Journal of Supercomputing, Peer-to-Peer Networking and Applications, China Communications, Computer Science, SCIENCE CHINA Information Sciences.
 - IEEE SmartIoT' 2019‑2022, IEEE CSCWD' 2020‑2021, IEEE IWQoS' 2020, IEEE iThings' 2023, DASFAA' 2025, GLOBECOM' 2025, AAAI' 2025.
 
 ## PC Member and Session Chair
@@ -255,12 +258,12 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - 贾佩伦 (在审：IEEE/ACM IWQoS 2026, 专利 * 1)
 - 方首岳 (在审：IEEE IoTJ, 专利 * 1)
 - 徐滔 (在审：EAAI)
+- 林彦孜 (在审：《信息网络安全》)
 - 曹棪 (录用：《软件导刊》)
 - 章步峰 (录用：ICAIAgent 2026)
 
 <ul class="student-inline">
   <li>汪雨辰</li>
-  <li>林彦孜</li>
   <li>庄浩然</li>
   <li>何兴悦</li>
   <li>任屹天</li>
