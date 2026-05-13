@@ -6,7 +6,7 @@ author_profile: true
 layout: default
 title: news
 news:
-- "2026.3: 🎉🎉 Good news! A paper has been accepted by IEEE IWQoS (CCF B)."
+- "2026.4: 🎉🎉 Good news! A paper has been accepted by IEEE IWQoS (CCF B)."
 - "2026.3: 🎉🎉 Good news! Two papers have been accepted by Software Guide (CCF C) and IEEE VTC."
 - "2026.2: 🎉🎉 Good news! A paper has been accepted by ICAIAgent 2026."
 - "2026.1: I have been awarded a grant under the Beijing Advanced Innovation Center for Future Blockchain and Privacy Computing, Open Program."
@@ -170,17 +170,18 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 ## Under Review Papers
 1. <p> [2区] S. Fang, Y. Wang, <b>X. Zhu*</b>, et al. "Adaptive Multi-Prototype Gaussian Prototypical Network for Few-shot UAV Spectrogram Classification", <b><i>IEEE IoTJ</i></b>, 2026.</p>
 2. <p> [2区] M. Zhang, P. Jia, S. Zhu, <b>X. Zhu*</b>, et al. "LIN-Loc: Indoor CSI Radio Map Construction and Localization Via Deep-Broad Learning System and Generative Models", <b><i>IEEE TNSE</i></b>, 2026.</p>
-3. <p> [1区] T. Xu, Y. Cao, B. Zhang, <b>X. Zhu*</b>. "LCD-Crypt: LoRA--Chaos Collaborative Image Encryption in Diffusion Latent Space with Residual-Assisted Reconstruction", <b><i>EAAI</i></b>, 2026.</p>
-4. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>IEEE TMC</i></b>, 2026.</p>
-5. <p> [CCF A] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TMC</i></b>, 2026.</p>
-6. <p> [2区] A. Hussain, <b>X. Zhu*</b>, et al. "GRETEL: A Graph Attention Network for Low-SNR Spectrum Anomaly Detection in IoT Communications", <b><i>IEEE IoTJ</i></b>, 2026.</p>
-7. <p> [CCF C] <b>X. Zhu*</b>, Y. Lin, H. Zhang, et al. "基于多维特征与动态防御的区块链联邦学习鲁棒聚合方案", <b><i>信息网络安全</i></b>, 2026.</p>
-8. <p> [EI] Y. Yang, R. Wang, X. Li, <b>X. Zhu*</b>, et al. "TPA-Seq2Seq: Tri-Prior Aligned Sequence-to-Sequence Learning for Continuous Sign Language Recognition", <b><i>IEEE SmartIoT</i></b>, 2026.</p>
-9. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, et al. "Call the Bluff: Provable Restoration of Evidential Identifiability in Non-IID Federated Learning", <b><i>IEEE TDSC</i></b>, 2026.</p>
-10. <p> [CCF A] X. Chen, Z. Yang, H. Xing, <b>X. Zhu</b>, et al. "FedCSA: Adaptive Category-Wise Semantic Alignment for Personalized Federated Learning under Distribution Shifts", <b><i>IEEE TPDS</i></b>, 2026.</p>
-11. <p> [CCF B] E. Chang, X. Che, J. Zhang, et al. "MPBA-VRAG: A Multimodal Physiological–Behavioral Affective Dataset and Benchmark for Valence–Arousal Recognition in VR Action Games", <b><i>IEEE TAC</i></b>, 2026.</p>
-12. <p> [2区] W. Chen, P. Wang, M. Zhang, F. Liu, R. Gao, <b>X. Zhu</b>, et al. "Driving Behavior Detection and Scene Recognition via Mobile Crowdsensing", <b><i>IEEE Systems Journal</i></b>, 2025.</p>
-13. <p> [1区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>ACM Computing Surveys</i></b>, 2025.</p>
+3. <p> [2区] T. Xu, Y. Cao, B. Zhang, <b>X. Zhu*</b>. "LCD-Crypt: LoRA--Chaos Collaborative Image Encryption in Diffusion Latent Space with Residual-Assisted Reconstruction", <b><i>Applied Soft Computing</i></b>, 2026.</p>
+4. <p> [CCF A] Y. Wang, S. Fang, Y. Luo, M. Zhang, <b>X. Zhu*</b>, et al. "SiamFall: Attention-Enhanced Few-Shot WiFi CSI Fall Detection via Temporal-Derivative Features", <b><i>IEEE TMC</i></b>, 2026.</p>
+5. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>IEEE TMC</i></b>, 2026.</p>
+6. <p> [CCF A] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TMC</i></b>, 2026.</p>
+7. <p> [2区] A. Hussain, <b>X. Zhu*</b>, et al. "GRETEL: A Graph Attention Network for Low-SNR Spectrum Anomaly Detection in IoT Communications", <b><i>IEEE IoTJ</i></b>, 2026.</p>
+8. <p> [CCF C] <b>X. Zhu*</b>, Y. Lin, H. Zhang, et al. "基于多维特征与动态防御的区块链联邦学习鲁棒聚合方案", <b><i>信息网络安全</i></b>, 2026.</p>
+9. <p> [EI] Y. Yang, R. Wang, X. Li, <b>X. Zhu*</b>, et al. "TPA-Seq2Seq: Tri-Prior Aligned Sequence-to-Sequence Learning for Continuous Sign Language Recognition", <b><i>IEEE SmartIoT</i></b>, 2026.</p>
+10. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, et al. "Call the Bluff: Provable Restoration of Evidential Identifiability in Non-IID Federated Learning", <b><i>IEEE TDSC</i></b>, 2026.</p>
+11. <p> [CCF A] X. Chen, Z. Yang, H. Xing, <b>X. Zhu</b>, et al. "FedCSA: Adaptive Category-Wise Semantic Alignment for Personalized Federated Learning under Distribution Shifts", <b><i>IEEE TPDS</i></b>, 2026.</p>
+12. <p> [CCF B] E. Chang, X. Che, J. Zhang, et al. "MPBA-VRAG: A Multimodal Physiological–Behavioral Affective Dataset and Benchmark for Valence–Arousal Recognition in VR Action Games", <b><i>IEEE TAC</i></b>, 2026.</p>
+13. <p> [2区] W. Chen, P. Wang, M. Zhang, F. Liu, R. Gao, <b>X. Zhu</b>, et al. "Driving Behavior Detection and Scene Recognition via Mobile Crowdsensing", <b><i>IEEE Systems Journal</i></b>, 2025.</p>
+14. <p> [1区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>ACM Computing Surveys</i></b>, 2025.</p>
     
 <!--
 8. <p> [CCF C] Y. Dong, Y. Yao, X. Chang, K. Wang, <b>X. Zhu</b>, T. Zhang. "A Post-Quantum Secure and Lightweight Telemedicine Service Scheme Based on Frodo KEM", <b><i>IEEE ICC</i></b>, 2026.</p>
@@ -260,13 +261,13 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 ## 2023级本
 - 贾佩伦 (录用：IEEE/ACM IWQoS 2026, 专利 * 1)
 - 方首岳 (在审：IEEE IoTJ, 专利 * 1)
-- 徐滔 (在审：EAAI)
+- 徐滔 (在审：Applied Soft Computing)
 - 林彦孜 (在审：《信息网络安全》)
 - 曹棪 (录用：《软件导刊》)
 - 章步峰 (录用：ICAIAgent 2026)
+- 汪雨辰 (在审：IEEE TMC)
 
 <ul class="student-inline">
-  <li>汪雨辰</li>
   <li>庄浩然</li>
   <li>何兴悦</li>
   <li>任屹天</li>
