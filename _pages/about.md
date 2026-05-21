@@ -175,13 +175,14 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 5. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>IEEE TMC</i></b>, 2026.</p>
 6. <p> [CCF A] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TMC</i></b>, 2026.</p>
 7. <p> [2区] A. Hussain, <b>X. Zhu*</b>, et al. "GRETEL: A Graph Attention Network for Low-SNR Spectrum Anomaly Detection in IoT Communications", <b><i>IEEE IoTJ</i></b>, 2026.</p>
-8. <p> [CCF C] <b>X. Zhu*</b>, Y. Lin, H. Zhang, et al. "基于多维特征与动态防御的区块链联邦学习鲁棒聚合方案", <b><i>信息网络安全</i></b>, 2026.</p>
-9. <p> [EI] Y. Yang, R. Wang, X. Li, <b>X. Zhu*</b>, et al. "TPA-Seq2Seq: Tri-Prior Aligned Sequence-to-Sequence Learning for Continuous Sign Language Recognition", <b><i>IEEE SmartIoT</i></b>, 2026.</p>
-10. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, et al. "Call the Bluff: Provable Restoration of Evidential Identifiability in Non-IID Federated Learning", <b><i>IEEE TDSC</i></b>, 2026.</p>
-11. <p> [CCF A] X. Chen, Z. Yang, H. Xing, <b>X. Zhu</b>, et al. "FedCSA: Adaptive Category-Wise Semantic Alignment for Personalized Federated Learning under Distribution Shifts", <b><i>IEEE TPDS</i></b>, 2026.</p>
-12. <p> [CCF B] E. Chang, X. Che, J. Zhang, et al. "MPBA-VRAG: A Multimodal Physiological–Behavioral Affective Dataset and Benchmark for Valence–Arousal Recognition in VR Action Games", <b><i>IEEE TAC</i></b>, 2026.</p>
-13. <p> [2区] W. Chen, P. Wang, M. Zhang, F. Liu, R. Gao, <b>X. Zhu</b>, et al. "Driving Behavior Detection and Scene Recognition via Mobile Crowdsensing", <b><i>IEEE Systems Journal</i></b>, 2025.</p>
-14. <p> [1区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>ACM Computing Surveys</i></b>, 2025.</p>
+8. <p> [CCF B] Y. Liao, Y. Liu, Y. Luo, <b>X. Zhu*</b>, et al. "基于双种子预计算分离掩码的联邦学习安全聚合框架", <b><i>计算机科学</i></b>, 2026.</p>
+9. <p> [CCF C] <b>X. Zhu*</b>, Y. Lin, H. Zhang, et al. "基于多维特征与动态防御的区块链联邦学习鲁棒聚合方案", <b><i>信息网络安全</i></b>, 2026.</p>
+10. <p> [EI] Y. Yang, R. Wang, X. Li, <b>X. Zhu*</b>, et al. "TPA-Seq2Seq: Tri-Prior Aligned Sequence-to-Sequence Learning for Continuous Sign Language Recognition", <b><i>IEEE SmartIoT</i></b>, 2026.</p>
+11. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, et al. "Call the Bluff: Provable Restoration of Evidential Identifiability in Non-IID Federated Learning", <b><i>IEEE TDSC</i></b>, 2026.</p>
+12. <p> [CCF A] X. Chen, Z. Yang, H. Xing, <b>X. Zhu</b>, et al. "FedCSA: Adaptive Category-Wise Semantic Alignment for Personalized Federated Learning under Distribution Shifts", <b><i>IEEE TPDS</i></b>, 2026.</p>
+13. <p> [CCF B] E. Chang, X. Che, J. Zhang, et al. "MPBA-VRAG: A Multimodal Physiological–Behavioral Affective Dataset and Benchmark for Valence–Arousal Recognition in VR Action Games", <b><i>IEEE TAC</i></b>, 2026.</p>
+14. <p> [2区] W. Chen, P. Wang, M. Zhang, F. Liu, R. Gao, <b>X. Zhu</b>, et al. "Driving Behavior Detection and Scene Recognition via Mobile Crowdsensing", <b><i>IEEE Systems Journal</i></b>, 2025.</p>
+15. <p> [1区] S. Tian, T. Zhang, J. Liu, J. Wang, X. Wu, <b>X. Zhu</b>, et al. "Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey", <b><i>ACM Computing Surveys</i></b>, 2025.</p>
     
 <!--
 8. <p> [CCF C] Y. Dong, Y. Yao, X. Chang, K. Wang, <b>X. Zhu</b>, T. Zhang. "A Post-Quantum Secure and Lightweight Telemedicine Service Scheme Based on Frodo KEM", <b><i>IEEE ICC</i></b>, 2026.</p>
