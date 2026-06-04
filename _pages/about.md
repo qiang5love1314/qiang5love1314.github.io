@@ -170,13 +170,13 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 1. <p> <span style="color: #FF0000;">[Whole Book]</span> <b><span style="color: #4682b4;">X. Zhu</span></b>, Y. Liu, C. Wang. "Intelligent Localization for Integrated Sensing and Communication: Machine Learning-Driven Approaches", <b><i><span style="color: #4682b4;">Springer Nature</span></i></b>, ISBN: 978-981-96-9384-9, 2025. <a href="https://link.springer.com/book/9789819693849">[Link]</a> </p>
 
 ## Under Review Papers
-1. <p> [1区] M. Zhang, R. Gao, <b>X. Zhu</b>, et al. "Filling the Black Holes: Sparse Wi-Fi Fingerprint Augmentation via GPR-GAN for Indoor Localization", <b><i>IEEE Communications Magazine</i></b>, 2026.</p>
+1. <p> [1区] M. Zhang, R. Gao, <b>X. Zhu</b>, et al. "Filling the Black Holes: Sparse Wi-Fi Fingerprint Augmentation via GPR-GAN for Indoor Localization", <b><i>IEEE Com Mag</i></b>, 2026.</p>
 2. <p> [2区] S. Fang, Y. Wang, <b>X. Zhu*</b>, et al. "Adaptive Multi-Prototype Gaussian Prototypical Network for Few-shot UAV Spectrogram Classification", <b><i>IEEE IoTJ</i></b>, 2026.</p>
 3. <p> [2区] M. Zhang, P. Jia, S. Zhu, <b>X. Zhu*</b>, et al. "LIN-Loc: Indoor CSI Radio Map Construction and Localization Via Deep-Broad Learning System and Generative Models", <b><i>IEEE TNSE</i></b>, 2026.</p>
 4. <p> [2区] T. Xu, Y. Cao, B. Zhang, <b>X. Zhu*</b>. "LCD-Crypt: LoRA--Chaos Collaborative Image Encryption in Diffusion Latent Space with Residual-Assisted Reconstruction", <b><i>Applied Soft Computing</i></b>, 2026.</p>
 5. <p> [CCF A] Y. Wang, S. Fang, Y. Luo, M. Zhang, <b>X. Zhu*</b>, et al. "SiamFall: Attention-Enhanced Few-Shot WiFi CSI Fall Detection via Temporal-Derivative Features", <b><i>IEEE TMC</i></b>, 2026.</p>
 6. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>IEEE TMC</i></b>, 2026.</p>
-7. <p> [CCF A] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE TMC</i></b>, 2026.</p>
+7. <p> [2区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE IoTJ</i></b>, 2026.</p>
 8. <p> [2区] A. Hussain, <b>X. Zhu*</b>, et al. "GRETEL: A Graph Attention Network for Low-SNR Spectrum Anomaly Detection in IoT Communications", <b><i>IEEE IoTJ</i></b>, 2026.</p>
 9. <p> [CCF B] Y. Liao, Y. Liu, Y. Luo, <b>X. Zhu*</b>, et al. "基于双种子预计算分离掩码的联邦学习安全聚合框架", <b><i>计算机科学</i></b>, 2026.</p>
 10. <p> [CCF C] <b>X. Zhu*</b>, Y. Lin, H. Zhang, et al. "基于多维特征与动态防御的区块链联邦学习鲁棒聚合方案", <b><i>信息网络安全</i></b>, 2026.</p>
@@ -248,11 +248,11 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 
 # 🧑‍💻 Students
 ## 2025级博
-- 张明博 (录用：IEEE IoT Mag, IEEE MSN, IEEE ICC workshop, 专利 * 2。在审：IEEE TNSE)
+- 张明博 (录用：IEEE IoT Mag, IEEE MSN, IEEE ICC workshop, 专利 * 2。在审：IEEE TNSE, IEEE Com Mag)
 
 ## 2023级硕
-- 胡思宇 (录用：IEEE MSN, ICONIP, 专利 * 2)
-- 任城仪 (录用：《软件导刊》)
+- 胡思宇 (录用：IEEE MSN, ICONIP, 专利 * 2。纵横旅行工作)
+- 任城仪 (录用：《软件导刊》。国家公务员工作)
 - 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》。在审：IEEE TMC, 西安交大读博)
   
 ## 2024级本
@@ -320,7 +320,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 </style>
   
 ## 2022级本
-- 余旺（录用：专利 * 1, 在审：IEEE TMC, 推免至北邮）
+- 余旺（录用：专利 * 1, 在审：IEEE IoTJ, 推免至北邮）
 - 何炫绮（录用：专利 * 1, IEEE ICPADS, 推免至电子科大）
 
 <!-- # 💻 My blog -->
