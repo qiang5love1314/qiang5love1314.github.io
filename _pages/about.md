@@ -177,7 +177,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 3. <p> [2区] M. Zhang, P. Jia, S. Zhu, <b>X. Zhu*</b>, et al. "LIN-Loc: Indoor CSI Radio Map Construction and Localization Via Deep-Broad Learning System and Generative Models", <b><i>IEEE TNSE</i></b>, 2026.</p>
 4. <p> [2区] T. Xu, Y. Cao, B. Zhang, <b>X. Zhu*</b>. "LCD-Crypt: LoRA--Chaos Collaborative Image Encryption in Diffusion Latent Space with Residual-Assisted Reconstruction", <b><i>Applied Soft Computing</i></b>, 2026.</p>
 5. <p> [CCF A] Y. Wang, S. Fang, Y. Luo, M. Zhang, <b>X. Zhu*</b>, et al. "SiamFall: Attention-Enhanced Few-Shot WiFi CSI Fall Detection via Temporal-Derivative Features", <b><i>IEEE TMC</i></b>, 2026.</p>
-6. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>IEEE TMC</i></b>, 2026.</p>
+6. <p> [CCF A] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>SCIS</i></b>, 2026.</p>
 7. <p> [2区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE IoTJ</i></b>, 2026.</p>
 8. <p> [CCF B] E. Chang, X. Che, J. Zhang, et al. "MPBA-VRAG: A Multimodal Physiological–Behavioral Affective Dataset and Benchmark for Valence–Arousal Recognition in VR Action Games", <b><i>IEEE TAC</i></b>, 2026.</p>
 9. <p> [CCF B] Y. Liao, Y. Liu, Y. Luo, <b>X. Zhu*</b>, et al. "基于双种子预计算分离掩码的联邦学习安全聚合框架", <b><i>计算机科学</i></b>, 2026.</p>
@@ -253,9 +253,9 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - 张明博 (录用：IEEE IoT Mag, IEEE MSN, IEEE ICC workshop, 专利 * 2。在审：IEEE TNSE, IEEE Com Mag)
 
 ## 2023级硕
-- 胡思宇 (录用：IEEE MSN, ICONIP, 专利 * 2。纵横旅行工作)
+- 胡思宇 (录用：IEEE MSN, ICONIP, 专利 * 2。航旅纵横工作)
 - 任城仪 (录用：《软件导刊》。国家公务员工作)
-- 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》。在审：IEEE TMC, 西安交大读博)
+- 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》。在审：SCIS, 西安交大读博)
   
 ## 2024级本
 <ul class="student-inline">
