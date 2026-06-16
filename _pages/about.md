@@ -6,6 +6,7 @@ author_profile: true
 layout: default
 title: news
 news:
+- "2026.6: Our team has recently been awarded 1 national-level and 3 Beijing municipal-level College Students’ Innovation and Entrepreneurship Training Program projects. And two supervised students received university-level Outstanding Undergraduate Thesis and Outstanding Master’s Thesis awards, respectively."
 - "2026.6: 🎉🎉 Good news! A paper has been accepted by IEEE IoTJ."
 - "2026.5: 🎉🎉 Good news! A paper has been accepted by BCRA (CCF B)."
 - "2026.4: 🎉🎉 Good news! A paper has been accepted by IEEE IWQoS (CCF B)."
@@ -253,7 +254,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - 张明博 (录用：IEEE IoT Mag, IEEE MSN, IEEE ICC workshop, 专利 * 2。在审：IEEE TNSE, IEEE Com Mag)
 
 ## 2023级硕
-- 胡思宇 (录用：IEEE MSN, ICONIP, 专利 * 2。航旅纵横工作)
+- 胡思宇 (录用：IEEE MSN, ICONIP, 专利 * 2。校级优秀硕士论文，航旅纵横工作)
 - 任城仪 (录用：《软件导刊》。国家公务员工作)
 - 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》。在审：SCIS, 西安交大读博)
   
