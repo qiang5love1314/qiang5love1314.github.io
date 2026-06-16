@@ -130,7 +130,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 # 📝 Publications 
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Published Papers
-1. <p> <span style="color: #FF0000;">[2区]</span> A. Hussain, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "GRETEL: A Graph Attention Network for Low-SNR Spectrum Anomaly Detection in IoT Communications", <b><i><span style="color: #4682b4;">IEEE IoTJ</span></i></b>, 2026.</p>
+1. <p> <span style="color: #FF0000;">[1区]</span> A. Hussain, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "GRETEL: A Graph Attention Network for Low-SNR Spectrum Anomaly Detection in IoT Communications", <b><i><span style="color: #4682b4;">IEEE IoTJ</span></i></b>, 2026.</p>
 2. <p> <span style="color: #FF0000;">[CCF B]</span> C. Hu, T. Xiao, J. Gao, Y. Zhao, Y. Li, <b><span style="color: #4682b4;">X. Zhu</span></b>, et al. "Detrax: Deterministic Parallel Transaction Scheduling for the ChainMaker Blockchain", <b><i><span style="color: #4682b4;">BCRA</span></i></b>, 2026.</p>
 3. <p> <span style="color: #FF0000;">[CCF B]</span> P. Jia, H. Zhang, M. Zhang, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "Temporal Predictive Joint Hybrid Beamforming Framework for Mitigating Channel Aging in High-Mobility MIMO-OFDM Systems", <b><i><span style="color: #4682b4;">IEEE/ACM IWQoS</span></i></b>, 2026.</p>
 4. <p> <span style="color: #FF0000;">[EI]</span> X. Duan, W. Feng*, R. Zhang, C. Wang, <b><span style="color: #4682b4;">X. Zhu*</span></b>, W. Wu. "Reliability-Aware Multimodal Perception for 6G-Empowered Robotic Vehicles", <b><i><span style="color: #4682b4;">IEEE VTC</span></i></b>, 2026.</p>
@@ -174,7 +174,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 
 ## Under Review Papers
 1. <p> [1区] M. Zhang, R. Gao, <b>X. Zhu</b>, et al. "Filling the Black Holes: Sparse Wi-Fi Fingerprint Augmentation via GPR-GAN for Indoor Localization", <b><i>IEEE Com Mag</i></b>, 2026.</p>
-2. <p> [2区] S. Fang, Y. Wang, <b>X. Zhu*</b>, et al. "Adaptive Multi-Prototype Gaussian Prototypical Network for Few-shot UAV Spectrogram Classification", <b><i>IEEE IoTJ</i></b>, 2026.</p>
+2. <p> [1区] S. Fang, Y. Wang, <b>X. Zhu*</b>, et al. "Adaptive Multi-Prototype Gaussian Prototypical Network for Few-shot UAV Spectrogram Classification", <b><i>IEEE IoTJ</i></b>, 2026.</p>
 3. <p> [2区] M. Zhang, P. Jia, S. Zhu, <b>X. Zhu*</b>, et al. "LIN-Loc: Indoor CSI Radio Map Construction and Localization Via Deep-Broad Learning System and Generative Models", <b><i>IEEE TNSE</i></b>, 2026.</p>
 4. <p> [2区] T. Xu, Y. Cao, B. Zhang, <b>X. Zhu*</b>. "LCD-Crypt: LoRA--Chaos Collaborative Image Encryption in Diffusion Latent Space with Residual-Assisted Reconstruction", <b><i>Applied Soft Computing</i></b>, 2026.</p>
 5. <p> [CCF A] Y. Wang, S. Fang, Y. Luo, M. Zhang, <b>X. Zhu*</b>, et al. "SiamFall: Attention-Enhanced Few-Shot WiFi CSI Fall Detection via Temporal-Derivative Features", <b><i>IEEE TMC</i></b>, 2026.</p>
