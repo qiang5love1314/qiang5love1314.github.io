@@ -70,11 +70,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🧑‍🏫  About me
-I received the Ph.D. degree in software engineering from Tianjin University, China, in 2022, and the M.S. degree in computer science from Dalian University of Technology, China, in 2018. I was a jointly doctoral student at ETH Zurich, Switzerland, with CSC funding in 2021. 
+I am currently an Assistant Professor with the School of Cyberspace Science and Technology, Beijing Jiaotong University, China. I received the Ph.D. degree in software engineering from Tianjin University, China, in 2022, and was a joint doctoral researcher at ETH Zurich, Switzerland, with CSC funding in 2021.
 
-I am currently a Lecturer with the School of Cyberspace Science and Technology, <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University, China</a>. My primary research interests lie in Machine Learning, Privacy Protection, and the Internet of Things (IoT). Additionally, I engage in research related to Computer Vision, focusing on encryption algorithms based on chaos theory. My passion for leveraging artificial intelligence to address and solve real-world problems drives my work. 
-
-I am committed to fostering collaboration and knowledge-sharing within the academic community. By integrating interdisciplinary approaches, I strive to contribute to the evolution of intelligent systems and their applications in solving complex challenges.
+My research interests include integrated sensing and communication (ISAC), wireless sensing and signal intelligence, representation learning in dynamic environments, and trustworthy edge intelligence. My work integrates machine learning, sensing-oriented communication design, and intelligent system validation to study adaptive information acquisition and robust perception under practical resource constraints, with applications to 6G, IoT, and edge-enabled cyber-physical systems.
 
 # 🔥 News
 <ul>
