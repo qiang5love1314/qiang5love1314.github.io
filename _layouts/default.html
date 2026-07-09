@@ -10,7 +10,7 @@ layout: compress
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Floating RevolverMaps</title>
-    <style>
+    <!-- <style>
         #floating-map {
             position: fixed;
             bottom: 5px;
@@ -19,7 +19,27 @@ layout: compress
             height: 180px;
             z-index: 1000;
         }
-    </style> 
+    </style> -->
+    <style>
+      #floating-map {
+        position: fixed;
+        right: 8px;
+        bottom: 8px;
+        width: 180px;
+        height: 180px;
+        z-index: 2147483647;
+        overflow: visible;
+      }
+    
+      #floating-map #mmvst_a,
+      #floating-map .mmvst_outer,
+      #floating-map .mmvst_inner {
+        width: 180px !important;
+        height: 180px !important;
+        display: block !important;
+      }
+    </style>
+    
   </head>
 
   <body>
@@ -42,11 +62,13 @@ layout: compress
 
     {% include scripts.html %}
 
+<script>
+  window.globe_jq = window.jQuery || window.$;
+</script>
+  
 <div id="floating-map">
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=aEDDGV_bumusDMnzOXzylVOhXCxIGuxB8DMooUQpo6Q"></script>
+<script async id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=aEDDGV_bumusDMnzOXzylVOhXCxIGuxB8DMooUQpo6Q"></script>
 </div>
-
-
     
 <footer>
       <div class="row">
