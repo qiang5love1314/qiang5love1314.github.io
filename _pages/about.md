@@ -218,6 +218,8 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 14. <p> 邱铁, 吴琛, 赵来平, 李克秋, <b>朱晓强</b>. "一种基于集成宽度学习的快速高精度室内指纹定位方法", No. 202110866814.</p>
 
 # 🎖 Honors and Awards
+- *2026* Distinguished Paper, Ubiquitous Trustworthy Intelligence International Academic Conference (UTI 2026)
+- *2026* Advisor of University Outstanding Bachelor’s and Master’s Theses
 - *2025* Research Performance Assessment Grant (Third Grade), China Postdoctoral Science Foundation
 - *2025* Excellent Lead Lecturer for “Data Structures”, Beijing Jiaotong University
 - *2025* First Prize of the Science and Technology Progress Award, China Federation of Logistics and Purchasing
