@@ -184,7 +184,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 4. <p> [2区] M. Zhang, P. Jia, S. Zhu, <b>X. Zhu*</b>, et al. "LIN-Loc: Indoor CSI Radio Map Construction and Localization Via Deep-Broad Learning System and Generative Models", <b><i>IEEE TNSE</i></b>, 2026.</p>
 5. <p> [2区] T. Xu, Y. Cao, B. Zhang, <b>X. Zhu*</b>. "LCD-Crypt: LoRA--Chaos Collaborative Image Encryption in Diffusion Latent Space with Residual-Assisted Reconstruction", <b><i>Applied Soft Computing</i></b>, 2026.</p>
 6. <p> [CCF A] Y. Wang, S. Fang, Y. Luo, M. Zhang, <b>X. Zhu*</b>, et al. "SiamFall: Attention-Enhanced Few-Shot WiFi CSI Fall Detection via Temporal-Derivative Features", <b><i>IEEE TMC</i></b>, 2026.</p>
-7. <p> [CCF B] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>Computer Networks</i></b>, 2026.</p>
+7. <p> [2区] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>Applied Soft Computing</i></b>, 2026.</p>
 8. <p> [CCF C] <b>X. Zhu*</b>, Y. Lin, H. Zhang, et al. "基于多维特征与动态防御的区块链联邦学习鲁棒聚合方案", <b><i>信息网络安全</i></b>, 2026.</p>
 9. <p> [CCF B] E. Chang, X. Che, J. Zhang, et al. "MPBA-VRAG: A Multimodal Physiological–Behavioral Affective Dataset and Benchmark for Valence–Arousal Recognition in VR Action Games", <b><i>IEEE TAC</i></b>, 2026.</p>
 10. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, et al. "Call the Bluff: Provable Restoration of Evidential Identifiability in Non-IID Federated Learning", <b><i>IEEE TDSC</i></b>, 2026.</p>
@@ -261,7 +261,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 ## 2023级硕
 - 胡思宇 (录用：IEEE MSN, ICONIP, 专利 * 2。校级优秀硕士论文，航旅纵横工作)
 - 任城仪 (录用：《软件导刊》。国家公务员工作)
-- 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》。在审：Computer Networks, 西安交大读博)
+- 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》。在审：Applied Soft Computing, 西安交大读博)
   
 ## 2024级本
 <ul class="student-inline">
@@ -279,11 +279,11 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - 章步峰 (录用：ICAIAgent 2026)
 - 汪雨辰 (在审：IEEE TMC)
 
-<ul class="student-inline">
+<!-- <ul class="student-inline">
   <li>庄浩然</li>
   <li>何兴悦</li>
   <li>任屹天</li>
-</ul>
+</ul> -->
 
 <style>
   /* ===== 横向姓名分布（无卡片） ===== */
