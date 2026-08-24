@@ -180,7 +180,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 ## Under Review Papers
 1. <p> [2区] C. Zhang, L. Lu, W. Ni, <b>X. Zhu</b>. "Pragmatics-Aware Token Selection and Scheduling for Generative Semantic Communication over Time-Varying Channels", <b><i>IEEE Com Letters</i></b>, 2026.</p>
 2. <p> [1区] M. Zhang, R. Gao, <b>X. Zhu</b>, et al. "Filling the Black Holes: Sparse Wi-Fi Fingerprint Augmentation via GPR-GAN for Indoor Localization", <b><i>IEEE Com Mag</i></b>, 2026.</p>
-3. <p> [1区] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>IEEE IoTJ</i></b>, 2026.</p>
+3. <p> [CCF B] W. Yu, S. Hu, L. Zhang, <b>X. Zhu*</b>, et al. "Sia-RSNet: A Siamese Network Model Integrating Resnet and Squeeze-and-Excitation for Human Activity Recognition", <b><i>CCF TPCI</i></b>, 2026.</p>
 4. <p> [2区] M. Zhang, P. Jia, S. Zhu, <b>X. Zhu*</b>, et al. "LIN-Loc: Indoor CSI Radio Map Construction and Localization Via Deep-Broad Learning System and Generative Models", <b><i>IEEE TNSE</i></b>, 2026.</p>
 5. <p> [2区] T. Xu, Y. Cao, B. Zhang, <b>X. Zhu*</b>. "LCD-Crypt: LoRA--Chaos Collaborative Image Encryption in Diffusion Latent Space with Residual-Assisted Reconstruction", <b><i>Applied Soft Computing</i></b>, 2026.</p>
 6. <p> [CCF A] Y. Wang, S. Fang, Y. Luo, M. Zhang, <b>X. Zhu*</b>, et al. "SiamFall: Attention-Enhanced Few-Shot WiFi CSI Fall Detection via Temporal-Derivative Features", <b><i>IEEE TMC</i></b>, 2026.</p>
@@ -328,7 +328,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 </style>
   
 ## 2022级本
-- 余旺（录用：专利 * 1, 在审：IEEE IoTJ, 推免至北邮）
+- 余旺（录用：专利 * 1, 在审：CCF TPCI, 推免至北邮）
 - 何炫绮（录用：专利 * 1, IEEE ICPADS, 推免至电子科大）
 
 <!-- # 💻 My blog -->
