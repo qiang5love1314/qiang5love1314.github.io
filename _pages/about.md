@@ -243,11 +243,11 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - Journal on Wireless Communications and Networking, <a href="https://www.springeropen.com/collections/imen?utm_medium=email&utm_source=generic&utm_content=null&utm_term=null&utm_campaign=APSR13638_CON1_GL_PHSS_03HEQ_fhdiacjebi">Special Issue: Integrating Large Models and Edge Sensing in Next Generation Networks.</a>
 
 ## Reviewer
-- IEEE Transactions on Mobile Computing, IEEE Journal on Selected Areas in Communications, IEEE/ACM Transactions on Networking, IEEE Transactions on Computers, IEEE Transactions on Wireless Communications, IEEE Transactions on Cognitive Communications and Networking, IEEE Internet of Things Journal, IEEE Transactions on Communications, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Consumer Electronics, IEEE Transactions on Network and Service Management, IEEE MultiMedia, IEEE Transactions on Vehicular Technology, Information Sciences, Nonlinear Dynamic, IET Signal Processing, Optics and Lasers in Engineering, The Journal of Supercomputing, Peer-to-Peer Networking and Applications, China Communications, Computer Science, SCIENCE CHINA Information Sciences, Engineering Applications of Artificial Intelligence.
+- IEEE TMC, IEEE JSAC, IEEE/ACM TON, IEEE TC, IEEE TWC, IEEE TCCN, IEEE IoTJ, IEEE TCOM, IEEE CL, IEEE WCL, IEEE TNSE, IEEE TCE, IEEE TNSM, IEEE MM, IEEE TVT, IEEE JBHI, Inf. Sci., Nonlinear Dyn., IET Signal Process., Opt. Lasers Eng., J. Supercomput., Peer-to-Peer Netw. Appl., China Commun., Computer Science, Sci. China Inf. Sci., Eng. Appl. Artif. Intell.
 - IEEE SmartIoT' 2019‑2022, IEEE CSCWD' 2020‑2021, IEEE IWQoS' 2020, IEEE iThings' 2023, DASFAA' 2025, GLOBECOM' 2025, AAAI' 2025.
 
 ## PC Member and Session Chair
-- IJCAI 2026, AAAI 2026, IEEE CSCWD 2020, IEEE SmartIoT 2019. 
+- IJCAI 2026, AAAI 2026, HPCC 2026, Embodied AI 2026, IEEE CSCWD 2020, IEEE SmartIoT 2019. 
 
 # 🏫 Supervising and Mentoring Activities
 - Data Structure, M310002B
@@ -259,6 +259,13 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 # 🧑‍💻 Students
 ## 2025级博
 - 张明博 (录用：IEEE IoT Mag, IEEE MSN, IEEE ICC workshop, 专利 * 2。在审：IEEE TNSE, IEEE Com Mag)
+
+## 2026级硕
+- 蔡昌昊（在审：AAAI）
+- 孙雨铎
+
+## 2025级硕
+- 王玲玉
 
 ## 2023级硕
 - 胡思宇 (录用：IEEE MSN, ICONIP, 专利 * 2。校级优秀硕士论文，航旅纵横工作)
