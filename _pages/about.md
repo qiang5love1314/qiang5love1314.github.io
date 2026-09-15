@@ -186,7 +186,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 4. <p> [2区] M. Zhang, P. Jia, S. Zhu, <b>X. Zhu*</b>, et al. "LIN-Loc: Indoor CSI Radio Map Construction and Localization Via Deep-Broad Learning System and Generative Models", <b><i>IEEE TNSE</i></b>, 2026.</p>
 5. <p> [2区] T. Xu, Y. Cao, B. Zhang, <b>X. Zhu*</b>. "LCD-Crypt: LoRA--Chaos Collaborative Image Encryption in Diffusion Latent Space with Residual-Assisted Reconstruction", <b><i>Applied Soft Computing</i></b>, 2026.</p>
 6. <p> [CCF A] Y. Wang, S. Fang, Y. Luo, M. Zhang, <b>X. Zhu*</b>, et al. "SiamFall: Attention-Enhanced Few-Shot WiFi CSI Fall Detection via Temporal-Derivative Features", <b><i>IEEE TMC</i></b>, 2026.</p>
-7. <p> [2区] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>Applied Soft Computing</i></b>, 2026.</p>
+7. <p> [JCR Q1] H. Zhang, J. Xie, Y. Lin, <b>X. Zhu*</b>, et al. "PAFL: A Multi-Pool GAN and Pipelined Consensus Framework for Robust and Secure Aggregation", <b><i>IEEE TAI</i></b>, 2026.</p>
 8. <p> [CCF C] A. Hussain, <b>X. Zhu*</b>. "SpecSense: A Multi-Feature Transformer Approach for Reliable Low-SNR Spectrum Sensing in Mobile Systems", <b><i>IEEE ICC</i></b>, 2026.</p>
 9. <p> [CCF B] E. Chang, X. Che, J. Zhang, et al. "MPBA-VRAG: A Multimodal Physiological–Behavioral Affective Dataset and Benchmark for Valence–Arousal Recognition in VR Action Games", <b><i>IEEE TAC</i></b>, 2026.</p>
 10. <p> [CCF A] W. Kong, Z. Ji, X. Zhang, <b>X. Zhu</b>, et al. "Call the Bluff: Provable Restoration of Evidential Identifiability in Non-IID Federated Learning", <b><i>IEEE TDSC</i></b>, 2026.</p>
@@ -262,7 +262,11 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 
 ## 2026级硕
 - 蔡昌昊（在审：AAAI）
-- 孙雨铎
+<ul class="student-inline">
+  <li>孙雨铎</li>
+  <li>窦一鸣</li>
+  <li>文锦扬</li>
+</ul>
 
 ## 2025级硕
 - 王玲玉
@@ -270,13 +274,20 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 ## 2023级硕
 - 胡思宇 (录用：IEEE MSN, ICONIP, 专利 * 2。校级优秀硕士论文，航旅纵横工作)
 - 任城仪 (录用：《软件导刊》。国家公务员工作)
-- 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》。在审：Applied Soft Computing, 西安交大读博)
-  
+- 张皓文 (录用：《中国科学：信息科学》, 《信息网络安全》。在审：IEEE TAI, 西安交大读博)
+
+## 2025级本
+<ul class="student-inline">
+  <li>崔耿畅</li>
+</ul>
+
 ## 2024级本
 <ul class="student-inline">
   <li>邹安</li>
   <li>陈予暄</li>
   <li>占杰鑫</li>
+  <li>徐恒佳</li>
+  <li>任雪蕊</li>
 </ul>
 
 ## 2023级本
