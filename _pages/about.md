@@ -133,7 +133,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 # 📝 Publications 
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Published Papers
-1. <p> <span style="color: #FF0000;">[CCF C]</span> J. Zhong, J. Zhang, Z., P. Ding, Y. Yao, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "Bridging the Semantic-Structural Gap: A Structure-Aware RAG Framework for Traceability Link Recovery", <b><i><span style="color: #4682b4;">APSEC</span></i></b>, 2026.</p>
+1. <p> <span style="color: #FF0000;">[CCF C]</span> J. Zhong, J. Zhang, Z., P. Ding, Y. Yao, <b><span style="color: #4682b4;">X. Zhu</span></b>, et al. "Bridging the Semantic-Structural Gap: A Structure-Aware RAG Framework for Traceability Link Recovery", <b><i><span style="color: #4682b4;">APSEC</span></i></b>, 2026.</p>
 2. <p> <span style="color: #FF0000;">[CCF C]</span> <b><span style="color: #4682b4;">X. Zhu*</span></b>, Y. Lin, H. Zhang, et al. "基于多维特征与动态防御的区块链联邦学习鲁棒聚合方案", <b><i><span style="color: #4682b4;">信息网络安全</span></i></b>, 2026.</p>
 3. <p> <span style="color: #FF0000;">[1区]</span> S. Fang, Y. Wang, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "Adaptive Multi-Prototype Gaussian Prototypical Network for Few-shot UAV Spectrogram Classification", <b><i><span style="color: #4682b4;">IEEE IoTJ</span></i></b>, 2026.</p>
 4. <p> <span style="color: #FF0000;">[CCF B]</span> Y. Liao, Y. Liu, Y. Luo, <b><span style="color: #4682b4;">X. Zhu*</span></b>, et al. "基于双种子预计算分离掩码的联邦学习安全聚合框架", <b><i><span style="color: #4682b4;">计算机科学</span></i></b>, 2026.</p>
