@@ -6,7 +6,7 @@ author_profile: true
 layout: default
 title: news
 news:
-- "2026.8: 🎉🎉 Good news! Our team received the Gold and Silver Awards at the 30th National Exhibition of Inventions for the project."
+- "2026.9: 🎉🎉 Good news! Our team received the Gold and Silver Awards at the 30th National Exhibition of Inventions for the project."
 - "2026.8: 🎉🎉 Good news! A paper has been accepted by NETINFO SECURITY (CCF C)."
 - "2026.7: 🎉🎉 Good news! A paper has been accepted by IEEE IoTJ."
 - "2026.6: 🎉🎉 Good news! A paper has been accepted by Computer Science (CCF B)."
