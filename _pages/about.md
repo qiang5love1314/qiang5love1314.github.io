@@ -6,6 +6,7 @@ author_profile: true
 layout: default
 title: news
 news:
+- "2026.8: 🎉🎉 Good news! Our team received the Gold and Silver Awards at the 30th National Exhibition of Inventions for the project."
 - "2026.8: 🎉🎉 Good news! A paper has been accepted by NETINFO SECURITY (CCF C)."
 - "2026.7: 🎉🎉 Good news! A paper has been accepted by IEEE IoTJ."
 - "2026.6: 🎉🎉 Good news! A paper has been accepted by Computer Science (CCF B)."
@@ -221,6 +222,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 14. <p> 邱铁, 吴琛, 赵来平, 李克秋, <b>朱晓强</b>. "一种基于集成宽度学习的快速高精度室内指纹定位方法", No. 202110866814.</p>
 
 # 🎖 Honors and Awards
+- *2026* Gold and Silver Awards, The 30th National Exhibition of Inventions, Rank 2
 - *2026* Distinguished Paper, Ubiquitous Trustworthy Intelligence International Academic Conference (UTI 2026)
 - *2026* Advisor of University Outstanding Bachelor’s and Master’s Theses
 - *2025* Research Performance Assessment Grant (Third Grade), China Postdoctoral Science Foundation
@@ -236,7 +238,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - *2019* 1st Award Postgraduate Scholarship, Tianjin University
 - *2018* Outstanding Postgraduate Student, Dalian University of Technology
 - *2017* 1st Award Postgraduate Scholarship, Dalian University of Technology
-- *2016* Outstanding Postgraduate Student, Education funding item of Liaoning province
+- *2016* Outstanding Postgraduate Student, Education funding item of Liaoning Province
 - *2015* National Inspirational Scholarship, Ministry of Education of the People’s Republic of China
 
 # 💻 Academic Services
