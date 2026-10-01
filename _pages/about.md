@@ -282,6 +282,8 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 ## 2025级本
 <ul class="student-inline">
   <li>崔耿畅</li>
+  <li>孙思翰</li>
+  <li>康民岳</li>
 </ul>
 
 ## 2024级本
