@@ -296,19 +296,13 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 </ul>
 
 ## 2023级本
-- 贾佩伦 (录用：IEEE/ACM IWQoS 2026, 专利 * 1)
-- 方首岳 (录用：IEEE IoTJ, 专利 * 1)
-- 徐滔 (在审：Applied Soft Computing)
+- 贾佩伦 (录用：IEEE/ACM IWQoS 2026, 专利 * 1, 推免至北大)
+- 方首岳 (录用：IEEE IoTJ, 专利 * 1, 推免至上海科大)
+- 徐滔 (在审：Applied Soft Computing, 推免至北邮)
 - 林彦孜 (录用：《信息网络安全》)
-- 曹棪 (录用：《软件导刊》)
-- 章步峰 (录用：ICAIAgent 2026)
-- 汪雨辰 (在审：IEEE TMC)
-
-<!-- <ul class="student-inline">
-  <li>庄浩然</li>
-  <li>何兴悦</li>
-  <li>任屹天</li>
-</ul> -->
+- 曹棪 (录用：《软件导刊》, 推免至北交大)
+- 章步峰 (录用：ICAIAgent 2026, 推免至北交大)
+- 汪雨辰 (在审：IEEE TMC, 推免至北交大)
 
 <style>
   /* ===== 横向姓名分布（无卡片） ===== */
