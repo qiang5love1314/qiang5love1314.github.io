@@ -264,7 +264,7 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 - 张明博 (录用：IEEE IoT Mag, IEEE MSN, IEEE ICC workshop, 专利 * 2。在审：IEEE TNSE, IEEE Com Mag)
 
 ## 2026级硕
-- 蔡昌昊（在审：AAAI）
+- 蔡昌昊（在审：SenSyS, WWW, CVPR, SECON）
 <ul class="student-inline">
   <li>孙雨铎</li>
   <li>窦一鸣</li>
