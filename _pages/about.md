@@ -287,12 +287,12 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 </ul>
 
 ## 2024级本
+- 徐恒佳 (在审：IMC)
+- 任雪蕊 (在审：DASFAA)
 <ul class="student-inline">
   <li>邹安</li>
   <li>陈予暄</li>
   <li>占杰鑫</li>
-  <li>徐恒佳</li>
-  <li>任雪蕊</li>
 </ul>
 
 ## 2023级本
