@@ -265,9 +265,9 @@ M.S., Computer Science, <a href="https://www.dlut.edu.cn/">Dalian University of 
 
 ## 2026级硕
 - 蔡昌昊（在审：SenSyS, WWW, CVPR, SECON）
+- 孙雨铎（在审：IEEE TIFS）
+- 窦一鸣（在审：IEEE S&P 2027）
 <ul class="student-inline">
-  <li>孙雨铎</li>
-  <li>窦一鸣</li>
   <li>文锦扬</li>
 </ul>
 
